@@ -16,7 +16,7 @@ Time is the fundamental independent variable of the natural sciences — the one
 
 Recent work:
 
-[Stepwise Chemical Abrasion ID-TIMS-Tea of Hadean Jack Hills Zircon Microfragments][https://goldschmidt.info/2017/abstracts/abstractView?id=2017004865]
+[Stepwise Chemical Abrasion ID-TIMS-Tea of Hadean Jack Hills Zircon Microfragments](https://goldschmidt.info/2017/abstracts/abstractView?id=2017004865)
 
 
 Computation
@@ -26,4 +26,4 @@ Where geochronology allows us to quantify the passage of time with great precisi
 
 Recent work:
 
-[Plate tectonics and continental basaltic geochemistry throughout Earth history][http://www.sciencedirect.com/science/article/pii/S0012821X1730599X]
+[Plate tectonics and continental basaltic geochemistry throughout Earth history](http://www.sciencedirect.com/science/article/pii/S0012821X1730599X)
