@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C. Brenhin Keller"
+title                    : "CBK"
 title_separator          : "-"
 name                     : &name "C. Brenhin Keller"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CBK"
+  name             : "C. Brenhin Keller"
   avatar           : "profile.png"
   bio              : "Postdoctoral Fellow, Berkeley Geochronology Center"
   location         :
