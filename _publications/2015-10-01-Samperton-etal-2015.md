@@ -6,5 +6,5 @@ excerpt: 'Collaborative work with Kyle Samperton, who conducted high-precision g
 date: 2015-10-01
 venue: 'Chemical Geology'
 paperurl: 'https://doi.org/10.1016/j.chemgeo.2015.10.024'
-citation: 'Kyle Samperton, Blair Schoene, John M Cottle, C. Brenhin Keller, Jim L Crowley, and Mark D Schmitz. (2015). <i>Chemical Geology<\i> 417, 322-340.'
+citation: 'Kyle Samperton, Blair Schoene, John M Cottle, C. Brenhin Keller, James L. Crowley, and Mark D. Schmitz. (2015). <i>Chemical Geology</i> 417, 322-340.'
 ---
