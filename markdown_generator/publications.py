@@ -97,9 +97,8 @@ for row, item in publications.iterrows():
 
     if len(str(item.pdf_url)) > 5:
         md += "\n\n<a href='" + item.pdf_url + "'>PDF</a>\n" 
-        
-    #    
-    #md += "\nRecommended citation: " + item.citation
+            
+    md += "\ncitation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
