@@ -12,7 +12,7 @@ I hope to contribute to our understanding of the Earth system using two key meth
 
 Geochronology
 ======
-Time is the fundamental independent variable of the natural sciences — the one one variable whose variation cannot be impeded or reversed — and as such has a unique ability to unite disparate fields of Earth science through quantifying rates, establishing temporal correlations, and testing causal links. In particular, high temporal precision geochronology is crucial to our understanding of processes ranging from mass extinctions to magmatic differentiation.
+Time is the fundamental independent variable of the natural sciences — the progress of which cannot be impeded or reversed — and as such has a unique ability to unite disparate fields of Earth science through quantifying rates, establishing temporal correlations, and testing causal links. In particular, high temporal precision geochronology is crucial to our understanding of processes ranging from mass extinctions to magmatic differentiation. At present, I am working on or contributing to a range of projects in this area, including a project to redetermine several key U isotope decay constants at Lawrence Livermore National Laboratory
 
 Recent work:
 
