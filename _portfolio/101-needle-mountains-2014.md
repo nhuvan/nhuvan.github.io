@@ -1,14 +1,15 @@
 ---
 title: "Needle Mountains, Colorado"
-excerpt: "Proterozoic magmatism<br/><img src='/images/EaInset.jpg'>"
+excerpt: "Involute comagmatic contact between the ~1.43 Ga the Eolus and Trimble granites.<br/><img src='/images/EaInset.jpg'>"
 collection: portfolio
 ---
 
-Involute comagmatic intrusive contact between the Eolus and Trimble granites.
-<img src='/images/EaMap.jpg'>
+The involute comagmatic contact between the ~1.43 Ga Eolus Granite and central Trimble Granite on East Silver Mesa, mapped at 1:2200 scale.
+<a href='/images/EaMap.jpg'><img src='/images/EaMap.jpg'></a>
+<a href='/images/EaInset.jpg'><img src='/images/EaInset.jpg'></a>
 
-The Great Unconformity exposed at 12,000' in the Needle Mountains, where the Cambrian Ignacio Quartzite unconformably overlies the 1.43 Ga Eolus Granite.
-<img src='/images/Eolus1.jpg'>
+The Great Unconformity exposed at 12,000' in the Needle Mountains, where the Cambrian Ignacio Quartzite unconformably overlies the ~1.43 Ga Eolus Granite.
+<a href='/images/Eolus1.jpg'><img src='/images/Eolus1.jpg'></a>
 
 The core of the Eolus granite.
-<img src='/images/Eolus2.jpg'>
+<a href='/images/Eolus2.jpg'><img src='/images/Eolus2.jpg'></a>
