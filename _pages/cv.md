@@ -9,32 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Professional Preparation
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. <i>summa cum laude<\i>, Science of Earth Systems, Cornell University, May 2010
+  * Thesis: Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia
+  * Adviser: Suzanne M. Kay
+* M.S., Geosciences, Princeton University, May 2012
+* Ph.D, Geosciences, Princeton University, Nov. 2016
+  * Thesis: Geochemical evolution of Earth’s continental crust
+  * Adviser: Blair Schoene
+* Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present
+* Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
 
 Publications
 ======
@@ -42,18 +27,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Grants and Awards
+======
+* U.S. Department of Energy Computational Science Graduate Fellowship, 2012-2016
+* Princeton University Centennial Fellowship, 2010-2012
+* Frank H.T. Rhodes Award, 2010
+* CALS Academic Excellence Award, 2010
+* Ann S. and Robert R. Morley Student Research Grant, 2009
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
+* Session chair, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
