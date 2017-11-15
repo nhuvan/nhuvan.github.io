@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. <i>summa cum laude<\i>, Science of Earth Systems, Cornell University, May 2010
+* B.S. <i>summa cum laude</i>, Science of Earth Systems, Cornell University, May 2010
   * Thesis: Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia -- Adviser: Suzanne M. Kay
 * M.S., Geosciences, Princeton University, May 2012
 * Ph.D, Geosciences, Princeton University, Nov. 2016
