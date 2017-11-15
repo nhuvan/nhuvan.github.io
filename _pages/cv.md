@@ -6,20 +6,19 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
-Professional Preparation
-======
-* B.S. <i>summa cum laude<\i>, Science of Earth Systems, Cornell University, May 2010
-  * Thesis: Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia
-  * Adviser: Suzanne M. Kay
-* M.S., Geosciences, Princeton University, May 2012
-* Ph.D, Geosciences, Princeton University, Nov. 2016
-  * Thesis: Geochemical evolution of Earth’s continental crust
-  * Adviser: Blair Schoene
 * Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present
 * Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
+
+Education
+======
+* B.S. <i>summa cum laude<\i>, Science of Earth Systems, Cornell University, May 2010
+  * Thesis: Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia -- Adviser: Suzanne M. Kay
+* M.S., Geosciences, Princeton University, May 2012
+* Ph.D, Geosciences, Princeton University, Nov. 2016
+  * Thesis: Geochemical evolution of Earth’s continental crust -- Adviser: Blair Schoene
+
 
 Publications
 ======
@@ -32,6 +31,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 Grants and Awards
 ======

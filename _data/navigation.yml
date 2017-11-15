@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/
     
   - title: "Code"
     url: https://github.com/brenhinkeller?tab=repositories
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "News"
     url: /year-archive/

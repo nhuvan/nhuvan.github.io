@@ -85,7 +85,11 @@ for row, item in publications.iterrows():
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
-   
+
+    if len(str(item.code_url)) > 5:
+        md += "\ncodeurl: '" + item.code_url + "'"
+
+
     md += "\nauthors: '" + html_escape(item.authors) + "'"
 
     md += "\ncitation: '" + html_escape(item.citation) + "'"
@@ -97,11 +101,16 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
 
-    if len(str(item.pdf_url)) > 5:
+    if len(str(item.pdf_url)) > 5 and len(str(item.code_url)) > 5:
+        md += "\n\n<a href='" + item.pdf_url + "'>PDF</a>, <a href='" + item.code_url + "'>Code and Data</a>\n"
+    elif len(str(item.pdf_url)) > 5:
         md += "\n\n<a href='" + item.pdf_url + "'>PDF</a>\n" 
+    elif len(str(item.code_url)) > 5:
+        md += "\n\n<a href='" + item.code_url + "'>Code and Data</a>\n" 
+
             
     if len(str(item.abstract)) > 5:
-        md += "\n" + item.abstract + "\n"
+        md += "\nAbstract\n\t" + item.abstract + "\n"
     
     md += "\nSuggested citation: " + item.citation
     
