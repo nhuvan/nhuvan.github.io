@@ -6,5 +6,7 @@ collection: portfolio
 
 Lower crustal gabbros of the accreted Talkeetna Arc in the Chugach Mountains, Alaska
 <a href='/images/Matanuska1.jpg'><img src='/images/Matanuska1.jpg'></a>
+
 <br/>
+
 <a href='/images/Matanuska2.jpg'><img src='/images/Matanuska2.jpg'></a>

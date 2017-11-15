@@ -15,3 +15,6 @@ The Great Unconformity exposed at 12,000' in the Needle Mountains, where the Cam
 
 The core of the Eolus granite.
 <a href='/images/Eolus2.jpg'><img src='/images/Eolus2.jpg'></a>
+
+Twilight trondhjemite gneiss.
+<a href='/images/Twilight1.jpg'><img src='/images/Twilight1.jpg'></a>

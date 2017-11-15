@@ -1,6 +1,6 @@
 ---
 title: "Hell Creek, Montana"
-excerpt: "The K-Pg boundary clay (upper pencil) above in the IrZ tonstein (lower pencil) within the IrZ coal at Herpejunk, Hell Creek, Montana <br/><a href='/images/KTB.jpg'><img src='/images/KTB.jpg'></a>"
+excerpt: "The K-Pg boundary clay (upper pencil) above the IrZ tonstein (lower pencil) within the IrZ coal at Herpejunk, Hell Creek, Montana <br/><a href='/images/KTB.jpg'><img src='/images/KTB.jpg'></a>"
 collection: portfolio
 ---
 
