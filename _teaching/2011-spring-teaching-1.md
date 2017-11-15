@@ -1,5 +1,5 @@
 ---
-title:" Assistant-in-Instruction, GEO 103 (Natural Disasters)"
+title:"Assistant-in-Instruction, GEO 103 (Natural Disasters)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2011-spring-teaching-1
