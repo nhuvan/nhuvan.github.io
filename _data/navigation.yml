@@ -6,8 +6,8 @@ main:
   - title: "Code"
     url: https://github.com/brenhinkeller
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Fieldwork"
+    url: /portfolio/
 
   - title: "News"
     url: /year-archive/
@@ -15,4 +15,6 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Teaching"
+    url: /teaching/
 

@@ -1,5 +1,5 @@
 ---
-title: "Arnold Guyot Teaching Award"
+title: "Arnold Guyot Teaching Prize"
 collection: teaching
 type: "Award"
 permalink: /teaching/2015-spring-teaching-2
