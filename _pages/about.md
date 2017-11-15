@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 header:
-  image:/images/Matanuska1.jpg
+  image:"/images/Matanuska1.jpg"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
