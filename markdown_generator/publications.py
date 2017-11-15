@@ -110,7 +110,7 @@ for row, item in publications.iterrows():
 
             
     if len(str(item.abstract)) > 5:
-        md += "\nAbstract\n\t" + item.abstract + "\n"
+       md += "\nAbstract:\n>" + item.abstract + "\n"
     
     md += "\nSuggested citation: " + item.citation
     
