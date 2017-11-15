@@ -1,9 +1,10 @@
 ---
-title: "Talkeetna Arc Alaska"
+title: "Talkeetna Arc, Chugach Mountains Alaska"
 excerpt: "Lower crustal gabbros of the accreted Talkeetna Arc in the Chugach Mountains, Alaska<br/><a href='/images/Matanuska1.jpg'><img src='/images/Matanuska1.jpg'></a>"
 collection: portfolio
 ---
 
 Lower crustal gabbros of the accreted Talkeetna Arc in the Chugach Mountains, Alaska
 <a href='/images/Matanuska1.jpg'><img src='/images/Matanuska1.jpg'></a>
-
+<br/>
+<a href='/images/Matanuska2.jpg'><img src='/images/Matanuska2.jpg'></a>

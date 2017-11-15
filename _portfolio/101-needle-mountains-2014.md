@@ -1,11 +1,13 @@
 ---
 title: "Needle Mountains, Colorado"
-excerpt: "Involute comagmatic contact between the ~1.43 Ga the Eolus and Trimble granites.<br/><img src='/images/EaInset.jpg'>"
+excerpt: "Involute comagmatic contact between the ~1.43 Ga the Eolus and Trimble granites.<br/><a href='/images/EaMap.jpg'><img src='/images/EaMap.jpg'></a> 
+"
 collection: portfolio
 ---
 
 The involute comagmatic contact between the ~1.43 Ga Eolus Granite and central Trimble Granite on East Silver Mesa, mapped at 1:2200 scale.
-<a href='/images/EaMap.jpg'><img src='/images/EaMap.jpg'></a>
+<a href='/images/EaMap.jpg'><img src='/images/EaMap.jpg'></a> 
+inset:
 <a href='/images/EaInset.jpg'><img src='/images/EaInset.jpg'></a>
 
 The Great Unconformity exposed at 12,000' in the Needle Mountains, where the Cambrian Ignacio Quartzite unconformably overlies the ~1.43 Ga Eolus Granite.
