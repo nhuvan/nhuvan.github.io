@@ -14,4 +14,6 @@ We investigate the variation in the amount of zircon expected to saturate from m
 
 <a href='http://brenhinkeller.github.io/files/KBS2017.pdf'>PDF</a>
 
+"<i>Zircon is the preeminent chronometer of deep time on Earth, informing models of crustal growth and providing our only direct window into the Hadean Eon. However, the quantity of zircon crystallised per unit mass of magma is highly variable, complicating interpretation of the terrestrial zircon record. Here we combine zircon saturation simulations with a dataset of ∼52,000 igneous whole rock geochemical analyses to quantify secular variation in relative zircon abundance throughout Earth history. We find dramatically increasing zircon abundance per mass of magma through geologic time, suggesting that the zircon record underestimates past crustal volume even if preservation bias is eliminated. Similarly, zircons were even less likely to crystallise from low-silica magmas in early Earth history than they are today, together suggesting that the observed Hadean zircon record may require a larger volume of generally felsic Hadean crust than previously expected.<\i>"
+
 Suggested citation: Keller, C.B., Boehnke, P., and Schoene, B. (2017) Temporal variation in relative zircon abundance throughout Earth history. <i>Geochemical Perspectives Letters</i> 3, 179-189.

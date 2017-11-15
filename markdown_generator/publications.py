@@ -100,6 +100,9 @@ for row, item in publications.iterrows():
     if len(str(item.pdf_url)) > 5:
         md += "\n\n<a href='" + item.pdf_url + "'>PDF</a>\n" 
             
+    if len(str(item.abstract)) > 5:
+        md += "\n" + item.abstract + "\n"
+    
     md += "\nSuggested citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
