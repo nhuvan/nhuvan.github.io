@@ -16,7 +16,7 @@ Gabbroic dropstone within microbial carbonates in the uppermost Trezona formatio
 ---
 
 <a href='/images/TrezonaSponges.jpg'><img src='/images/TrezonaSponges.jpg'></a>
-A contender for the title of oldest animal body fossil, seen here in the upper Trezona formation just below the Marinoan Elatina formation and the Nuccalena cap carbonate in Elatina Creek - as documented by <a href='https://doi.org/10.1038/ngeo934'>Maloof et al. 2010</a>
+A contender for the title of oldest animal body fossil, seen here in the upper Trezona formation just below the Marinoan diamictites of the Elatina formation and the Nuccalena cap carbonate in Elatina Creek - as documented by <a href='https://doi.org/10.1038/ngeo934'>Maloof et al. 2010</a>
 
 ---
 
