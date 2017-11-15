@@ -6,9 +6,13 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "Code"
+    url: https://github.com/brenhinkeller?tab=repositories
+
   - title: "News"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
+
