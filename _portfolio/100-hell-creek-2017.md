@@ -1,6 +1,6 @@
 ---
 title: "Hell Creek, Montana"
-excerpt: "Terrestrial K-Pg boundary section 1<br/><img src='/images/KTB.jpg'>"
+excerpt: "Terrestrial K-Pg boundary section<br/><img src='/images/KTB.jpg'>"
 collection: portfolio
 ---
 
