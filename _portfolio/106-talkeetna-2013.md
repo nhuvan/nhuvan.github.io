@@ -4,13 +4,13 @@ excerpt: "Lower crustal gabbros of the accreted Talkeetna Arc in the Chugach Mou
 collection: portfolio
 ---
 
-<a href='/images/BernardMountain.jpg'><img src='/images/BernardMountain.jpg'></a>
-Bernard Mountain, composed of accreted mantle peridotite; the deepest exposed section of the Talkeetna Arc. Pictured from the north, near Tonsina, Alaska.
+<a href='/images/Matanuska1.jpg'><img src='/images/Matanuska1.jpg'></a>
+Mid/lower crustal gabbros and leucogabbros of the accreted Talkeetna Arc exposed in the South Fork Matanuska River valley, looking south towards the base of the arc section at the Border Ranges Fault. Dark metasediments south of the Border Ranges Fault may be seen near the terminus of Powell Glacier
 
 ---
 
-<a href='/images/MantleTalus.jpg'><img src='/images/MantleTalus.jpg'></a>
-Mantle float: peridotite talus on Bernard Mountain. The small outcrop on the right is garnet gabbro, just above the Moho
+<a href='/images/Matanuska2.jpg'><img src='/images/Matanuska2.jpg'></a>
+Mid/lower crustal gabbros and leucogabbros of the Talkeetna arc, looking north along the South Fork Matanuska River valley towards the upper crust of the arc section.
 
 ---
 
@@ -24,6 +24,16 @@ Bernard Mountain garnet gabbro, scanned from a polished hand sample. Longest dim
 
 ---
 
+<a href='/images/BernardMountain.jpg'><img src='/images/BernardMountain.jpg'></a>
+Bernard Mountain, composed of accreted mantle peridotite; the deepest exposed section of the Talkeetna Arc. Pictured from the north, near Tonsina, Alaska.
+
+---
+
+<a href='/images/MantleTalus.jpg'><img src='/images/MantleTalus.jpg'></a>
+Mantle float: peridotite talus on Bernard Mountain. The small outcrop on the right is garnet gabbro, just above the Moho
+
+---
+
 <a href='/images/BernardLeucogabbro1.jpg'><img src='/images/BernardLeucogabbro1.jpg'></a>
 Coarse leucogabbro exposed in Bernard Creek, with distinct, nearly monomineralic, hornblende enclaves.
 
@@ -34,12 +44,17 @@ Coarse leucogabbro exposed in Bernard Creek. Note distinction between sharp blac
 
 ---
 
-<a href='/images/Matanuska1.jpg'><img src='/images/Matanuska1.jpg'></a>
-Mid/lower crustal gabbros and leucogabbros of the accreted Talkeetna Arc exposed in the South Fork Matanuska River valley, looking south towards the base of the arc section at the Border Ranges Fault. Dark metasediments south of the Border Ranges Fault may be seen near the terminus of Powell Glacier
+<a href='/images/LeucogabbroEnclave.jpg'><img src='/images/LeucogabbroEnclave.jpg'></a>
+Enclaves of leucogabbro in gabbro, South Fork Matanuska River valley.
 
 ---
 
-<a href='/images/Matanuska2.jpg'><img src='/images/Matanuska2.jpg'></a>
-Mid/lower crustal gabbros and leucogabbros of the Talkeetna arc, looking north along the South Fork Matanuska River valley towards the upper crust of the arc section.
+<a href='/images/DioriteIntrudingLeucodiorite.jpg'><img src='/images/DioriteIntrudingLeucodiorite.jpg'></a>
+Chilled margin at a contact where diorite is intruding leucodiorite, South Fork Matanuska River valley
+
+---
+
+<a href='/images/LeucogabbroSill.jpg'><img src='/images/LeucogabbroSill.jpg'></a>
+Large leucogabbro sill intruding gabbros and diorites, South Fork Matanuska River valley.
 
 ---
