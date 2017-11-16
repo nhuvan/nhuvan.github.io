@@ -1,6 +1,6 @@
 ---
 title: "Needle Mountains, Colorado"
-excerpt: "<br/><a href='/portfolio/105-needle-mountains-2014/'>read more<img src='/images/EaMapSmall.jpg'></a>"
+excerpt: "<a href='/portfolio/105-needle-mountains-2014/'>Proterozoic magmatism and tectonics<img src='/images/EaMapSmall.jpg'></a>"
 collection: portfolio
 ---
 
