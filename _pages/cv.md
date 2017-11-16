@@ -12,7 +12,7 @@ C. Brenhin Keller
 ---
 Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present <br/>
 Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
----
+
 
 Education
 ======
@@ -28,7 +28,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
