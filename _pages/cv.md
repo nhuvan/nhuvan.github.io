@@ -8,8 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-* Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present
-* Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
+Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present
+Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
 
 Education
 ======
