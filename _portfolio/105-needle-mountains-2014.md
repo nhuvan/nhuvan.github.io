@@ -19,7 +19,7 @@ The involute comagmatic contact between the ~1.43 Ga Eolus Granite and central T
 
 ---
 
-<a href='/images/Mapping.jpg'><img src='/images/MappingSmall.jpg'></a> 
+<a href='/images/Mapping.jpg'><img src='/images/Mapping.jpg'></a> 
 Mapping in progress
 
 ---
@@ -52,4 +52,39 @@ Cross-bedded quartzite of the Uncompahgre Formation near Snowdon Peak.
 <a href='/images/UncompaghreBIF.jpg'><img src='/images/UncompaghreBIF.jpg'></a>
  Basal conglomerate of the Uncompahgre Formation containing cobbles of banded hematite and jasper likely derived from BIF, as reported to occur in the eastern unit of the ~1.8 Ga Irving formation.
   
+---
+
+<a href='/images/SnowdonPegmatite.jpg'><img src='/images/SnowdonPegmatite.jpg'></a>
+Syntectonic pegmatite dike (associated with the ~1.72 Ga Tenmile Granite) cutting the Twilight Trondhjemite Gneiss near between Snowdon and Twilight Peaks
+  
+---
+
+<a href='/images/IrvingBandedGneiss.jpg'><img src='/images/IrvingBandedGneiss.jpg'></a>
+Strongly banded gneiss at the contact between the Irving Formation and the Tenmile Granite near Twilight Peak
+  
+---
+
+<a href='/images/IrvingGarnet.jpg'><img src='/images/IrvingGarnet.jpg'></a>
+Large euhedral garnet in chlorite matrix, Irving Formation near Highland Mary Lakes.
+  
+---
+
+<a href='/images/IrvingBoudin.jpg'><img src='/images/IrvingBoudin.jpg'></a>
+Calc-silicate boudin in foliated amphibolite of the Irving Formation near Highland Mary Lakes.
+  
+---
+
+<a href='/images/IrvingIntrusiveBreccia.jpg'><img src='/images/IrvingIntrusiveBreccia.jpg'></a>
+Intrusive breccia with clasts of Irving formation amphibolite in a trondhjemitic matrix.
+  
+---
+
+<a href='/images/IrvingFelsicGneiss.jpg'><img src='/images/IrvingFelsicGneiss.jpg'></a>
+Highly deformed felsic orthogneiss associated with the Irving formation in Animas River canyon. 
+  
+---
+
+<a href='/images/IgnacioRippleStriation.jpg'><img src='/images/IgnacioRippleStriation.jpg'></a>
+Wave ripples in the Ignacio Quartzite on Stag Mesa, a few meters above the Great Unconformity.
+ 
 ---
