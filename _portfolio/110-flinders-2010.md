@@ -16,7 +16,7 @@ Gabbroic dropstone within microbial carbonates in the uppermost Trezona formatio
 ---
 
 <a href='/images/TrezonaSponges.jpg'><img src='/images/TrezonaSponges.jpg'></a>
-A contender for the title of oldest animal body fossil, seen here in the upper Trezona formation just below the Marinoan diamictites of the Elatina formation and the Nuccalena cap carbonate in Elatina Creek - as documented by <a href='https://doi.org/10.1038/ngeo934'>Maloof et al. 2010</a>
+A contender for the title of oldest animal body fossil, according to <a href='https://doi.org/10.1038/ngeo934'>Maloof et al. 2010</a>. These possible ~640 Ma demosponges are seen here in the upper Trezona formation just below the Marinoan diamictites of the Elatina formation and the Nuccalena cap carbonate in Elatina Creek. Field of view is approximately 15 cm.
 
 ---
 
@@ -26,7 +26,7 @@ A contender for the title of oldest animal body fossil, seen here in the upper T
 ---
 
 <a href='/images/SandWedges.jpg'><img src='/images/SandWedges.jpg'></a>
-Possible sand wedges in the Whyalla sandstone - cf. <a href='https://doi.org/10.1016/j.epsl.2014.09.017'>Ewing et al. 2014</a>
+Possible sand wedges in the Whyalla sandstone, according to <a href='https://doi.org/10.1016/j.epsl.2014.09.017'>Ewing et al. 2014</a>.
 
 ---
 
