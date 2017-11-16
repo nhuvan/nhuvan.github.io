@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<i>Curriculum Vitae</i>"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
+C. Brenhin Keller
 Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present
 Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
 
