@@ -1,6 +1,6 @@
 ---
 title: "Needle Mountains, Colorado"
-excerpt: "Complex comagmatic contact between the ~1.43 Ga Eolus and Trimble granites.<br/><a href='/portfolio/105-needle-mountains-2014/'><img src='/images/EaMapSmall.jpg'></a>"
+excerpt: "<br/><a href='/portfolio/105-needle-mountains-2014/'>read more<img src='/images/EaMapSmall.jpg'></a>"
 collection: portfolio
 ---
 
