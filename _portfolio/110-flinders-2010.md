@@ -1,8 +1,9 @@
 ---
 title: "Flinders Range, South Australia"
-excerpt: "<a href='/portfolio/110-flinders-2010/'>Neoproterozoic Earth history<img src='/images/Flinders1.jpg'></a>"
+excerpt: "<a href='/portfolio/110-flinders-2010/'><img src='/images/Flinders1.jpg'></a>"
 collection: portfolio
-
+---
+Neoproterozoic Earth history
 ---
 
 <a href='/images/Flinders1.jpg'><img src='/images/Flinders1.jpg'></a>

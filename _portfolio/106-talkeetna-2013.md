@@ -1,7 +1,9 @@
 ---
 title: "Talkeetna Arc, Chugach Mountains, Alaska"
-excerpt: "<a href='/portfolio/106-talkeetna-2013/'>Lower crustal magmatism<img src='/images/Matanuska1.jpg'></a>"
+excerpt: "<a href='/portfolio/106-talkeetna-2013/'><img src='/images/Matanuska1.jpg'></a>"
 collection: portfolio
+---
+Lower crustal magmatism
 ---
 
 <a href='/images/Matanuska1.jpg'><img src='/images/Matanuska1.jpg'></a>
