@@ -29,13 +29,18 @@ Biotite-rich mafic schlieren at the Trimble-Eolus contact, East Silver Mesa. Und
 
 ---
 
+<a href='/images/TrimbleSchlieren.jpg'><img src='/images/TrimbleSchlieren.jpg'></a> 
+Thick, sharp biotite schlieren in mixed or transitional Eolus-Trimble facies
+
+---
+
 <a href='/images/EEolus.jpg'><img src='/images/EEolus.jpg'></a> 
 Potassium feldspar megacryst in coarse, inequigranular two-feldspar granite from the eastern massif of the Eolus Granite
 
 ---
 
 <a href='/images/TrimbleModalLayeringSmall.jpg'><img src='/images/TrimbleModalLayeringSmall.jpg'></a> 
-Modal layering in the Trimble granite, scanned from a polished hand sample. Longest dimension is 17 cm. <a href='/images/TrimbleModalLayering.jpg'>full size</a> 
+Modal layering defined largely by biotite abundance in the Trimble granite, scanned from a polished hand sample. Longest dimension is 17 cm. <a href='/images/TrimbleModalLayering.jpg'>full size</a> 
 
 ---
 
