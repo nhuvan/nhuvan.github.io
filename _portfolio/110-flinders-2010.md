@@ -30,7 +30,7 @@ Possible sand wedges in the Whyalla sandstone - cf. <a href='https://doi.org/10.
 
 ---
 
-<a href='/images/WonokaRipples.jpg'><img src='/images/WonokaRipples.jpg'></a>
+<a href='/images/LadderRipples.jpg'><img src='/images/LadderRipples.jpg'></a>
 Detail of ladder ripples in the upper Elatina formation, Warren Gorge
 
 ---

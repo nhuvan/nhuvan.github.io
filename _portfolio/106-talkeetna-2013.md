@@ -29,11 +29,6 @@ Bernard Mountain, composed of accreted mantle peridotite; the deepest exposed se
 
 ---
 
-<a href='/images/MantleTalus.jpg'><img src='/images/MantleTalus.jpg'></a>
-Mantle float: peridotite talus on Bernard Mountain. The small outcrop on the right is garnet gabbro, just above the Moho
-
----
-
 <a href='/images/BernardLeucogabbro1.jpg'><img src='/images/BernardLeucogabbro1.jpg'></a>
 Coarse leucogabbro exposed in Bernard Creek, with distinct, nearly monomineralic, hornblende enclaves.
 
