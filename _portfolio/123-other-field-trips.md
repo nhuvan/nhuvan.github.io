@@ -1,5 +1,5 @@
 ---
-title: "Class field trips and more"
+title: "Other field trips"
 excerpt: "<a href='/portfolio/123-other-field-trips/'><img src='/images/WalkerPanorama1.jpg'></a>"
 collection: portfolio
 ---
@@ -44,11 +44,6 @@ Glacially-carved granite domes near Tenaya Lake, Yosemite
 ---
 
 <a href='/images/GrandeRonde2.jpg'><img src='/images/GrandeRonde2.jpg'></a>
-Grande Ronde flows of the Columbia River Flood Basalt
-
----
-
-<a href='/images/GrandeRonde1.jpg'><img src='/images/GrandeRonde1.jpg'></a>
 Grande Ronde flows of the Columbia River Flood Basalt
 
 ---
@@ -119,7 +114,7 @@ Comb layering in the Adamello Pluton, Italian Alps.
 ---
 
 <a href='/images/AdamelloContact1.jpg'><img src='/images/AdamelloContact1.jpg'></a>
-Magmatic contact between tonalite and enclave-rich granodiorite, Adamello Pluton, Italy
+A magmatic contact between tonalite and enclave-rich granodiorite is offset by a magmatic shear zone, Adamello Pluton, Italy
 
 ---
 
