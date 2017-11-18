@@ -28,6 +28,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  <br/>
 
 
 Grants and Awards
@@ -44,17 +45,22 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+  <br/>
+  
+Service and leadership
+======
+* Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
+* Session chair, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
 
 Field experience
 ======
-* <a href="/portfolio/100-hell-creek-2017/">Hell Creek region, Montana. K-Pg boundary. 2017</a>
-* Columbia River Plateau, Washington. Flood basalt volcanism. 2016
-* Needle Mountains, Colorado. Proterozoic tectonics and magmatism. 2012-2014
-* Talkeetna Arc, Alaska. Lower crustal magmatism. 2013
-* Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement. 2011-2014
-* Adelaide Rift, South Australia. Neoproterozoic Earth history. 2010
-* Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite. 2010
+* [__**Hell Creek region, Montana. K-Pg boundary. 2017**__](/portfolio/100-hell-creek-2017/)
+* **Columbia River Plateau, Washington. Flood basalt volcanism. 2016**
+* [__**Needle Mountains, Colorado. Proterozoic tectonics and magmatism. 2012-2014**__](/portfolio/105-needle-mountains-2014/)
+* [__**Talkeetna Arc, Alaska. Lower crustal magmatism. 2013](/portfolio/106-talkeetna-2013/**__)
+* [__**Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement. 2011-2014**__](/portfolio/109-bergell-2011/)
+* [__**Adelaide Rift, South Australia. Neoproterozoic Earth history. 2010**__](/portfolio/110-flinders-2010/)
+* [__**Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite. 2010**__](/portfolio/111-frailes-2010/)
 
 Other research experience
 ======
@@ -63,7 +69,4 @@ Other research experience
 * Solid-state inorganic chemistry, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
   * Supervisor: Francis DiSalvo, Cornell University
   
-Service and leadership
-======
-* Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
-* Session chair, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
+
