@@ -10,19 +10,18 @@ redirect_from:
 
 C. Brenhin Keller
 ---
-<b>
-Postdoctoral Fellow, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present <br/>
-Visiting Scientist, Lawrence Livermore National Laboratory, Nov. 2016-Present
-</b><br/>
+<b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present <br/>
+<b>Visiting Scientist</b>, Lawrence Livermore National Laboratory, Nov. 2016-Present
+<br/>
 
 Education
 ======
-* <b>B.S. <i>summa cum laude</i>, Science of Earth Systems, Cornell University, May 2010</b>
-  * <b>Thesis: Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia -- Adviser: Suzanne M. Kay</b>
-* <b>M.S., Geosciences, Princeton University, May 2012</b>
-* <b>Ph.D, Geosciences, Princeton University, Nov. 2016</b>
-  * <b>Thesis: Geochemical evolution of Earth’s continental crust -- Adviser: Blair Schoene</b>
-<br/>
+* <b>B.S.</b> <i>summa cum laude</i>, Science of Earth Systems, Cornell University, May 2010
+  * <b>Thesis:</b> Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia -- <b>Adviser</b>: Suzanne M. Kay</b>
+* <b>M.S.</b>, Geosciences, Princeton University, May 2012
+* <b>Ph.D</b>, Geosciences, Princeton University, Nov. 2016
+  * <b>Thesis</b>: Geochemical evolution of Earth’s continental crust -- <b>Adviser</b>: Blair Schoene</b>
+<br/><br/>
 
 Publications
 ======
@@ -38,7 +37,7 @@ Grants and Awards
 * <b>Frank H.T. Rhodes Award, 2010</b>
 * <b>CALS Academic Excellence Award, 2010</b>
 * <b>Ann S. and Robert R. Morley Student Research Grant, 2009</b>
-<br/><br/>
+<br/><br/><br/>
 
 Teaching
 ======
@@ -56,18 +55,18 @@ Field experience
 * [<b><u>Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement. 2011-2014</u></b>](/portfolio/109-bergell-2011/)
 * [<b><u>Adelaide Rift, South Australia. Neoproterozoic Earth history. 2010</u>]</b>(/portfolio/110-flinders-2010/)
 * [<b><u>Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite. 2010</u></b>](/portfolio/111-frailes-2010/)
-<br/><br/>
+<br/><br/><br/>
 
 Other research experience
 ======
-* <b>Molecular dynamics of Si sorption on the hematite R-plane. CSGF practicum, Spring 2014</b>
-  * <b>Supervisor: Glenn Waychunas, Lawrence Berkeley National Laboratory</b>
-* <b>Solid-state inorganic chemistry, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.</b>
-  * <b>Supervisor: Francis DiSalvo, Cornell University</b>
+* <b>Molecular dynamics</b> of Si sorption on the hematite R-plane. CSGF practicum, Spring 2014
+  * <b>Supervisor</b>: Glenn Waychunas, Lawrence Berkeley National Laboratory
+* <b>Solid-state inorganic chemistry</b>, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
+  * <b>Supervisor</b>: Francis DiSalvo, Cornell University
 <br/><br/>
 
 Service and leadership
 ======
-* <b>Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 </b>
-* <b>Session chair, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.</b>
+* <b>Session chair</b>, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
+* <b>Session chair</b>, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
 
