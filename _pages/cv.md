@@ -30,13 +30,6 @@ Publications
   {% endfor %}</ul>
 
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
 Grants and Awards
 ======
 * U.S. Department of Energy Computational Science Graduate Fellowship, 2012-2016
@@ -44,6 +37,31 @@ Grants and Awards
 * Frank H.T. Rhodes Award, 2010
 * CALS Academic Excellence Award, 2010
 * Ann S. and Robert R. Morley Student Research Grant, 2009
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Field experience
+======
+* Hell Creek region, Montana. K-Pg boundary. 2017
+* Columbia River Plateau, Washington. Flood basalt volcanism. 2016
+* Needle Mountains, Colorado. Proterozoic tectonics and magmatism. 2012-2014
+* Talkeetna Arc, Alaska. Lower crustal magmatism. 2013
+* Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement. 2011-2014
+* Adelaide Rift, South Australia. Neoproterozoic Earth history. 2010
+* Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite. 2010
+
+Other research experience
+======
+* Molecular dynamics of Si sorption on the hematite R-plane. CSGF practicum, Spring 2014
+  * Supervisor: Glenn Waychunas, Lawrence Berkeley National Laboratory
+* Solid-state inorganic chemistry, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
+  * Supervisor: Francis J. DiSalvo, Cornell University
   
 Service and leadership
 ======
