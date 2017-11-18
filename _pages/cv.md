@@ -48,7 +48,7 @@ Teaching
 
 Field experience
 ======
-* Hell Creek region, Montana. K-Pg boundary. 2017
+* [Hell Creek region, Montana. K-Pg boundary. 2017](/portfolio/100-hell-creek-2017/)
 * Columbia River Plateau, Washington. Flood basalt volcanism. 2016
 * Needle Mountains, Colorado. Proterozoic tectonics and magmatism. 2012-2014
 * Talkeetna Arc, Alaska. Lower crustal magmatism. 2013

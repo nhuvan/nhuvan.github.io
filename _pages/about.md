@@ -21,8 +21,7 @@ Recent work:
 
 Computation
 ======
-While geochronology allows us to quantify the passage of time with great precision extending to geologically rapid timescales, computation and modeling allow us to (1) elucidate the temporal variation of fundamental Earth system variables that may be obscured by crustal heterogeneity but that have changed over geologically long timescales (2) simulate the operation of Earth system processes in the inaccessible past and over vast geologic timescales. A range of open questions in solid-earth geochemistry are well-suited to high-performance computation, featuring inherent parallel structure at the sample level as well as a massive parameter space to explore. From inversion for the conditions of magmatic differentiation to comprehensive forward modeling of crustal geochemical evolution, many key problems in the solid Earth sciences are well-suited to hierarchical parallelization, allowing in principle for efficient scaling with minimal communication requirements.
-
+Computation and modeling are naturally complementary to a time-centered philosophy of Earth science in that they allow us to (1) elucidate the [long-term temporal evolution of Earth system variables that may be obscured by crustal heterogeneity](/publication/2012-05-24-Keller-Schoene-2012), and: (2) simulate the operation of Earth system processes in the inaccessible past and over vast geologic timescales. A range of open questions in solid-earth geochemistry are well-suited to high-performance computation, featuring inherent parallel structure at the sample level as well as a massive parameter space to explore. From inversion for the conditions of magmatic differentiation to comprehensive forward modeling of crustal geochemical evolution, many key problems in the solid Earth sciences are well-suited to hierarchical parallelization, allowing in principle for efficient scaling with minimal communication requirements.
 
 Recent work:
 
