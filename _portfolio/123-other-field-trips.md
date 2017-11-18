@@ -43,6 +43,10 @@ Glacially-carved granite domes near Tenaya Lake, Yosemite
 
 ---
 
+<a href='/images/MonoLakeTufa1.jpg'><img src='/images/MonoLakeTufa1.jpg'></a>
+Tufa, Mono Lake, California
+
+---
 
 <a href='/images/IcelandLavaTube1.jpg'><img src='/images/IcelandLavaTube1.jpg'></a>
 Intricate fluting and spatter on the wall of a lava tube, Raufarhólshellir, Iceland
