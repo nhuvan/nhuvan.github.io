@@ -41,30 +41,34 @@ Teaching
   
 Grants and Awards
 ======
-* <b>U.S. Department of Energy Computational Science Graduate Fellowship, 2012-2016</b><br/>
-* <b>Princeton University Centennial Fellowship, 2010-2012</b><br/>
-* <b>Frank H.T. Rhodes Award, 2010</b><br/>
-* <b>CALS Academic Excellence Award, 2010</b><br/>
-* <b>Ann S. and Robert R. Morley Student Research Grant, 2009</b>
+* <b>U.S. Department of Energy Computational Science Graduate Fellowship</b> 2012-2016<br/>
+
+* <b>Princeton University Centennial Fellowship</b> 2010-2012<br/>
+
+* <b>Frank H.T. Rhodes Award</b> 2010<br/>
+
+* <b>CALS Academic Excellence Award</b> 2010<br/>
+
+* <b>Ann S. and Robert R. Morley Student Research Grant</b> 2009
 <br/><br/><br/>
 
 Field experience
 ======
 * [<u>Hell Creek region, Montana. K-Pg boundary. 2017</u>](/portfolio/100-hell-creek-2017/)
 * Columbia River Plateau, Washington. Flood basalt volcanism. 2016
-* [<u>Needle Mountains, Colorado. Proterozoic tectonics and magmatism. 2012-2014</u>](/portfolio/105-needle-mountains-2014/)
-* [<u>Talkeetna Arc, Alaska. Lower crustal magmatism. 2013</u>](/portfolio/106-talkeetna-2013/)
-* [<u>Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement. 2011-2014</u>](/portfolio/109-bergell-2011/)
-* [<u>Adelaide Rift, South Australia. Neoproterozoic Earth history. 2010</u>](/portfolio/110-flinders-2010/)
-* [<u>Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite. 2010</u>](/portfolio/111-frailes-2010/)
+* [<u>Needle Mountains, Colorado. Proterozoic tectonics and magmatism</u> 2012-2014](/portfolio/105-needle-mountains-2014/)
+* [<u>Talkeetna Arc, Alaska. Lower crustal magmatism</u> 2013](/portfolio/106-talkeetna-2013/)
+* [<u>Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement</u> 2011-2014](/portfolio/109-bergell-2011/)
+* [<u>Adelaide Rift, South Australia. Neoproterozoic Earth history</u> 2010](/portfolio/110-flinders-2010/)
+* [<u>Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite</u> 2010](/portfolio/111-frailes-2010/)
 <br/><br/><br/>
 
 Other research experience
 ======
 * <b>Reactive molecular dynamics</b> simulation of silicate sorption on the hematite r-plane, with free energy estimation by umbrella sampling. CSGF practicum, Spring 2014
-  * Supervisor: [Glenn Waychunas](https://eesa.lbl.gov/profiles/glenn-a-waychunas/), Lawrence Berkeley National Laboratory
+  * Supervisor: [Glenn Waychunas, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/profiles/glenn-a-waychunas/)
 * <b>Solid-state inorganic chemistry</b>, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
-  * Supervisor: [Francis DiSalvo](http://chemistry.cornell.edu/francis-disalvo), Cornell University
+  * Supervisor: [Francis DiSalvo, Cornell University](http://chemistry.cornell.edu/francis-disalvo)
 <br/><br/><br/>
 
 Service and leadership
