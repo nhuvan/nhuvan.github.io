@@ -50,7 +50,7 @@ Grants and Awards
 * <b>CALS Academic Excellence Award</b> 2010<br/>
 
 * <b>Ann S. and Robert R. Morley Student Research Grant</b> 2009
-<br/><br/><br/>
+<br/><br/>
 
 Field experience
 ======
@@ -61,7 +61,7 @@ Field experience
 * [<u>Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement</u> 2011-2014](/portfolio/109-bergell-2011/)
 * [<u>Adelaide Rift, South Australia. Neoproterozoic Earth history</u> 2010](/portfolio/110-flinders-2010/)
 * [<u>Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite</u> 2010](/portfolio/111-frailes-2010/)
-<br/><br/><br/>
+<br/><br/>
 
 Other research experience
 ======
@@ -69,7 +69,7 @@ Other research experience
   * Supervisor: [Glenn Waychunas, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/profiles/glenn-a-waychunas/)
 * <b>Solid-state inorganic chemistry</b>, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
   * Supervisor: [Francis DiSalvo, Cornell University](http://chemistry.cornell.edu/francis-disalvo)
-<br/><br/><br/>
+<br/><br/>
 
 Service and leadership
 ======
