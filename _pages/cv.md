@@ -32,19 +32,6 @@ Publications
   {% endfor %}</ul>
   <br/>
 
-Grants and Awards
-======
-* <b>U.S. Department of Energy Computational Science Graduate Fellowship, 2012-2016</b>
-
-* <b>Princeton University Centennial Fellowship, 2010-2012</b>
-
-* <b>Frank H.T. Rhodes Award, 2010</b>
-
-* <b>CALS Academic Excellence Award, 2010</b>
-
-* <b>Ann S. and Robert R. Morley Student Research Grant, 2009</b>
-<br/><br/><br/>
-
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -52,6 +39,15 @@ Teaching
   {% endfor %}</ul>
   <br/>
   
+Grants and Awards
+======
+* <b>U.S. Department of Energy Computational Science Graduate Fellowship, 2012-2016</b><br/>
+* <b>Princeton University Centennial Fellowship, 2010-2012</b><br/>
+* <b>Frank H.T. Rhodes Award, 2010</b><br/>
+* <b>CALS Academic Excellence Award, 2010</b><br/>
+* <b>Ann S. and Robert R. Morley Student Research Grant, 2009</b>
+<br/><br/><br/>
+
 Field experience
 ======
 * [<u>Hell Creek region, Montana. K-Pg boundary. 2017</u>](/portfolio/100-hell-creek-2017/)
