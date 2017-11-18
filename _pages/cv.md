@@ -17,10 +17,12 @@ C. Brenhin Keller
 Education
 ======
 * <b>B.S.</b> <i>summa cum laude</i>, Science of Earth Systems, Cornell University, May 2010
-  * <b>Thesis:</b> Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia -- Adviser: [Suzanne M. Kay](http://www.geo.cornell.edu/geology/cap/faculty/suzanne_m_kay.html)
+  * <b>Thesis:</b> Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia
+  * <b>Adviser:</b> [Suzanne M. Kay](http://www.geo.cornell.edu/geology/cap/faculty/suzanne_m_kay.html)
 * <b>M.S.</b>, Geosciences, Princeton University, May 2012
 * <b>Ph.D</b>, Geosciences, Princeton University, Nov. 2016
-  * <b>Thesis:</b> Geochemical evolution of Earth’s continental crust -- Adviser: [Blair Schoene](https://www.princeton.edu/geosciences/people/schoene/)
+  * <b>Thesis:</b> Geochemical evolution of Earth’s continental crust
+  * <b>Adviser:</b> [Blair Schoene](https://www.princeton.edu/geosciences/people/schoene/)
 <br/><br/>
 
 Publications
@@ -59,7 +61,7 @@ Field experience
 
 Other research experience
 ======
-* <b>Molecular dynamics</b> of Si sorption on the hematite R-plane. CSGF practicum, Spring 2014
+* <b>Reactive molecular dynamics</b> simulation of silicate sorption on the hematite r-plane, with free energy estimation by umbrella sampling. CSGF practicum, Spring 2014
   * Supervisor: [Glenn Waychunas](https://eesa.lbl.gov/profiles/glenn-a-waychunas/), Lawrence Berkeley National Laboratory
 * <b>Solid-state inorganic chemistry</b>, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
   * Supervisor: [Francis DiSalvo](http://chemistry.cornell.edu/francis-disalvo), Cornell University
