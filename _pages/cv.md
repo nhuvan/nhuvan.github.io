@@ -48,7 +48,7 @@ Teaching
 
 Field experience
 ======
-* [Hell Creek region, Montana. K-Pg boundary. 2017](/portfolio/100-hell-creek-2017/)
+* <a href="/portfolio/100-hell-creek-2017/">Hell Creek region, Montana. K-Pg boundary. 2017</a>
 * Columbia River Plateau, Washington. Flood basalt volcanism. 2016
 * Needle Mountains, Colorado. Proterozoic tectonics and magmatism. 2012-2014
 * Talkeetna Arc, Alaska. Lower crustal magmatism. 2013
@@ -61,7 +61,7 @@ Other research experience
 * Molecular dynamics of Si sorption on the hematite R-plane. CSGF practicum, Spring 2014
   * Supervisor: Glenn Waychunas, Lawrence Berkeley National Laboratory
 * Solid-state inorganic chemistry, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
-  * Supervisor: Francis J. DiSalvo, Cornell University
+  * Supervisor: Francis DiSalvo, Cornell University
   
 Service and leadership
 ======
