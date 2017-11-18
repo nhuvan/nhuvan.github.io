@@ -35,9 +35,13 @@ Publications
 Grants and Awards
 ======
 * <b>U.S. Department of Energy Computational Science Graduate Fellowship, 2012-2016</b>
+
 * <b>Princeton University Centennial Fellowship, 2010-2012</b>
+
 * <b>Frank H.T. Rhodes Award, 2010</b>
+
 * <b>CALS Academic Excellence Award, 2010</b>
+
 * <b>Ann S. and Robert R. Morley Student Research Grant, 2009</b>
 <br/><br/><br/>
 
@@ -65,7 +69,7 @@ Other research experience
   * Supervisor: [Glenn Waychunas](https://eesa.lbl.gov/profiles/glenn-a-waychunas/), Lawrence Berkeley National Laboratory
 * <b>Solid-state inorganic chemistry</b>, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
   * Supervisor: [Francis DiSalvo](http://chemistry.cornell.edu/francis-disalvo), Cornell University
-<br/><br/>
+<br/><br/><br/>
 
 Service and leadership
 ======
