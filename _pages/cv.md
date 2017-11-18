@@ -54,8 +54,8 @@ Grants and Awards
 
 Field experience
 ======
-* [<u>Hell Creek region, Montana. K-Pg boundary. 2017</u>](/portfolio/100-hell-creek-2017/)
-* Columbia River Plateau, Washington. Flood basalt volcanism. 2016
+* [<u>Hell Creek region, Montana. K-Pg boundary</u> 2017](/portfolio/100-hell-creek-2017/)
+* [<u>Columbia River Plateau, Washington. Flood basalt volcanism</u> 2016](/portfolio/101-columbia-river-2016/)
 * [<u>Needle Mountains, Colorado. Proterozoic tectonics and magmatism</u> 2012-2014](/portfolio/105-needle-mountains-2014/)
 * [<u>Talkeetna Arc, Alaska. Lower crustal magmatism</u> 2013](/portfolio/106-talkeetna-2013/)
 * [<u>Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement</u> 2011-2014](/portfolio/109-bergell-2011/)

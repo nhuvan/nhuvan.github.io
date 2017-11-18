@@ -43,15 +43,6 @@ Glacially-carved granite domes near Tenaya Lake, Yosemite
 
 ---
 
-<a href='/images/GrandeRonde2.jpg'><img src='/images/GrandeRonde2.jpg'></a>
-Grande Ronde flows of the Columbia River Flood Basalt
-
----
-
-<a href='/images/GrandeRonde1.jpg'><img src='/images/GrandeRonde1.jpg'></a>
-Grande Ronde flows of the Columbia River Flood Basalt
-
----
 
 <a href='/images/IcelandLavaTube1.jpg'><img src='/images/IcelandLavaTube1.jpg'></a>
 Intricate fluting and spatter on the wall of a lava tube, Raufarhólshellir, Iceland
@@ -85,6 +76,11 @@ Meter-scale columnar jointing in the main flow of the Bishop Tuff, Owens Valley,
 
 <a href='/images/BishopTuffAirfall1.jpg'><img src='/images/BishopTuffAirfall1.jpg'></a>
 Airfall ash and pumice from the Bishop Tuff, Owens Valley, California
+
+---
+
+<a href='/images/EurekaDunes1.jpg'><img src='/images/EurekaDunes1.jpg'></a>
+Students climb one of the tallest sand dunes in North America - Eureka Dunes, Death Valley
 
 ---
 
