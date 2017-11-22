@@ -3,6 +3,10 @@ title: "Other field trips"
 excerpt: "<a href='/portfolio/123-other-field-trips/'><img src='/images/WalkerPanorama1.jpg'></a>"
 collection: portfolio
 ---
+<a href='/images/Burgess1.jpg'><img src='/images/Burgess1.jpg'></a>
+Trilobite fragment (probably <i>Ollenoides serratus</i>), Walcott Quarry member of the Burgess Shale, British Columbia
+
+---
 
 <a href='/images/InyoTensionGash1.jpg'><img src='/images/InyoTensionGash1.jpg'></a>
 Rotated tension gash in the contact aureole of the Inyo Batholith, White-Inyo Mountains, California
