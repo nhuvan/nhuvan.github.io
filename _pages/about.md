@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<script src="https://widget.battleforthenet.com/widget.js" async></script>
 I hope to contribute to our understanding of the Earth system using two key methodologies: high-precision geochronology and high-performance computing.
 
 Geochronology
