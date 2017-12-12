@@ -52,6 +52,6 @@ Chilled margin at a contact where diorite is intruding leucodiorite, South Fork 
 ---
 
 <a href='/images/LeucogabbroSill.jpg'><img src='/images/LeucogabbroSill.jpg'></a>
-Large leucogabbro sill intruding gabbros and diorites, South Fork Matanuska River valley.
+Large leucogabbro sill intruding gabbros and diorites, South Fork Matanuska River valley. [Barbara Ratschbacher](http://www.bratschbacher.com/) for scale.
 
 ---
