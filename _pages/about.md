@@ -15,7 +15,7 @@ Time is the fundamental independent variable of the natural sciences — the pro
 
 Recent work:
 
-[Stepwise Chemical Abrasion ID-TIMS-Tea of Hadean Jack Hills Zircon Microfragments](https://goldschmidt.info/2017/abstracts/abstractView?id=2017004865)
+[New measurement of the 238U decay constant with inductively coupled plasma mass spectrometry](rdcu.be/41Hg)
 
 
 Computation
