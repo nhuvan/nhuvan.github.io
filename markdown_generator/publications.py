@@ -110,7 +110,7 @@ for row, item in publications.iterrows():
 
     if len(str(item.pdf_url)) > 5 or len(str(item.code_url)) > 5 or len(str(item.preprint_url)):
         md += "\n\n"
-    if len(str(item.pdf_url)) > 5:
+    if len(str(item.preprint_url)) > 5:
         md += "<a href='" + item.preprint_url + "'>Preprint</a>" 
     if len(str(item.pdf_url)) > 5:
         md += "<a href='" + item.pdf_url + "'>PDF</a>" 

@@ -54,6 +54,9 @@
     {% endif %}
     
      <p>
+     {% if post.preprinturl %}
+      <a href="{{ post.preprinturl  }}"><u>Preprint</u></a>
+     {% endif %}
      {% if post.pdfurl %}
       <a href="{{ post.pdfurl }}"><u>PDF</u></a>
     {% endif %}
