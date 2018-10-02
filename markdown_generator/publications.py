@@ -121,7 +121,7 @@ for row, item in publications.iterrows():
     if len(str(item.abstract)) > 5:
        md += "\n>Abstract: <br/>" + item.abstract + "\n"
     
-    md += "\nSuggested citation: " + item.citation
+    md += "\nSuggested citation: <br/>" + item.citation
     
     md_filename = os.path.basename(md_filename)
        
