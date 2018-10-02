@@ -2,7 +2,7 @@
 title: "A Stochastic Sampling Approach to Zircon Eruption Age Interpretation"
 collection: publications
 permalink: /publication/2018-10-02-Keller-Schoene-Samperton-2018
-excerpt: 'Weighted Means considered harmful'
+excerpt: 'Weighted Means Considered Harmful'
 date: 2018-10-02
 venue: 'Geochemical Perspectives Letters'
 paperurl: 'https://doi.org/10.7185/geochemlet.1826'
@@ -10,7 +10,7 @@ codeurl: 'https://github.com/brenhinkeller/BayeZirChron.c'
 authors: 'C. Brenhin Keller, Blair Schoene, and Kyle M. Samperton'
 citation: 'Keller, C.B., Schoene, B., &amp; Samperton, K.M. (2018) A Stochastic Sampling Approach to Zircon Eruption Age Interpretation. <i>Geochemical Persectives Letters</i> 8, 31-35'
 ---
-Weighted Means considered harmful
+Weighted Means Considered Harmful
 
 
 <a href='https://github.com/brenhinkeller/BayeZirChron.c'>Code and Data</a>
