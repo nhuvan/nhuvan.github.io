@@ -107,7 +107,9 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
 
-
+    
+    if len(str(item.preprint_url)) > 5 or len(str(item.pdf_url)) > 5 or len(str(item.code_url)) > 5:
+        md += "\n"
     if len(str(item.preprint_url)) > 5:
         md += "<a href='" + item.preprint_url + "'>Preprint</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
     if len(str(item.pdf_url)) > 5:
