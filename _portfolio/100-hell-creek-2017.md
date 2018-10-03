@@ -22,7 +22,7 @@ A well-preserved animal burrow through a volcanic ash layer in the Hauso Flats Z
 ---
 
 <a href='/images/Nirvana1.jpg'><img src='/images/Nirvana1.jpg'></a>
-UC Berkeley graduate student Isabel Fendley samples a trench across the K-Pg boundary for mercury abundance and carbon isotopes
+UC Berkeley graduate student [Isabel Fendley](http://eps.berkeley.edu/people/isabel-fendley) samples a trench across the K-Pg boundary for mercury abundance and carbon isotopes
 
 ---
 
