@@ -104,8 +104,6 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
     
-    if len(str(item.preprint_url)) > 5 or len(str(item.pdf_url)) > 5 or len(str(item.code_url)) > 5:
-        md += "\n"
     if len(str(item.preprint_url)) > 5:
         md += "<a href='" + item.preprint_url + "'>Preprint</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
     if len(str(item.pdf_url)) > 5:
@@ -114,12 +112,12 @@ for row, item in publications.iterrows():
         md += "<a href='" + item.code_url + "'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
 
     if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+        md += "\n\n" + html_escape(item.excerpt)
    
     if len(str(item.abstract)) > 5:
-        md += "\n>Abstract: <br/>" + item.abstract + "\n"
+        md += "\n\n>Abstract: <br/>" + item.abstract
     
-    md += "\nSuggested citation: <br/>" + item.citation
+    md += "\n\nSuggested citation: <br/>" + item.citation
     
     md_filename = os.path.basename(md_filename)
        
