@@ -45,7 +45,7 @@
      {% if post.preprinturl %}
       <a href="{{ post.preprinturl  }}"><u>Preprint</u></a>
       {% if post.preprintpdf %}
-       (<a href="{{ post.preprintpdf  }}"><u>pdf</u></a>)
+       (<a href="{{ post.preprintpdf  }}"><u>PDF</u></a>)
       {% endif %}
       &nbsp;&nbsp;
      {% endif %}
@@ -53,7 +53,7 @@
        <a href="{{ post.pdfurl }}"><u>PDF</u></a>&nbsp;&nbsp;
      {% endif %}
      {% if post.codeurl %}
-       <a href="{{ post.codeurl }}"><u>Code and Data</u></a>&nbsp;&nbsp;
+        <a href="{{ post.codeurl }}"><u>Code and Data</u></a>&nbsp;&nbsp;
      {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
