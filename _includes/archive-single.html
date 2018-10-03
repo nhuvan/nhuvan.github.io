@@ -48,7 +48,6 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-     <p>
      {% if post.preprinturl %}
       <a href="{{ post.preprinturl  }}"><u>Preprint</u></a>&nbsp;&nbsp;
      {% endif %}
@@ -58,7 +57,6 @@
     {% if post.codeurl %}
       <a href="{{ post.codeurl }}"><u>Code and Data</u></a>&nbsp;&nbsp;
     {% endif %}
-    </p>
     
   </article>
 </div>
