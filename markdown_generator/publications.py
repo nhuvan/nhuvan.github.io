@@ -99,7 +99,9 @@ for row, item in publications.iterrows():
     md += "\nauthors: '" + html_escape(item.authors) + "'"
 
     md += "\ncitation: '" + html_escape(item.citation) + "'"
-        
+    
+    md += "\n---"
+    
     ## Markdown description for individual page
     
     if len(str(item.preprint_url)) > 5 or len(str(item.pdf_url)) > 5 or len(str(item.code_url)) > 5:
@@ -110,8 +112,6 @@ for row, item in publications.iterrows():
         md += "<a href='" + item.pdf_url + "'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
     if len(str(item.code_url)) > 5:
         md += "<a href='" + item.code_url + "'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
-
-    md += "\n---"
 
     if len(str(item.excerpt)) > 5:
         md += "\n\n" + html_escape(item.excerpt)
