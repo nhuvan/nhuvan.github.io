@@ -6,14 +6,14 @@ excerpt: '“Weighted Means Considered Harmful”'
 date: 2018-10-02
 venue: 'Geochemical Perspectives Letters'
 paperurl: 'https://doi.org/10.7185/geochemlet.1826'
-preprinturl: 'https://doi.org/10.31223/osf.io/aws79'
-preprintpdf: 'https://brenhinkeller.github.io/files/KSS2018Preprint.pdf'
+preprinturl: 'https://brenhinkeller.github.io/files/KSS2018Preprint.pdf'
+arxivurl: 'https://doi.org/10.31223/osf.io/aws79'
 pdfurl: 'https://brenhinkeller.github.io/files/KSS2018.pdf'
 codeurl: 'https://github.com/brenhinkeller/BayeZirChron.c'
 authors: 'C. Brenhin Keller, Blair Schoene, and Kyle M. Samperton'
 citation: 'Keller, C.B., Schoene, B., &amp; Samperton, K.M. (2018) A Stochastic Sampling Approach to Zircon Eruption Age Interpretation. <i>Geochemical Persectives Letters</i> 8, 31-35'
 ---
-<a href='https://doi.org/10.31223/osf.io/aws79'>Preprint</a> (<a href='https://brenhinkeller.github.io/files/KSS2018Preprint.pdf'>PDF</a>)&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://brenhinkeller.github.io/files/KSS2018.pdf'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/BayeZirChron.c'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://brenhinkeller.github.io/files/KSS2018Preprint.pdf'>Preprint</a> (<a href='https://doi.org/10.31223/osf.io/aws79'>EarthArXiv</a>)&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://brenhinkeller.github.io/files/KSS2018.pdf'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/BayeZirChron.c'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 “Weighted Means Considered Harmful”
 

@@ -6,13 +6,13 @@ excerpt: 'In this longer-format paper we examine in detail the record of basalti
 date: 2018-01-01
 venue: 'Earth and Planetary Science Letters'
 paperurl: 'https://doi.org/10.1016/j.epsl.2017.10.031'
-preprinturl: 'https://doi.org/10.31223/osf.io/afyxs'
-preprintpdf: 'https://brenhinkeller.github.io/files/KS2018Preprint.pdf'
+preprinturl: 'https://brenhinkeller.github.io/files/KS2018Preprint.pdf'
+arxivurl: 'https://doi.org/10.31223/osf.io/afyxs'
 codeurl: 'https://github.com/brenhinkeller/StatisticalGeochemistry'
 authors: 'Brenhin Keller and Blair Schoene.'
 citation: 'Keller, C.B. &amp; Schoene, B. (2018) Plate tectonics and continental basaltic geochemistry throughout Earth history. <i>Earth and Planetary Science Letters</i> 481, 290-304.'
 ---
-<a href='https://doi.org/10.31223/osf.io/afyxs'>Preprint</a> (<a href='https://brenhinkeller.github.io/files/KS2018Preprint.pdf'>PDF</a>)&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/StatisticalGeochemistry'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://brenhinkeller.github.io/files/KS2018Preprint.pdf'>Preprint</a> (<a href='https://doi.org/10.31223/osf.io/afyxs'>EarthArXiv</a>)&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/StatisticalGeochemistry'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 In this longer-format paper we examine in detail the record of basaltic rocks preserved in the continental crust, building on the weighted bootstrap resampling procedure of Keller and Schoene, 2012. A range of rapid trace element variations in the basaltic record can be explained as a result of mantle melting systematics (changing partition coefficients as a result of Grt and Cpx-out). Both trace element signatures of slab fluid input and major element signatures of calc-alkaline vs tholeiitic differentiation are remarkably stable and consistently arc-like, strongly suggesting the occurence of subduction and plate tectonics throughout the preserved rock record (back to at least 3.85 Ga). While some non-plate tectonic models may produce some flux melting, a virtually constant proportion of flux to decompression melting in the preserved continental record is a tall order for any non-plate model for Archean tectonics. 
 

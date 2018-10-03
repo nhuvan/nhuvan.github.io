@@ -89,8 +89,8 @@ for row, item in publications.iterrows():
     if len(str(item.preprint_url)) > 5:
         md += "\npreprinturl: '" + item.preprint_url + "'"
         
-    if len(str(item.preprint_pdf)) > 5:
-        md += "\npreprintpdf: '" + item.preprint_pdf + "'"
+    if len(str(item.arXiv_url)) > 5:
+        md += "\narxivurl: '" + item.arXiv_url + "'"
 
     if len(str(item.pdf_url)) > 5:
         md += "\npdfurl: '" + item.pdf_url + "'"
@@ -111,8 +111,8 @@ for row, item in publications.iterrows():
         md += "\n"
     if len(str(item.preprint_url)) > 5:
         md += "<a href='" + item.preprint_url + "'>Preprint</a>" 
-        if len(str(item.preprint_pdf)) > 5:
-            md += " (<a href='" + item.preprint_pdf + "'>PDF</a>)" 
+        if len(str(item.arXiv_url)) > 5:
+            md += " (<a href='" + item.arXiv_url + "'>EarthArXiv</a>)" 
         md+="&nbsp;&nbsp;&nbsp;&nbsp;"
     if len(str(item.pdf_url)) > 5:
         md += "<a href='" + item.pdf_url + "'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
