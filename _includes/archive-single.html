@@ -45,16 +45,16 @@
      {% if post.preprinturl %}
       <a href="{{ post.preprinturl  }}"><u>Preprint</u></a>
       {% if post.preprintpdf %}
-      (<a href="{{ post.preprintpdf  }}"><u>pdf</u></a>)
+       (<a href="{{ post.preprintpdf  }}"><u>PDF</u></a>)
       {% endif %}
       &nbsp;&nbsp;
      {% endif %}
      {% if post.pdfurl %}
-      <a href="{{ post.pdfurl }}"><u>PDF</u></a>&nbsp;&nbsp;
-    {% endif %}
-    {% if post.codeurl %}
+       <a href="{{ post.pdfurl }}"><u>PDF</u></a>&nbsp;&nbsp;
+     {% endif %}
+     {% if post.codeurl %}
       <a href="{{ post.codeurl }}"><u>Code and Data</u></a>&nbsp;&nbsp;
-    {% endif %}
+     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
