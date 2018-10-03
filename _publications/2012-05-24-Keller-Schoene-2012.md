@@ -9,7 +9,8 @@ paperurl: 'https://doi.org/10.1038/nature11024'
 codeurl: 'https://github.com/brenhinkeller/StatisticalGeochemistry'
 authors: 'C. Brenhin Keller and Blair Schoene.'
 citation: 'Keller, C.B. &amp; Schoene, B. (2012). Statistical geochemistry reveals disruption in secular lithospheric evolution about 2.5 Gyr ago. <i>Nature</i> 485, 490–493.'
----<a href='https://github.com/brenhinkeller/StatisticalGeochemistry'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://github.com/brenhinkeller/StatisticalGeochemistry'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
+---
 
 My first significant computational work - originally a side project to work on as a grad student while waiting for Blair&apos;s clean lab to be built. We were surprised by the strength and consistency of the geochemical trends we observed on Gyr timescales. The simplest signals directly reflect secular mantle cooling, but others hint at a change in crustal evolution that appears to coincide temporally with oxidation of the surface Earth in the Great Oxygenation Event.
 
