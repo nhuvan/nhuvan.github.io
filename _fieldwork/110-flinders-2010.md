@@ -1,7 +1,7 @@
 ---
 title: "Flinders Range, South Australia"
-excerpt: "<a href='/portfolio/110-flinders-2010/'><img src='/images/Flinders1.jpg'></a>"
-collection: portfolio
+excerpt: "<a href='/fieldwork/110-flinders-2010/'><img src='/images/Flinders1.jpg'></a>"
+collection: fieldwork
 ---
 
 <a href='/images/Flinders1.jpg'><img src='/images/Flinders1.jpg'></a>

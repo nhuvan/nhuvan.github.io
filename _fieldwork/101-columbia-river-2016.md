@@ -1,7 +1,7 @@
 ---
 title: "Columbia River Basalt Province, Washington and Oregon"
-excerpt: "<a href='/portfolio/101-columbia-river-2016'><img src='/images/GrandeRonde1.jpg'></a>"
-collection: portfolio
+excerpt: "<a href='/fieldwork/101-columbia-river-2016'><img src='/images/GrandeRonde1.jpg'></a>"
+collection: fieldwork
 ---
 Flood basalt volcanism
 ---

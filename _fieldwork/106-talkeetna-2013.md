@@ -1,7 +1,7 @@
 ---
 title: "Talkeetna Arc, Alaska"
-excerpt: "<a href='/portfolio/106-talkeetna-2013/'><img src='/images/Matanuska1.jpg'></a>"
-collection: portfolio
+excerpt: "<a href='/fieldwork/106-talkeetna-2013/'><img src='/images/Matanuska1.jpg'></a>"
+collection: fieldwork
 ---
 Lower crustal magmatism in the accreted Talkeetna Arc section of the Chugach Mountains
 ---
