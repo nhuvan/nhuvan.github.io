@@ -122,9 +122,6 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n\n" + html_escape(item.excerpt)
 
-    # add marker line
-    md += "\n\n-------"
-   
     if len(str(item.abstract)) > 5:
         md += "\n\n>Abstract: <br/>" + item.abstract
     
