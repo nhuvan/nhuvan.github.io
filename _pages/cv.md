@@ -17,11 +17,11 @@ C. Brenhin Keller
 Education
 ======
 * <b>B.S.</b> <i>summa cum laude</i>, Science of Earth Systems, Cornell University, May 2010
-  * <b>Thesis:</b> [<u>Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia</u>](https://doi.org/10.31237/osf.io/y6kv4)
+  * <b>Thesis:</b> [<i>Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia</i>](https://doi.org/10.31237/osf.io/y6kv4)
   * <b>Adviser:</b> [Suzanne Mahlburg Kay](https://scholar.google.com/citations?user=dPXx4dAAAAAJ&hl=en)
 * <b>M.S.</b>, Geosciences, Princeton University, May 2012
 * <b>Ph.D</b>, Geosciences, Princeton University, Nov. 2016
-  * <b>Thesis:</b> [<u>Geochemical evolution of Earth’s continental crust</u>](https://doi.org/10.31237/osf.io/q7yra)
+  * <b>Thesis:</b> [<i>Geochemical evolution of Earth’s continental crust</i>](https://doi.org/10.31237/osf.io/q7yra)
   * <b>Adviser:</b> [Blair Schoene](https://www.princeton.edu/geosciences/people/schoene/)
 <br/><br/>
 
