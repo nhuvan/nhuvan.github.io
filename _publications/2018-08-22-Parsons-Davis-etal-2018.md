@@ -2,7 +2,6 @@
 title: "New measurement of the 238U decay constant with inductively coupled plasma mass spectrometry"
 collection: publications
 permalink: /publication/2018-08-22-Parsons-Davis-etal-2018
-excerpt: '-------'
 date: 2018-08-22
 venue: 'Journal of Radioanalytical and Nuclear Chemistry'
 paperurl: 'https://doi.org/10.1007/s10967-018-6148-y'

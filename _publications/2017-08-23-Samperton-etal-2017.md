@@ -2,7 +2,6 @@
 title: "Zircon age-temperature-compositional spectra in plutonic rocks"
 collection: publications
 permalink: /publication/2017-08-23-Samperton-etal-2017
-excerpt: '-------'
 date: 2017-08-23
 venue: 'Geology'
 paperurl: 'https://doi.org/10.1130/G38645.1'

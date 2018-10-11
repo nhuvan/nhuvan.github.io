@@ -2,7 +2,6 @@
 title: "Magma emplacement, differentiation and cooling in the middle crust: Integrated zircon geochronological–geochemical constraints from the Bergell Intrusion, Central Alps"
 collection: publications
 permalink: /publication/2015-10-01-Samperton-etal-2015
-excerpt: '-------'
 date: 2015-10-01
 venue: 'Chemical Geology'
 paperurl: 'https://doi.org/10.1016/j.chemgeo.2015.10.024'
