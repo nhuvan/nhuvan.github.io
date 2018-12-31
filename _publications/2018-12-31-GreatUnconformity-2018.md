@@ -6,12 +6,12 @@ excerpt: '[<u>National Geographic press coverage</u>](https://www.nationalgeogra
 date: 2018-12-31
 venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/content/early/2018/12/26/1804350116'
-pdfurl: 'https://www.pnas.org/content/pnas/early/2018/12/26/1804350116.full.pdf'
+pdfurl: 'https://brenhinkeller.github.io/files/GreatUnconformity2018.pdf'
 codeurl: 'https://github.com/brenhinkeller/GreatUnconformity'
 authors: 'C. Brenhin Keller, Jon M. Husson, Ross N. Mitchell, William F. Bottke, Thomas M. Gernon, Patrick Boehnke, Elizabeth A. Bell, Nicholas L. Swanson-Hysell, and Shanan E. Peters'
 citation: 'Keller, C.B., Husson, J.M., Mitchell, R.N., Bottke, W.F., Gernon, T.M., Bell, E.A., Swanson-Hysell, N.L., &amp; Peters, S.E. (2018). Neoproterozoic glacial origin of the Great Unconformity. <i>PNAS</i> 201804350 doi:10.1073/pnas.1804350116'
 ---
-<a href='https://www.pnas.org/content/pnas/early/2018/12/26/1804350116.full.pdf'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/GreatUnconformity'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://brenhinkeller.github.io/files/GreatUnconformity2018.pdf'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/brenhinkeller/GreatUnconformity'>Code and Data</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 [<u>National Geographic press coverage</u>](https://www.nationalgeographic.com/science/2018/12/part-earths-crust-went-missing-glaciers-may-be-why-geology/)
 
