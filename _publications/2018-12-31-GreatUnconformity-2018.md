@@ -5,7 +5,7 @@ permalink: /publication/2018-12-31-GreatUnconformity-2018
 excerpt: 'It has long been observed that the sequence of sedimentary rocks deposited in the past half-billion years often sharply overlies older igneous or metamorphic basement at an erosional surface known as the Great Unconformity. We provide evidence that this unconformity may record rapid erosion during Neoproterozoic “snowball Earth” glaciations. We show that the extent of Phanerozoic sedimentation in shallow continental seas can be accurately reproduced by modeling the accommodation space produced by the proposed glacial erosion, underlining the importance of glaciation as a means for lowering erosional base level. These results provide constraints on the sedimentary and geochemical environment in which the first multicellular animals evolved and diversified in the “Cambrian explosion” following the unconformity. <br><br> [<u>National Geographic press coverage</u>](https://www.nationalgeographic.com/science/2018/12/part-earths-crust-went-missing-glaciers-may-be-why-geology/)'
 date: 2018-12-31
 venue: 'Proceedings of the National Academy of Sciences'
-paperurl: 'https://www.pnas.org/content/early/2018/12/26/1804350116'
+paperurl: 'https://doi.org/10.1073/pnas.1804350116'
 pdfurl: 'https://brenhinkeller.github.io/files/GreatUnconformity2018.pdf'
 codeurl: 'https://github.com/brenhinkeller/GreatUnconformity'
 authors: 'C. Brenhin Keller, Jon M. Husson, Ross N. Mitchell, William F. Bottke, Thomas M. Gernon, Patrick Boehnke, Elizabeth A. Bell, Nicholas L. Swanson-Hysell, and Shanan E. Peters'
