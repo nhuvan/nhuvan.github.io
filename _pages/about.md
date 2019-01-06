@@ -15,7 +15,7 @@ Time is the fundamental independent variable of the natural sciences — the pro
 
 Recent work:
 
-[New measurement of the 238U decay constant with inductively coupled plasma mass spectrometry](https://rdcu.be/41Hg)
+[New measurement of the 238U decay constant with inductively coupled plasma mass spectrometry](https://brenhinkeller.github.io/publication/2018-08-22-Parsons-Davis-etal-2018)
 
 
 Computation
@@ -24,4 +24,4 @@ Computation and modeling are naturally complementary to a time-centered philosop
 
 Recent work:
 
-[Plate tectonics and continental basaltic geochemistry throughout Earth history](https://doi.org/10.1016/j.epsl.2017.10.031)
+[Chron.jl: A Bayesian framework for integrated eruption age and age-depth modelling](https://brenhinkeller.github.io/publication/2018-10-26-Chron-2018)
