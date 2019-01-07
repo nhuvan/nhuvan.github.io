@@ -111,8 +111,8 @@ for row, item in publications.iterrows():
         md += "\n"
     if len(str(item.preprint_url)) > 5:
         md += "<a href='" + item.preprint_url + "'>Preprint</a>" 
-        if len(str(item.arXiv_url)) > 5:
-            md += " (<a href='" + item.arXiv_url + "'>EarthArXiv</a>)" 
+#        if len(str(item.arXiv_url)) > 5:
+#            md += " (<a href='" + item.arXiv_url + "'>EarthArXiv</a>)" 
         md+="&nbsp;&nbsp;&nbsp;&nbsp;"
     if len(str(item.pdf_url)) > 5:
         md += "<a href='" + item.pdf_url + "'>PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;" 
