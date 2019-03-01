@@ -10,8 +10,9 @@ redirect_from:
 
 C. Brenhin Keller
 ---
-<b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, Oct. 2016-Present <br/>
-<b>Visiting Scientist</b>, Lawrence Livermore National Laboratory, Nov. 2016-Present
+<b>Assistant Professor</b>, Department of Earth Sciences, Dartmouth College, 2019-Present<br/>
+<b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, 2016-2019<br/>
+<b>Visiting Scientist</b>, Lawrence Livermore National Laboratory, 2016-Present
 <br/><br/>
 
 Education
