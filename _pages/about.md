@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hope to contribute to our understanding of the Earth system using techniques including high-precision geochronology and high-performance computing.
+I hope to contribute to our understanding of the Earth system using field, laboratory, and computational techniques, particularly including high-precision U-Pb geochronology and high-performance parallel computing.
 
 ---
 
