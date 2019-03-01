@@ -10,6 +10,8 @@ redirect_from:
 
 C. Brenhin Keller
 ---
+Assistant Professor, Department of Earth Sciences, Dartmouth College
+<br/><br/>
 
 Appointments
 ======
