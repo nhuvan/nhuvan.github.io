@@ -16,8 +16,8 @@ Assistant Professor, Department of Earth Sciences, Dartmouth College
 Appointments
 ======
 * <b>Assistant Professor</b>, Department of Earth Sciences, Dartmouth College, 2019-Present<br/>
-* <b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, 2016-2019<br/>
 * <b>Visiting Scientist</b>, Lawrence Livermore National Laboratory, 2016-Present
+* <b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, 2016-2019<br/>
 <br/><br/>
 
 Education
