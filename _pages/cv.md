@@ -15,9 +15,9 @@ Assistant Professor, Department of Earth Sciences, Dartmouth College
 
 Appointments
 ======
-* <b>Assistant Professor</b>, Department of Earth Sciences, Dartmouth College, 2019-Present<br/>
+* <b>Assistant Professor</b>, Department of Earth Sciences, Dartmouth College, 2019-Present
 * <b>Visiting Scientist</b>, Lawrence Livermore National Laboratory, 2016-Present
-* <b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, 2016-2019<br/>
+* <b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, 2016-2019
 <br/><br/>
 
 Education
@@ -45,7 +45,7 @@ Teaching
   {% endfor %}</ul>
   <br/>
   
-Grants and Awards
+Awards
 ======
 * <b>U.S. Department of Energy Computational Science Graduate Fellowship</b> 2012-2016<br/>
 
@@ -69,16 +69,11 @@ Field experience
 * [<u>Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite</u> 2010](/fieldwork/111-frailes-2010/)
 <br/><br/>
 
-Other research experience
+Other
 ======
-* <b>Reactive molecular dynamics</b> simulation of silicate sorption on the hematite r-plane, with free energy estimation by umbrella sampling. CSGF practicum, Spring 2014
-  * Supervisor: [Glenn Waychunas, Lawrence Berkeley National Laboratory](https://eesa.lbl.gov/profiles/glenn-a-waychunas/)
-* <b>Solid-state inorganic chemistry</b>, including synthesis of novel ternary nitrides and conductive transition-metal-doped rutile. Research assistant, 2004-2008.
-  * Supervisor: [Francis DiSalvo, Cornell University](http://chemistry.cornell.edu/francis-disalvo)
-<br/><br/>
-
-Service and leadership
-======
-* <b>Session chair</b>, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
-* <b>Session chair</b>, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
+* Advisory Committee member, Interdisciplinary Earth Data Alliance (IEDA)
+* Session chair, “Upper Crust Evolution: Models of Formation and Composition”, AGU Fall Meeting, 2018
+* Session chair, “Igneous Processes throughout the Arc Crustal Column and Oceanic Mantle”, Goldschmidt Conference, 2018
+* Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
+* Session chair, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
 
