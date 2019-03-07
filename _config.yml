@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "C. Brenhin Keller"
   avatar           : "profile2.jpg"
-  bio              : "Assistant Professor<br>Earth Sciences<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
+  bio              : "[Assistant Professor<br>Earth Sciences](https://earthsciences.dartmouth.edu/people/c-brenhin-keller)<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
   location         :
-  employer         : "[Dartmouth Earth Sciences](https://earthsciences.dartmouth.edu/people/c-brenhin-keller)"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NZVGPiwAAAAJ&hl=en&oi=ao"
   email            :
   uri              :
