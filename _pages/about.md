@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm an [Assistant Professor of Earth Sciences](https://earthsciences.dartmouth.edu/people/c-brenhin-keller) at Dartmouth College.
+
 Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My research applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
 
 ---
