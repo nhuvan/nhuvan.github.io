@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hope to contribute to our understanding of the Earth system through an integration of field, laboratory, and computational techniques – particularly including high-precision U-Pb geochronology and high-performance parallel computing.
+Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My research applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
 
 ---
 
