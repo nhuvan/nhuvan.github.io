@@ -1,6 +1,6 @@
 ---
 title: "Hell Creek, Montana"
-excerpt: "<a href='/fieldwork/100-hell-creek-2017/'><img src='/images/KTBcropped.jpg'></a>The K-Pg boundary claystone (upper pencil) above the IrZ tonstein (lower pencil) within the IrZ coal at Herpejunk, Hell Creek, Montana"
+excerpt: "<a href='/fieldwork/100-hell-creek-2017/'><img src='/images/KTBcropped.jpg'></a>The K-Pg boundary claystone (lower pencil) just below the IrZ tonstein (upper pencil) within the IrZ coal at Herpejunk, Hell Creek, Montana"
 collection: fieldwork
 ---
 K-Pg boundary
