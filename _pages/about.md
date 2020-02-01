@@ -1,18 +1,20 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
+Welcome to my website.
 
-I'm an [Assistant Professor of Earth Sciences](https://earthsciences.dartmouth.edu/people/c-brenhin-keller) at Dartmouth College.
+I'm a Computer Vision and Machine Learning researcher at ANR S.A.I.L Lab, University of La Rochelle.
 
 ---
 
-Despite the static appearance of Earth’s continental crust on human timescales, the composition and structure of the crust has changed markedly throughout Earth history. My research applies a wide range of integrated computational, field, and geochronological approaches to better understand the history of the solid Earth, particularly including the formation of the continental crust and its coevolution with the biosphere and the surface Earth system.
+I completed my PhD in Computer Vision in 10/2011. I am interested in the field of Computer Vision and Machine Learning. My research focuses on three themes 
+
+If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . edu
 
 ---
 

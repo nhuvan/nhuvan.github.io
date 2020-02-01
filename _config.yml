@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CBK"
+title                    : "Vincent's website"
 title_separator          : "-"
-name                     : &name "C. Brenhin Keller"
-description              : &description "geochemistry, geochronology, computational science"
-url                      : https://brenhinkeller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vincent Nguyen"
+description              : &description "intelligence artificielle, computer vision, machine learning, document image analysis, image processing"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brenhinkeller/brenhinkeller.github.io"
-teaser                   : "/images/Matanuska1.jpg"
+repository               : "nhuvan/nhuvan.github.io"
+teaser                   : "hack4growth.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "C. Brenhin Keller"
-  avatar           : "profile2.jpg"
-  bio              : "Assistant Professor<br>Earth Sciences<br>Dartmouth College<br><br>cbkeller at dartmouth . edu"
-  location         :
+  name             : "Vincent Nguyen"
+  avatar           : "avatar_bw.jpg"
+  bio              : "Researcher <br>S.A.I.L ANR Join Lab<br>L3i, University of La Rochelle<br><br>nhu-van.nguyen at univ-lr . fr"
+  location         : "La Rochelle, France"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=NZVGPiwAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=5m04JbwAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   uri              :
   bitbucket        :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "brenhinkeller"
+  github           : "nhuvan"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7400-9428"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  osf              : "https://osf.io/b7td9/"
+  osf              : 
   
 
 # Reading Files
@@ -182,6 +182,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  administratives:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,6 +242,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _administrative
+  - scope:
+      path: ""
+      type: administratives
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -250,7 +261,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

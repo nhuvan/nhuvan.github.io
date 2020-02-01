@@ -1,20 +1,24 @@
 # main links links
 main:
+
   - title: "Publications"
     url: /publications/
     
-  - title: "Code"
-    url: https://github.com/brenhinkeller
-
-  - title: "Fieldwork"
-    url: /fieldwork/
-
-  - title: "News"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Teaching"
+  - title: "Teaching activities"
     url: /teaching/
 
+  - title: "Administrative activities"
+    url: /administratives/
+
+  - title: "Entrepreneurship"
+    url: /entrepreneurship/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  - title: "Misc."
+    url: /misc/
+
+  # - title: "About"
+  #   url: /about/
+    
