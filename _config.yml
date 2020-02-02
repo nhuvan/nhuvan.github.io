@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vincent's website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Vincent Nguyen"
 description              : &description "intelligence artificielle, computer vision, machine learning, document image analysis, image processing"

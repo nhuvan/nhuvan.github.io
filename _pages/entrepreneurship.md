@@ -1,20 +1,15 @@
 ---
 layout: archive
-title: "Entrepreneurship"
+title: "Entrepreneuriat"
 permalink: /entrepreneurship/
 author_profile: true
 ---
  
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
 
 
 ### 01/2016-04/2019 : [BrickIn'Up](/administratives/101-bup/)
 
-BrickIn'Up est une plateforme digitale qui apporte une réponse innovante face à la surconsommation des contenus numériques.
+[BrickIn'Up](/administratives/101-bup/) est une plateforme digitale qui apporte une réponse innovante face à la surconsommation des contenus numériques.
 
 + Co-fondateur
 + Directeur de Research & Innovation
@@ -28,6 +23,8 @@ Un Startup Insurtech en Allemande.
 
 ### 04/2019- : SotaTek, Vietnam
 
-An IT Outsourcing and AI Solution company in Vietnam
+<!-- An IT Outsourcing and AI Solution company in Vietnam -->
+
+Une société d'externalisation informatique et de solutions d'IA au Vietnam
 
 + Advisor

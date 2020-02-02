@@ -1,22 +1,22 @@
 # main links links
 main:
 
-  - title: "Publications"
+  - title: "Recherche"
     url: /publications/
     
-  - title: "Teaching activities"
+  - title: "Activités d'Enseignement"
     url: /teaching/
 
-  - title: "Administrative activities"
+  - title: "Activités Administratives"
     url: /administratives/
 
-  - title: "Entrepreneurship"
+  - title: "Entrepreneuriat"
     url: /entrepreneurship/
     
   # - title: "CV"
   #   url: /cv/
     
-  - title: "Misc."
+  - title: "Et Plus..."
     url: /misc/
 
   # - title: "About"

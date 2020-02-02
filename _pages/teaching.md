@@ -1,13 +1,11 @@
----
+--- 
 layout: archive
-title: "Teaching"
+title: "Activités d'Enseignement"
 permalink: /teaching/
 author_profile: true
----
- 
+--- 
 
 {% include base_path %}
-
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% include archive-single.html %}
 {% endfor %}

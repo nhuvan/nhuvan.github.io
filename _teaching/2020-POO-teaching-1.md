@@ -1,7 +1,7 @@
 ---
-title: "Object oriented programming, 2020"
+title: "Programmation Orienté Objet, 2020"
 collection: teaching
-type: "Undergraduate Course"
+type: "Etudiants IUT (Bac+2)"
 permalink: /teaching/2020-POO-teaching-1
 venue: "Université de La Rochelle, IUT"
 date: 2020-02-25

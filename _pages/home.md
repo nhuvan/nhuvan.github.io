@@ -14,12 +14,27 @@ I'm a Computer Vision and Machine Learning researcher at ANR S.A.I.L Lab, Univer
 
 ### BIO:
 
-I completed my PhD in Computer Vision in 10/2011. I am interested in the field of Computer Vision and Machine Learning. My research focuses on two themes:
+I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucherde et prof. Salvatore Tabbone. From 2012 to 2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. In 2015-2016, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. So I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie on the comic book images analysis. From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the join lab S.A.I.L. In this context, I work mainly on the avanced analysis for Sequential Art (digital comic books, mangas, and webtoons).<br/>
+My research focuses on two themes:
 
-+ La fouille multimodale de bases d’images et de vidéos
-+ L’apprentissage automatique pour la reconnaissances de formes 
++ Multimodal indexing and retrieval for images & videos
++ Machine learning for pattern recognition
 
-If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr
+<!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
+
+### Projects:
+
++ <b>The project SAIL (Sequential Art Image Laboratory)</b> funded by the National Research Agency (ANR).
+<!-- L'objectif est d'obtenir une description sémantique précise des albums, des pages et des cases tant au niveau géométrique (structure des pages) que textuel (compréhension du texte) et graphique (éléments visuels)des Bande Dessiné numérisées (Comics, Mangas et Webtoons). -->
++ <b>The project eBDthèque</b>  funded by the European Regional Development Fund (FEDER), as part of the Investing for the Future iiBD.
+ <!-- dans le cadre de l’Investissement d’Avenir iiBD. L’objectif est de valoriser les corpus de Bande Dessiné numérisées. -->
++ <b>The projecct Post-OCR</b>  
+<!-- la correction de textes OCR (Optical Character Recognition). Normalement, la reconnaissance de textes n’étant pas parfaite, une étape de post-traitement est nécessaire pour améliorer le texte.  -->
++ <b>The project IDEA</b>  (Images of natural Disasters from robot Exploration in urban Area) funded by the STIC-Asie program.
+ <!-- se positionnait sur le thème du traitement d’images et l’extraction de contenu pour la gestion des informations collectées par des robots patrouillant dans les zones urbaines dans une situation de post-catastrophe. -->
++ <b>The project PEDIVHANDI</b>  (Pédagogie et Diversité des Apprenants avec Priorité au Handicap) funded by the European Regional Development Fund (FEDER).
+
+<!-- L’idée principale était d’analyser les contenus audiovisuels et documentaires par des techniques issues de l’analyse du signal et de l’image. Ces contenus multimédia sont le résultat de l’acquisition par différentes modalités : webcam issues de tablettes ou de PC, flux vidéo issus d’un système de visio-conférence… -->
 
 ### Contact:
 
@@ -33,7 +48,7 @@ Phone: (+33) xxxxxx
 
 ### News:
 
-+ <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for [VILinks2020](https://www.vietnaminnovationlinks.org). <br/>
++ <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for <span style="color:blue">[VILinks2020](https://www.vietnaminnovationlinks.org).</span> <br/>
 We are looking for high profile innovators to speak at VILinks, the international innovation summit in VIetnam on 06-08 August 2020.
 
 + <span style="color:red">12/2019:</span> Looking for 2 interns in Computer Vision and Machine Learning, 1 PhD student on comic book image analysis.

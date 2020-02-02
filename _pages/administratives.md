@@ -1,15 +1,10 @@
 ---
 layout: archive
-title: "Administrative activities"
+title: "Activités Administratives"
 permalink: /administratives/
 author_profile: true
 ---
  
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
 
 ## Charges collectives, activités administratives et autres
 
