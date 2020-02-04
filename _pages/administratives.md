@@ -12,7 +12,7 @@ author_profile: true
 + Depuis 01/2017: Administration, gestion du cluster de serveurs GPU et CPU du laboratoire L3i 
 + 2018: Participation aux jurys de soutenance de master IFI.
 + 2017 (2 journées): Participation au Hackathon OpenData de La Rochelle, l'équipe représentant des doctorants et des jeunes chercheurs du laboratoire L3i.
-+ 10/2018-04/2019: Organisateur de la compétition : "Competition on Fine-Grained Classification of Comic Characters", ICDAR2019.
++ 10/2018-04/2019: Organisateur de la compétition : ["Competition on Fine-Grained Classification of Comic Characters"](https://fgc.univ-lr.fr/), ICDAR2019.
 + 04/2018-07/2018: Organisateur de la série de séminaires sur l'apprentissage profond en 2018. Plus de 50 participants.
 + Membre du comité du programme du workshop MANPU2017, MANPU2019
 + Participation à l’animation de stands lors des journées Fête de la Science et des journées Portes Ouvertes
