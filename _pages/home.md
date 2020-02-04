@@ -14,7 +14,7 @@ I'm a Computer Vision and Machine Learning researcher at ANR S.A.I.L Lab, Univer
 
 ### BIO:
 
-I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucherde et prof. Salvatore Tabbone. From 2012 to 2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. In 2015-2016, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. So I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie on the comic book images analysis. From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the join lab S.A.I.L. In this context, I work mainly on the avanced analysis for Sequential Art (digital comic books, mangas, and webtoons).<br/>
+I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucherde and prof. Salvatore Tabbone. From 2012 to 2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. From 10/2014 to 04/2016, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. So I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie on the comic book images analysis. From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the join lab S.A.I.L. In this context, I work mainly on the avanced analysis for Sequential Art (digital comic books, mangas, and webtoons).<br/>
 My research focuses on two themes:
 
 + Multimodal indexing and retrieval for images & videos
@@ -28,7 +28,7 @@ My research focuses on two themes:
 <!-- L'objectif est d'obtenir une description sémantique précise des albums, des pages et des cases tant au niveau géométrique (structure des pages) que textuel (compréhension du texte) et graphique (éléments visuels)des Bande Dessiné numérisées (Comics, Mangas et Webtoons). -->
 + <b>The project eBDthèque</b>  funded by the European Regional Development Fund (FEDER), as part of the Investing for the Future iiBD.
  <!-- dans le cadre de l’Investissement d’Avenir iiBD. L’objectif est de valoriser les corpus de Bande Dessiné numérisées. -->
-+ <b>The projecct Post-OCR</b>  
++ <b>The project Post-OCR</b>  
 <!-- la correction de textes OCR (Optical Character Recognition). Normalement, la reconnaissance de textes n’étant pas parfaite, une étape de post-traitement est nécessaire pour améliorer le texte.  -->
 + <b>The project IDEA</b>  (Images of natural Disasters from robot Exploration in urban Area) funded by the STIC-Asie program.
  <!-- se positionnait sur le thème du traitement d’images et l’extraction de contenu pour la gestion des informations collectées par des robots patrouillant dans les zones urbaines dans une situation de post-catastrophe. -->
@@ -39,7 +39,7 @@ My research focuses on two themes:
 ### Contact:
 
 + Offices: C001, Bât. Pascal, Université de La Rochelle, France <br/>
-Phone: (+33) xxxxxx
+Phone: (+33) 5 46 45 87 62
 + Email Univ: nhu-van.nguyen @ univ-lr . fr
 + Email AVSE-G: nhuvan.nguyen @ avseglobal . org
 

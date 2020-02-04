@@ -17,6 +17,10 @@ Presentation at the ICDAR (Sydney, Australia 2019)
 <a href='https://www.vietnaminnovationlinks.org'><img src='/images/vilink_02.jpg' width="50%"></a>
 <br/>
 Discussion with the National Television (Hanoi, Vietnam 2019)
+<br/>
+<a href='https://www.youtube.com/watch?v=C1rNGzaGSfA&feature=youtu.be&t=35'><img src='/images/vtv_van.jpg' width="50%"></a>
+<br/>
+National Television interview (Hanoi, Vietnam 2018)
 
 ### Vietnam Innovation Network (2018)
 
