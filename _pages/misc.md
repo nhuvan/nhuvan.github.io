@@ -27,7 +27,7 @@ National Television interview (Hanoi, Vietnam 2018)
 <img src='/images/vin_01.jpg' width="50%"><br/>
 Meeting with the Prime Miniter (Hanoi, Vietnam 2018)
 <br/>
-<img src='/images/vglf_01.jpg' width="50%">
+<img src='/images/vglf_03.jpg' width="50%">
 <br/>
 Participation at the Vietnam Global Leaders Forum (Paris, France 2019)
 
