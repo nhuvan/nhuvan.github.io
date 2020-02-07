@@ -7,14 +7,14 @@ author_profile: true
  
 ### 01/2019- : [DopikAI Lab](https://dopikai.com/)
 
-<span style="color:blue">[DopikAI Lab](https://dopikai.com/)</span> est un labo de recherche spécialisée en AI appliqué.
+<span style="color:blue">[**DopikAI Lab**](https://dopikai.com/)</span> est un labo de recherche spécialisée en AI appliqué.
 
 + Fondateur
 
 
 ### 01/2016-04/2019 : [BrickIn'Up](/administratives/101-bup/)
 
-<span style="color:blue">[BrickIn'Up](/administratives/101-bup/)</span> est une plateforme digitale qui apporte une réponse innovante face à la surconsommation des contenus numériques.
+<span style="color:blue">[**BrickIn'Up**](/administratives/101-bup/)</span> est une plateforme digitale qui apporte une réponse innovante face à la surconsommation des contenus numériques.
 
 + Co-fondateur
 + Directeur de Research & Innovation
