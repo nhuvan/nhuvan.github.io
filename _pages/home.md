@@ -14,11 +14,11 @@ I'm a Computer Vision and Machine Learning researcher at ANR S.A.I.L Lab, Univer
 
 ### BIO:
 
-I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucherde and prof. Salvatore Tabbone. From 2012 to 2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. From 10/2014 to 04/2016, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. So I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie on the comic book images analysis. From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the join lab S.A.I.L. In this context, I work mainly on the avanced analysis for Sequential Art (digital comic books, mangas, and webtoons).<br/>
+I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucher and prof. Salvatore Tabbone. From 2012 to 2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. From 10/2014 to 04/2016, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. So I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybric methods (deep learning and traditional image processing/computer vision techniques). From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the join lab S.A.I.L. In this context, I work mainly on the  semi-supervised and weakly supervised learning methods.<br/>
 My research focuses on two themes:
 
 + Multimodal indexing and retrieval for images & videos
-+ Machine learning for pattern recognition
++ Machine learning (focusing on semi-supervised and weakly supervised learning) for pattern recognition
 
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
