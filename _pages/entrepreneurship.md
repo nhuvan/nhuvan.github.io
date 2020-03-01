@@ -5,11 +5,11 @@ permalink: /entrepreneurship/
 author_profile: true
 ---
  
-### 01/2019- : [DopikAI Lab](https://dopikai.com/)
+<!-- ### 01/2019- : [DopikAI Lab](https://dopikai.com/)
 
 <span style="color:blue">[**DopikAI Lab**](https://dopikai.com/)</span> est un labo de recherche spécialisée en AI appliqué.
 
-+ Fondateur
++ Fondateur -->
 
 
 ### 01/2016-04/2019 : [BrickIn'Up](/administratives/101-bup/)
@@ -26,7 +26,7 @@ Un Startup Insurtech en Allemande.
 
 + Advisor
 
-### 04/2019- : SotaTek, Vietnam
+### 04/2018- : SotaTek, Vietnam
 
 <!-- An IT Outsourcing and AI Solution company in Vietnam -->
 
