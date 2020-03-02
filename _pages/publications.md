@@ -49,7 +49,9 @@ La plupart de ces publications se trouvent également sur mon <u><a href="{{auth
 <b>Conferences:</b>
 <br/>
 <ol>{% for post in site.publications reversed %}
-      {% if post.journal != "True" %}
+      {% if post.journal%}
+        
+      {% else %}
         {% include archive-single-cv.html %}
       {% endif %}
     {% endfor %}</ol>
