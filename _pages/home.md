@@ -17,8 +17,7 @@ I'm a Computer Vision and Machine Learning researcher at the ANR S.A.I.L Lab, Un
 <!-- I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucher and prof. Salvatore Tabbone. From 11/2011 to 09/2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. In 2014, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. From 10/2014 to 04/2016, I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybric methods (deep learning and traditional image processing/computer vision techniques). From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the joint lab S.A.I.L. In this context, I work mainly on the  semi-supervised and weakly supervised learning methods.<br/>
 My research focuses on two themes: -->
 
-I obtained my Phd Computer Vision in 10/2011 under the supervisor of Prof. Jean-Marc Ogier, Prof. AUF Alain Boucher and Prof. Salvatore Tabbone. After that, I worked with Prof. Jean-Marc Ogier on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program in October, 2014. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). 
-From 2016 I focus more on the deep learning approach for the field of computer vision. I worked in the e-BDthèque team of prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybrid methods. From 09/2018, I have played a key role in developing the joint lab S.A.I.L., I lead the research related to the deep learning approach. Since then, I have been working with Prof. Jean-Christophe Burie, Prof. Arnaud Revel and Prof. Karell Bertet.
+I obtained my Phd Computer Vision in 10/2011 at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier, Prof. AUF Alain Boucher and Prof. Salvatore Tabbone. After that, I worked with Prof. Jean-Marc Ogier on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program in October, 2014. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). From 2016 I have focused more on the deep learning approach for the field of computer vision. I worked in the e-BDthèque team, led by Prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybrid methods. From 09/2018, I have played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach with Prof. Jean-Christophe Burie, Prof. Arnaud Revel and Prof. Karell Bertet.
 My research interests covers two main themes:
 
 + Multimodal indexing and retrieval for images & videos
@@ -28,7 +27,7 @@ My research interests covers two main themes:
 
 ### Professional and Community roles:
 
-Besides research work at the university, I also have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](https://www.crunchbase.com/organization/brickin-up#section-overview), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two IT outsourcing and AI solutions companies in Vietnam.
+Besides research work at the university, I also have experience in building real IT systems, especially in building AI productions. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](https://www.crunchbase.com/organization/brickin-up#section-overview), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two IT outsourcing and AI solutions companies in Vietnam.
 
 I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world, building a network of innovators worldwide, as well as boosting domestic scientific activities through seminars, workshops and international summits ([VILinks](https://www.vietnaminnovationlinks.org/)).
 
@@ -51,7 +50,7 @@ I am one of key members of the Association of Vietnamese Scientists and Experts 
 + Offices: C001, Bât. Pascal, Université de La Rochelle, France <br/>
 Phone: (+33) 5 46 45 87 62
 + Email Univ: nhu-van.nguyen @ univ-lr . fr
-+ Email AVSE-G: nhuvan.nguyen @ avseglobal . org
++ Email AVSE-Global: nhuvan.nguyen @ avseglobal . org
 
 <!-- Research projects: -->
 ---
