@@ -21,7 +21,7 @@ I obtained my Phd Computer Vision in 10/2011 at the University of La Rochelle, u
 My research interests covers two main themes:
 
 + Multimodal indexing and retrieval for images & videos
-+ Machine learning (focusing on semi-supervised and weakly supervised learning) for pattern recognition
++ Machine learning (focusing on semi-supervised and weakly supervised learning) for Pattern Recognition, and for OCR-Text error detection & correction
 
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
