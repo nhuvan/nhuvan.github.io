@@ -10,8 +10,8 @@ main:
   - title: "Activités Administratives"
     url: /administratives/
 
-  - title: "Entrepreneuriat"
-    url: /entrepreneurship/
+  - title: "Projets industriels"
+    url: /industrie/
     
   # - title: "CV"
   #   url: /cv/

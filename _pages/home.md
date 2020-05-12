@@ -56,6 +56,9 @@ Phone: (+33) 5 46 45 87 62
 ---
 
 ### News:
++ <span style="color:red">01/2020:</span> <span style="color:blue">[#Hack4Growth,](https://www.hack4growth.org/en).</span> the innovation competition, has completed its first phase. We also started an extension of #Hack4Growth - Covid Endgame As a response to the Covid-19 pandemic. This track is aimed at seeking solutions to problems caused by the pandemic.  <br/>
+
++ <span style="color:red">03/2020:</span> VILinks event is canceled due to the spread of coronavirus worldwide. <br/>
 
 + <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for <span style="color:blue">[VILinks2020](https://www.vietnaminnovationlinks.org).</span> <br/>
 We are looking for high profile innovators to speak at VILinks, the international innovation summit in VIetnam on 06-08 August 2020.
