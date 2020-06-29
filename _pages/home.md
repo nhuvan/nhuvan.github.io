@@ -37,7 +37,7 @@ I am one of key members of the Association of Vietnamese Scientists and Experts 
 <!-- L'objectif est d'obtenir une description sémantique précise des albums, des pages et des cases tant au niveau géométrique (structure des pages) que textuel (compréhension du texte) et graphique (éléments visuels)des Bande Dessiné numérisées (Comics, Mangas et Webtoons). -->
 + <b>The project eBDthèque</b>  funded by the European Regional Development Fund (FEDER), as part of the Investing for the Future iiBD.
  <!-- dans le cadre de l’Investissement d’Avenir iiBD. L’objectif est de valoriser les corpus de Bande Dessiné numérisées. -->
-+ <b>The project Post-OCR</b>  
++ <b>The project Post-OCR :</b>  Errors detection and correction in texts OCR
 <!-- la correction de textes OCR (Optical Character Recognition). Normalement, la reconnaissance de textes n’étant pas parfaite, une étape de post-traitement est nécessaire pour améliorer le texte.  -->
 + <b>The project IDEA</b>  (Images of natural Disasters from robot Exploration in urban Area) funded by the STIC-Asie program.
  <!-- se positionnait sur le thème du traitement d’images et l’extraction de contenu pour la gestion des informations collectées par des robots patrouillant dans les zones urbaines dans une situation de post-catastrophe. -->
@@ -61,6 +61,8 @@ Phone: (+33) 5 46 45 87 62
 + <span style="color:red">04/2020:</span> <span style="color:blue">[#Hack4Growth,](https://www.hack4growth.org/en).</span> the innovation competition, has completed its first phase. We also started an extension of #Hack4Growth - Covid Endgame As a response to the Covid-19 pandemic. This track is aimed at seeking solutions to problems caused by the pandemic.  <br/>
 
 + <span style="color:red">03/2020:</span> VILinks event is canceled due to the spread of coronavirus worldwide. <br/>
+
++ <span style="color:red">02/2020:</span> 1 paper accepted at JCDL2020, CORE rank A*. <br/>
 
 + <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for <span style="color:blue">[VILinks2020](https://www.vietnaminnovationlinks.org).</span> <br/>
 We are looking for high profile innovators to speak at VILinks, the international innovation summit in VIetnam on 06-08 August 2020.
