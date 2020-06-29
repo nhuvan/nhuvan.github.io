@@ -31,7 +31,7 @@ Beside research work at the university, I also have experience in building real 
 
 I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world, building a network of innovators worldwide, as well as boosting domestic scientific activities through seminars, workshops and international summits ([VILinks](https://www.vietnaminnovationlinks.org/)).
 
-### Projects:
+### Research Projects:
 
 + <b>The project SAIL (Sequential Art Image Laboratory)</b> funded by the National Research Agency (ANR).
 <!-- L'objectif est d'obtenir une description sémantique précise des albums, des pages et des cases tant au niveau géométrique (structure des pages) que textuel (compréhension du texte) et graphique (éléments visuels)des Bande Dessiné numérisées (Comics, Mangas et Webtoons). -->
