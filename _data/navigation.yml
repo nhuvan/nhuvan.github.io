@@ -4,6 +4,9 @@ main:
   - title: "Recherche"
     url: /publications/
     
+  - title: "Blog"
+    url: /blog/    
+
   - title: "Activités d'Enseignement"
     url: /teaching/
 
