@@ -45,6 +45,8 @@ I am one of key members of the Association of Vietnamese Scientists and Experts 
 
 <!-- L’idée principale était d’analyser les contenus audiovisuels et documentaires par des techniques issues de l’analyse du signal et de l’image. Ces contenus multimédia sont le résultat de l’acquisition par différentes modalités : webcam issues de tablettes ou de PC, flux vidéo issus d’un système de visio-conférence… -->
 
+### Industrial projects: <span style="color:blue">[click here](industrie)</span>
+
 ### Contact:
 
 + Offices: C001, Bât. Pascal, Université de La Rochelle, France <br/>
