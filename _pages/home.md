@@ -58,10 +58,10 @@ Phone: (+33) 5 46 45 87 62
 ---
 
 ### News:
-+ <span style="color:red">04/2020:</span> <span style="color:blue">[#Hack4Growth,](https://www.hack4growth.org/en).</span> the innovation competition, has completed its first phase. We also started an extension of #Hack4Growth - Covid Endgame As a response to the Covid-19 pandemic. This track is aimed at seeking solutions to problems caused by the pandemic.  <br/>
-
 
 + <span style="color:red">06/2020:</span> 1 article accepted at Neural Networks (Elsevier) , Q1 (IF 5.786) <br/>
+
++ <span style="color:red">04/2020:</span> <span style="color:blue">[#Hack4Growth,](https://www.hack4growth.org/en).</span> the innovation competition, has completed its first phase. We also started an extension of #Hack4Growth - Covid Endgame As a response to the Covid-19 pandemic. This track is aimed at seeking solutions to problems caused by the pandemic.  <br/>
 
 + <span style="color:red">03/2020:</span> VILinks event is canceled due to the spread of coronavirus worldwide. <br/>
 
