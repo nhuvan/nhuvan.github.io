@@ -17,7 +17,7 @@ author_profile: true
 <span style="color:blue">[**BrickIn'Up**](/administratives/101-bup/)</span> est une plateforme digitale qui apporte une réponse innovante face à la surconsommation des contenus numériques. 
 
 + Co-fondateur
-+ Directeur de Research & Innovation : Dans ce projet, je suis responsable d'une équipe Backend et travaille directement avec un prestataire Frontend. En plus, je sui en charge du développement d'un système de reconnaisance d'objets et de visages dans les images/vidéos. 
++ Directeur de Research & Innovation : Dans ce projet, je suis responsable d'une équipe Backend et travaille directement avec un prestataire Frontend. En plus, je sui en charge du développement d'un système de reconnaisance d'objets et de verification de visages dans les images/vidéos. 
 
 
 ### 01/2019- : OntimoLyd, Allemande
