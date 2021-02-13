@@ -14,6 +14,12 @@ Au cours de ma thèse, j'ai pu approfondir mes connaissances dans le domaine de 
 
 Par la suite, dans le  cadre  de  mon  premier  contrat  d’ingénieur  de  recherche (avec le prof. Jean-Marc Ogier), je me suis impliqué dans le projet PEDIVHANDI. Dans le carde de ce projet, mon objectif était d'explorer des méthodes d'indexation et de recherche multimodale de vidéos de cours. J'ai travaillé également avec différentes techniques  de traitement d'images : l'analyse de la mise en page, la séparation objets/fond, la détection de texte et de graphiques. 
 
+Je suis actuellement travaille sur l'analyse multimodal des document images. 
+
++ La recognition de personnages et des emotions dans les images de Bande Dessiné
++ L'extraction des informations structurées à partir des images de reçus 
+
+
 ### L'apprentissage automatique pour la reconnaissances de formes
 
 <!-- Le laboratoire L3i, reconnu au niveau international sur l’analyse de document, a lancé en 2011 le projet e-bdthèque dont l’objectif est de valoriser les corpus de Bande Dessiné numérisées. J'ai commencé mon deuxieme postdoc dans l'équipe BD en 04/2016 (avec le prof. Jean-Christophe Burie, prof. Arnaud Revel et prof Karell Bertet). Dans ce contexte, j'ai travaillé principalement sur la détection automatique de cases de BD, de bulles, de dialogues, du texte, des personnages, des décors et l'analyse du contenu semantique. Je construis des algorithmes d’analyse d'images se basant sur l'apprentissage profond, en les combinant avec des algorithmes de traitement d'images classique, et priotiser le contexte semi-supervisé. -->
