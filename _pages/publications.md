@@ -53,8 +53,18 @@ La plupart de ces publications se trouvent également sur mon <u><a href="{{auth
 <!-- <br>If you like the format of the preprints included here, see <u><a href="https://github.com/brenhinkeller/preprint-template.tex">preprint-template.tex</a></u> -->
 
 ---
+
+<b>Working papers (3): </b>
+<ol>
+<li>Manga-MTL: multimodal multitask transfer learning for mangas (paper submitted)</li>
+<li>Competition: Multimodal image document recognition for vietnamese receipts (paper submitted)</li>
+<li>Competition: Multimodal Emotion Recognition on Comics scenes (in progress, 113 registered participants, 17 teams on leaderboard)</li>
+</ol>
+<br/>
+
+---
 {% include base_path %}
-<b>Journals:</b>
+<b>Journals (6): </b>
 <br/>
   <ol>
     {% for post in site.publications reversed %}
@@ -65,9 +75,8 @@ La plupart de ces publications se trouvent également sur mon <u><a href="{{auth
   </ol>
 <br/>
 
-
 ---
-<b>Conferences:</b>
+<b>Conferences (20):</b>
 <br/>
 <ol>{% for post in site.publications reversed %}
       {% if post.journal%}

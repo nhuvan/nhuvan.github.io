@@ -50,7 +50,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">01/2021:</span> The <span style="color:blue">[official website](https://emoreccom.univ-lr.fr)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27884)</span> for our challenge EmoRecCom are available. !<br/>
 
-+ <span style="color:red">12/2020:</span> The <span style="color:blue">[official website](https://www.rivf2021-mc-ocr.vietnlp.com/)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/forums/24494/)</span> for our challenge MC-OCR are available. !<br/>
++ <span style="color:red">12/2020:</span> The <span style="color:blue">[official website](https://www.rivf2021-mc-ocr.vietnlp.com/)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27798)</span> for our challenge MC-OCR are available. !<br/>
 
 + <span style="color:red">11/2020:</span> Our MC-OCR (Mobile-Captured Image Document Recognition for Vietnamese Receipts) challenge proposal is accepted at RIVF2021! (A collaboration work with researchers at the Umea university, Oracle Australian, Purchease company).  <br/>
 
