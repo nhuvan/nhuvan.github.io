@@ -19,7 +19,7 @@ My research focuses on two themes: -->
 
 <!-- I obtained my Phd Computer Vision in 10/2011 at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier, Prof. AUF Alain Boucher and Prof. Salvatore Tabbone. After that, I worked with Prof. Jean-Marc Ogier on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program in October, 2014. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I worked in the e-BDthèque team, led by Prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybrid methods. From 09/2018, I have played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach with Prof. Jean-Christophe Burie, Prof. Arnaud Revel and Prof. Karell Bertet. -->
 
-I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier. After that, I worked on multimodal indexing for lecture videos, for which I was awarded with SATT sponsorship within its technology transfer program. From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon.
+I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I started to work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon.
 My research interests covers two main themes:
 + Multimodal analysis.
 + Machine learning (focusing on semi-supervised and weakly supervised learning).
@@ -28,7 +28,7 @@ My research interests covers two main themes:
 
 ### Professional and Community roles:
 
-I also have experience in building real IT systems, especially in building AI productions. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](https://www.crunchbase.com/organization/brickin-up#section-overview), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
+I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup BrickIn’Up, France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
 
 I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world.
 
@@ -48,21 +48,21 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### News:
 
-+ <span style="color:red">01/2021:</span> The <span style="color:blue">[official website](https://emoreccom.univ-lr.fr)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27884)</span> for our challenge EmoRecCom are available. !<br/>
++ <span style="color:red">01/2021:</span> The <span style="color:blue">[official website](https://emoreccom.univ-lr.fr)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27884)</span> for our challenge EmoRecCom are now available.<br/>
 
-+ <span style="color:red">12/2020:</span> The <span style="color:blue">[official website](https://www.rivf2021-mc-ocr.vietnlp.com/)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27798)</span> for our challenge MC-OCR are available. !<br/>
++ <span style="color:red">12/2020:</span> The <span style="color:blue">[official website](https://www.rivf2021-mc-ocr.vietnlp.com/)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27798)</span> for our challenge MC-OCR are now available.<br/>
 
-+ <span style="color:red">11/2020:</span> Our MC-OCR (Mobile-Captured Image Document Recognition for Vietnamese Receipts) challenge proposal is accepted at RIVF2021! (A collaboration work with researchers at the Umea university, Oracle Australian, Purchease company).  <br/>
++ <span style="color:red">11/2020:</span> Our MC-OCR (Mobile-Captured Image Document Recognition for Vietnamese Receipts) challenge proposal is accepted at  <span style="color:blue">[RIVF2021](http://fit.mta.edu.vn/rivf2021/)</span>! (A collaboration work with researchers at the Umea university, Oracle Australian, Purchease company).  <br/>
 
-+ <span style="color:red">10/2020:</span> 1 paper is accepted at MANPU @ICPR2021!<br/>
++ <span style="color:red">10/2020:</span> 1 paper is accepted at <span style="color:blue">MANPU@ICPR2021!</span><br/>
 
-+ <span style="color:red">10/2020:</span> The project DocIntel is submitted for the KC4.0 Innovation Fund of the Vietnam ministry of Science and Technology!<br/>
++ <span style="color:red">10/2020:</span> The project <span style="color:blue">DocIntel</span> is submitted for the KC4.0 Innovation Fund of the Vietnamese Ministry of Science and Technology.<br/>
 
-+ <span style="color:red">09/2020:</span> Our EmoRecCom (Multimodal Emotion Recognition on Comics scenes) challenge proposal is accepted at ICDAR2021! (A collaboration work with the research group Deep Data Mining at the Umea university, Sweden)<br/>
++ <span style="color:red">09/2020:</span> Our EmoRecCom (Multimodal Emotion Recognition on Comics scenes) challenge proposal is accepted at <span style="color:blue">[ICDAR2021!](https://icdar2021.org/)</span>  (A collaboration with <span style="color:blue">[Deep Data Mining](https://www.umu.se/en/research/groups/deep-data-mining/)</span>  research group at the Umea university, Sweden)<br/>
 
-+ <span style="color:red">06/2020:</span> 1 article accepted at Neural Networks (Elsevier) , Q1 (IF 5.786) <br/>
++ <span style="color:red">06/2020:</span> 1 article accepted at <span style="color:blue">[Neural Networks](https://www.journals.elsevier.com/neural-networks)</span> (Elsevier) , Q1 (IF 5.786) <br/>
 
-+ <span style="color:red">04/2020:</span> <span style="color:blue">[#Hack4Growth,](https://www.hack4growth.org/en).</span> the innovation competition, has completed its first phase. We also started an extension of #Hack4Growth - Covid Endgame As a response to the Covid-19 pandemic. This track is aimed at seeking solutions to problems caused by the pandemic.  <br/>
++ <span style="color:red">04/2020:</span> <span style="color:blue">[#Hack4Growth,](https://www.hack4growth.org/en).</span> the international innovation competition, has completed its first phase. We also started an extension of #Hack4Growth - Covid Endgame As a response to the Covid-19 pandemic. This track is aimed at seeking solutions to problems caused by the pandemic.  <br/>
 
 + <span style="color:red">03/2020:</span> VILinks event is canceled due to the spread of coronavirus worldwide. <br/>
 
