@@ -29,6 +29,21 @@ En pratique, je construis des algorithmes d’analyse d'images de BD se basant s
 
 Je participe également au groupe de recherche du prof. Antoine Doucet sur la détection et la correction de textes OCR (Optical Character Recognition). 
 
+### Research Projects:
+
++ <b>The project [ECLATS](http://eclats.imag.fr/) (Extraction des Contenus GéoLinguistiques d'Atlas et Analyse Spatiale)</b> funded by the National Research Agency (ANR).
++ <b>The project [SAIL](https://sail.univ-lr.fr/) (Sequential Art Image Laboratory)</b> funded by the National Research Agency (ANR).
+<!-- L'objectif est d'obtenir une description sémantique précise des albums, des pages et des cases tant au niveau géométrique (structure des pages) que textuel (compréhension du texte) et graphique (éléments visuels)des Bande Dessiné numérisées (Comics, Mangas et Webtoons). -->
++ <b>The project [eBDthèque](http://ebdtheque.univ-lr.fr/) </b>  funded by the European Regional Development Fund (FEDER), as part of the Investing for the Future iiBD.
+ <!-- dans le cadre de l’Investissement d’Avenir iiBD. L’objectif est de valoriser les corpus de Bande Dessiné numérisées. -->
++ <b>The project Post-OCR:</b>  Errors detection and correction in texts OCR. 
+<!-- la correction de textes OCR (Optical Character Recognition). Normalement, la reconnaissance de textes n’étant pas parfaite, une étape de post-traitement est nécessaire pour améliorer le texte.  -->
++ <b>The project [PEDIVHANDI](http://pedivhandi.univ-lr.fr/) </b>  (Pédagogie et Diversité des Apprenants avec Priorité au Handicap) funded by the European Regional Development Fund (FEDER).
+<!-- L’idée principale était d’analyser les contenus audiovisuels et documentaires par des techniques issues de l’analyse du signal et de l’image. Ces contenus multimédia sont le résultat de l’acquisition par différentes modalités : webcam issues de tablettes ou de PC, flux vidéo issus d’un système de visio-conférence… -->
++ <b>The project IDEA </b>  (Images of natural Disasters from robot Exploration in urban Area) funded by the STIC-Asie program.
+ <!-- se positionnait sur le thème du traitement d’images et l’extraction de contenu pour la gestion des informations collectées par des robots patrouillant dans les zones urbaines dans une situation de post-catastrophe. -->
+
+
 ## Publications 
 
 <!-- {% if author.googlescholar %} -->
