@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Vincent Nhu Van NGUYEN"
+title: "Vincent NGUYEN"
 author_profile: true
 redirect_from:
   - /news/
@@ -19,31 +19,29 @@ My research focuses on two themes: -->
 
 <!-- I obtained my Phd Computer Vision in 10/2011 at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier, Prof. AUF Alain Boucher and Prof. Salvatore Tabbone. After that, I worked with Prof. Jean-Marc Ogier on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program in October, 2014. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I worked in the e-BDthèque team, led by Prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybrid methods. From 09/2018, I have played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach with Prof. Jean-Christophe Burie, Prof. Arnaud Revel and Prof. Karell Bertet. -->
 
-I obtained my Phd Computer Vision at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier. After that, I worked on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon.
+I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier. After that, I worked on multimodal indexing for lecture videos, for which I was awarded with SATT sponsorship within its technology transfer program. From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon.
 My research interests covers two main themes:
-
 + Multimodal analysis.
-+ Machine learning (focusing on semi-supervised and weakly supervised learning) for Pattern Recognition, and for OCR-Text error detection & correction.
++ Machine learning (focusing on semi-supervised and weakly supervised learning).
 
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
 ### Professional and Community roles:
 
-Beside research work at the university, I also have experience in building real IT systems, especially in building AI productions. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](https://www.crunchbase.com/organization/brickin-up#section-overview), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
+I also have experience in building real IT systems, especially in building AI productions. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](https://www.crunchbase.com/organization/brickin-up#section-overview), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
 
 I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world.
 
-### Research Projects: <span style="color:blue">[click here](publications)</span>
+<!-- + Research Projects: <span style="color:blue">[click here](publications)</span> -->
++ Industrial projects: <span style="color:blue">[click here](industrie)</span>
 
-### Industrial projects: <span style="color:blue">[click here](industrie)</span>
-
-### Contact:
+<!-- ### Contact: -->
 <!-- 
 + Offices: C001, Bât. Pascal, Université de La Rochelle, France <br/>
 Phone: (+33) 5 46 45 87 62 -->
-+ vincent.nguyen (at) insa-lyon . fr
+<!-- + vincent.nguyen (at) insa-lyon . fr -->
 <!-- + nhu-van.nguyen (at) univ-lr . fr -->
-+ nhuvan.nguyen (at) avseglobal . org
+<!-- + nhuvan.nguyen (at) avseglobal . org -->
 
 <!-- Research projects: -->
 ---
