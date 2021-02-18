@@ -28,7 +28,7 @@ My research interests covers two main themes:
 
 ### Professional and Community roles:
 
-I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup BrickIn’Up, France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
+I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](/administratives/101-bup/), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
 
 I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world.
 
