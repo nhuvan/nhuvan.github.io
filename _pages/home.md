@@ -68,6 +68,8 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">02/2020:</span> 1 paper accepted at JCDL2020, CORE rank A*. <br/>
 
++ <span style="color:red">02/2020:</span> I obtained the (first) qualification MCF in Section 27. <br/>
+
 + <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for <span style="color:blue">[VILinks2020](https://www.vietnaminnovationlinks.org).</span> <br/>
 We are looking for high profile innovators to speak at VILinks, the international innovation summit in VIetnam on 06-08 August 2020.
 
