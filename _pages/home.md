@@ -12,7 +12,7 @@ I'm a Computer Vision and Machine Learning researcher at the ANR S.A.I.L Lab, Un
 
 --- -->
 
-### BIO:
+<!-- ### BIO: -->
 
 <!-- I completed my PhD in Computer Vision in 10/2011 under the supervisor of prof. Jean-Marc Ogier, prof. AUF Alain Boucher and prof. Salvatore Tabbone. From 11/2011 to 09/2014 I worked with prof. Jean-Marc Ogier on multimodal indexing for lecture videos. In 2014, the SATT Grand Center chose my invention (the PEDIVHANDI project) for its technology transfer program. From 10/2014 to 04/2016, I focused on this new project (employee at La SATT). From 05/2016 to 08/2018, I worked in the eBD team of prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybric methods (deep learning and traditional image processing/computer vision techniques). From 09/2018, I have been working with prof. Jean-Christophe Burie, prof. Arnaud Revel and prof Karell Bertet in the joint lab S.A.I.L. In this context, I work mainly on the  semi-supervised and weakly supervised learning methods.<br/>
 My research focuses on two themes: -->
