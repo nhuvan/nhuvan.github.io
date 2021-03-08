@@ -82,7 +82,7 @@ author:
   avatar           : "avatar.jpg"
   bio              : "Researcher <br>LIRIS, INSA Lyon<br><br>vincent.nguyen at insa-lyon. fr"
   location         : 
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=5m04JbwAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   uri              :
@@ -111,6 +111,7 @@ author:
   youtube          :
   wikipedia        :
   osf              : 
+  dblp             : "https://dblp.org/pid/20/2617.html"
   
 
 # Reading Files
