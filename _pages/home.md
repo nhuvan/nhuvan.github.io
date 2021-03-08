@@ -48,7 +48,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### News:
 
-+ <span style="color:red">03/2021:</span> An [article](https://vnexpress.net/tro-choi-quyen-luc-4243108.html) (in Vietnamese) on the power of social networks like Facebook appeared in the Opinion column of VnExpress (one of the most important media in Vietnam).<br/>
++ <span style="color:red">03/2021:</span> An <span style="color:blue">[article](https://vnexpress.net/tro-choi-quyen-luc-4243108.html)</span> (in Vietnamese) on the power of social networks like Facebook appeared in the Opinion column of VnExpress (one of the most important media in Vietnam).<br/>
 
 + <span style="color:red">01/2021:</span> The <span style="color:blue">[official website](https://emoreccom.univ-lr.fr)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27884)</span> for our challenge EmoRecCom are now available.<br/>
 
