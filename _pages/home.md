@@ -22,7 +22,7 @@ My research focuses on two themes: -->
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I started to work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon.
 My research interests covers two main themes:
 + Multimodal analysis.
-+ Machine learning (focusing on semi-supervised and weakly supervised learning).
++ Machine learning (focusing on multimodale and semi-/weakly supervised learning).
 
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 

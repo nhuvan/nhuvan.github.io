@@ -28,7 +28,7 @@ Depuis 04/2016, je suis intéréssé par la nouvelle tendance de l'apprentissage
 <!-- de Bande Dessiné numérisées : la détection automatique de cases de BD, de bulles, de dialogues, du texte, des personnages et des décors.  -->
 <!-- En pratique, je construis des algorithmes d’analyse d'images de BD se basant sur l'apprentissage profond, en les combinant avec des algorithmes de traitement d'images classique, et priotiser le contexte semi-supervisé, faiblement supervisé. -->
 
-Je focalise sur deux approaches de l'apprentissage profond. 
+Je focalise sur deux axes de l'apprentissage profond. 
 
 + L'apprentissage profond avec des données et labels incomplètes et/ou bruyantes (le contexte semi-supervisé, faiblement supervisé)
 + L'améliorer la performance des modèles IA en basant sur l'apprentissage multimodal et/ou multi-tâche
