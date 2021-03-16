@@ -24,7 +24,7 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif �
 
 <!-- Le laboratoire L3i, reconnu au niveau international sur l’analyse de document, a lancé en 2011 le projet e-bdthèque dont l’objectif est de valoriser les corpus de Bande Dessiné numérisées. J'ai commencé mon deuxieme postdoc dans l'équipe BD en 04/2016 (avec le prof. Jean-Christophe Burie, prof. Arnaud Revel et prof Karell Bertet). Dans ce contexte, j'ai travaillé principalement sur la détection automatique de cases de BD, de bulles, de dialogues, du texte, des personnages, des décors et l'analyse du contenu semantique. Je construis des algorithmes d’analyse d'images se basant sur l'apprentissage profond, en les combinant avec des algorithmes de traitement d'images classique, et priotiser le contexte semi-supervisé. -->
 
-Depuis 04/2016, je suis intéréssé par la nouvelle tendance de l'apprentissage profond. En participant au Labcom SAIL du prof. Jean-Christophe Burie et au projet ECLATS avec Pr. Véronique Eglin, je commence à me tourner vers ce nouvelle approche qui ouvrent de nouvelles opportunités pour l'analyse de images. 
+Depuis 04/2016, je suis intéréssé par la nouvelle tendance de l'apprentissage profond. En participant au Labcom SAIL du prof. Jean-Christophe Burie et au projet ECLATS avec Pr. Véronique Eglin, je commence à me tourner vers ce nouvelle approche qui ouvrent de nouvelles opportunités pour l'analyse de données. 
 <!-- de Bande Dessiné numérisées : la détection automatique de cases de BD, de bulles, de dialogues, du texte, des personnages et des décors.  -->
 <!-- En pratique, je construis des algorithmes d’analyse d'images de BD se basant sur l'apprentissage profond, en les combinant avec des algorithmes de traitement d'images classique, et priotiser le contexte semi-supervisé, faiblement supervisé. -->
 
@@ -50,11 +50,20 @@ Je focalise sur deux axes de l'apprentissage profond.
 + <b>The project IDEA </b>  (Images of natural Disasters from robot Exploration in urban Area) funded by the STIC-Asie program.
  <!-- se positionnait sur le thème du traitement d’images et l’extraction de contenu pour la gestion des informations collectées par des robots patrouillant dans les zones urbaines dans une situation de post-catastrophe. -->
 
+<!-- ### Collaborations externes:
++ Pr. Antoine Doucet, Dr. Mikael Coustaty, Dr. Hai Nguyen (Université de La Rochelle, France)
++ Pr. Adam Jatowt (Kyoto University; Japan)
++ Pr. Huan Nguyen (Middlesex University)
++ Dr. Lili Jiang, Dr. Son Vu (Deep Data Mining group, Umeå University, Sweden)
++ Dr. Thanh Vu (Oracle, Australia)
++ Dr. Anh Bui (Purchease company)
++ Dr. Minh-Son Dao (NICT, Japan)
++ Dr. Kien Dao (MICA Institute, Vietnam) -->
 
 ## Publications 
 
 <!-- {% if author.googlescholar %} -->
-La plupart de ces publications se trouvent également sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u>
+<!-- La plupart de ces publications se trouvent également sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u> -->
 <!-- {% endif %} -->
 
 <!-- <br>If you like the format of the preprints included here, see <u><a href="https://github.com/brenhinkeller/preprint-template.tex">preprint-template.tex</a></u> -->
