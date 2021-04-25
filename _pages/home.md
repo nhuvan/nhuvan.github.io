@@ -48,6 +48,8 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### News:
 
++ <span style="color:red">04/2021:</span> Our team L3IRIS has won the Task 1, the flagship task of the <span style="color:blue">[ ICDAR 2021 Competition on Historical Map Segmentation](https://icdar21-mapseg.github.io/)</span>. We will release the prediction code with the pre-trained model of our method soon on [here](https://gitlab.univ-lr.fr/nnguye02/weakbiseg)<br/>
+
 + <span style="color:red">03/2021:</span> An <span style="color:blue">[article](https://vnexpress.net/tro-choi-quyen-luc-4243108.html)</span> (in Vietnamese) on the power of social networks like Facebook appeared in the Opinion column of VnExpress (one of the most important media in Vietnam).<br/>
 
 + <span style="color:red">01/2021:</span> The <span style="color:blue">[official website](https://emoreccom.univ-lr.fr)</span> and <span style="color:blue">[Codalab site](https://competitions.codalab.org/competitions/27884)</span> for our challenge EmoRecCom are now available.<br/>
