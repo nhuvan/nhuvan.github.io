@@ -26,7 +26,7 @@ Un Startup Insurtech en Allemande.
 
 + Advisor: Dans ce projet, je suis en charge de l’analyse d'algorithmes pour la détection et la reconnaissance d’objets dans les images d’assurance (voiture, maison). J'ai aidé les ingénieurs à mettre en œuvre ce système d'IA
 
-### 04/2018- : <span style="color:blue">[SotaTek](https://sotatek.com/)</span>, Vietnam
+### 04/2018- : <span style="color:blue">[DopikAI](https://dopikai.com/)</span>, Vietnam
 
 <!-- An IT Outsourcing and AI Solution company in Vietnam -->
 
