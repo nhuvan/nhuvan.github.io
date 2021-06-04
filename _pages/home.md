@@ -18,8 +18,11 @@ I'm a Computer Vision and Machine Learning researcher at the ANR S.A.I.L Lab, Un
 My research focuses on two themes: -->
 
 <!-- I obtained my Phd Computer Vision in 10/2011 at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier, Prof. AUF Alain Boucher and Prof. Salvatore Tabbone. After that, I worked with Prof. Jean-Marc Ogier on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program in October, 2014. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I worked in the e-BDthèque team, led by Prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybrid methods. From 09/2018, I have played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach with Prof. Jean-Christophe Burie, Prof. Arnaud Revel and Prof. Karell Bertet. -->
+<!-- 
+I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I started to work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon. -->
 
-I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I started to work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon.
+I am currently working at INSA-Lyon, France.
+
 My research interests covers two main themes:
 + Multimodal analysis.
 + Machine learning (focusing on multimodale and semi-/weakly supervised learning).
@@ -28,7 +31,7 @@ My research interests covers two main themes:
 
 ### Professional and Community roles:
 
-I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](/administratives/101-bup/), France) and as an advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
+I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](/administratives/101-bup/), France) and as an AI advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
 
 I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world.
 
@@ -48,6 +51,8 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### News:
 
++ <span style="color:red">05/2021:</span> Two papers accepted at ICDAR2021, CORE rank A.<br/>
+
 + <span style="color:red">04/2021:</span> Our team L3IRIS has won the Task 1, the flagship task of the <span style="color:blue">[ ICDAR 2021 Competition on Historical Map Segmentation](https://icdar21-mapseg.github.io/)</span>. We will release the prediction code with the pre-trained model of our method soon on [here](https://gitlab.univ-lr.fr/nnguye02/weakbiseg)<br/>
 
 + <span style="color:red">03/2021:</span> An <span style="color:blue">[article](https://vnexpress.net/tro-choi-quyen-luc-4243108.html)</span> (in Vietnamese) on the power of social networks like Facebook appeared in the Opinion column of VnExpress (one of the most important media in Vietnam).<br/>
@@ -60,7 +65,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">10/2020:</span> 1 paper is accepted at <span style="color:blue">MANPU@ICPR2021!</span><br/>
 
-+ <span style="color:red">10/2020:</span> The project <span style="color:blue">DocIntel</span> is submitted for the KC4.0 Innovation Fund of the Vietnamese Ministry of Science and Technology.<br/>
+<!-- + <span style="color:red">10/2020:</span> The project <span style="color:blue">DocIntel</span> is submitted for the KC4.0 Innovation Fund of the Vietnamese Ministry of Science and Technology.<br/> -->
 
 + <span style="color:red">09/2020:</span> Our EmoRecCom (Multimodal Emotion Recognition on Comics scenes) challenge proposal is accepted at <span style="color:blue">[ICDAR2021!](https://icdar2021.org/)</span>  (A collaboration with <span style="color:blue">[Deep Data Mining](https://www.umu.se/en/research/groups/deep-data-mining/)</span>  research group at the Umea university, Sweden)<br/>
 
@@ -72,7 +77,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">02/2020:</span> 1 paper accepted at JCDL2020, CORE rank A*. <br/>
 
-+ <span style="color:red">02/2020:</span> I obtained <span style="color:blue">my (first) qualification MCF in Section 27.</span> <br/>
+<!-- + <span style="color:red">02/2020:</span> I obtained <span style="color:blue">my (first) qualification MCF in Section 27.</span> <br/> -->
 
 + <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for <span style="color:blue">[VILinks2020](https://www.vietnaminnovationlinks.org).</span> <br/>
 We are looking for high profile innovators to speak at VILinks, the international innovation summit in VIetnam on 06-08 August 2020.
