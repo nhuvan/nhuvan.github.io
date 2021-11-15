@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- Welcome to my website.<br/>
-I'm a Computer Vision and Machine Learning researcher at the ANR S.A.I.L Lab, University of La Rochelle.
+I'm a Computer Vision and Machine Learning researcher/lecturer at the LIFO Lab, University of Orléans.
 
 --- -->
 
@@ -19,9 +19,9 @@ My research focuses on two themes: -->
 
 <!-- I obtained my Phd Computer Vision in 10/2011 at the University of La Rochelle, under the supervisor of Prof. Jean-Marc Ogier, Prof. AUF Alain Boucher and Prof. Salvatore Tabbone. After that, I worked with Prof. Jean-Marc Ogier on multimodal indexing for lecture videos for PEDIVHANDI project, for which I was awarded with SATT sponsorship within its technology transfer program in October, 2014. Our lecture videos indexing system from PEDIVHANDI project is protected by the APP (https://www.app.asso.fr/en). From 2016 I have focused more on the deep learning approach for the field of computer vision and document analysis. I worked in the e-BDthèque team, led by Prof. Jean-Christophe Burie, doing research on the comic book images analysis using hybrid methods. From 09/2018, I have played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach with Prof. Jean-Christophe Burie, Prof. Arnaud Revel and Prof. Karell Bertet. -->
 <!-- 
-I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 10/2020, I started to work with Prof. Véronique Eglin at the lab LIRIS, UMR 5205 CNRS, INSA Lyon. -->
+I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-I am currently working at INSA-Lyon, France.
+I am currently working at the University of Orléans, France.
 
 My research interests covers two main themes:
 + Multimodal analysis.
