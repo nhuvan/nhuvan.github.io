@@ -70,13 +70,13 @@ Je focalise sur deux axes de l'apprentissage profond.
 
 ---
 
-<b>Working papers (3): </b>
+<!-- <b>Working papers (3): </b>
 <ol>
 <li>Manga-MTL: multimodal multitask transfer learning for mangas (paper submitted)</li>
 <li>Competition: Multimodal image document recognition for vietnamese receipts (paper accepted)</li>
 <li>Competition: Multimodal Emotion Recognition on Comics scenes (in progress, 113 registered participants, 17 teams on leaderboard)</li>
 </ol>
-<br/>
+<br/> -->
 
 ---
 {% include base_path %}
