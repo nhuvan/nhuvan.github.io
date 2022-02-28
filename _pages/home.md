@@ -21,7 +21,7 @@ My research focuses on two themes: -->
 <!-- 
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-I am currently working at the University of Orléans, France.
+I am an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). 
 
 My research interests covers two main themes:
 + Multimodal analysis.
@@ -33,7 +33,7 @@ My research interests covers two main themes:
 
 I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](/administratives/101-bup/), France) and as an AI advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
 
-I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world.
+<!-- I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world. -->
 
 <!-- + Research Projects: <span style="color:blue">[click here](publications)</span> -->
 + Industrial projects: <span style="color:blue">[click here](industrie)</span>
@@ -50,6 +50,12 @@ Phone: (+33) 5 46 45 87 62 -->
 ---
 
 ### News:
+
++ <span style="color:red">02/2022:</span> I am looking for 1 post-doc in auto/weakly supervised learning and 2 interns in Computer Vision and/or Machine Learning.<br/>
+
++ <span style="color:red">12/2021:</span> Our project ROV-Chasseur is accepted (Project ANR Astrid 2021 on Robotic).<br/>
+
++ <span style="color:red">09/2021:</span> Since 09/2021 I started to work as associate professor at the [University of Orléans](https://www.univ-orleans.fr/fr).<br/>
 
 + <span style="color:red">05/2021:</span> Two papers accepted at ICDAR2021, CORE rank A.<br/>
 
