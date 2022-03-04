@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Vincent Nguyen"
+name                     : &name "Vincent NGUYEN"
 description              : &description "intelligence artificielle, computer vision, machine learning, document image analysis, image processing"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
