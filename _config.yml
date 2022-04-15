@@ -75,7 +75,6 @@ analytics:
   google:
     tracking_id          : "UA-69427901-2"
 
-
 # Site Author
 author:
   name             : "Vincent NGUYEN"
@@ -274,7 +273,6 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
