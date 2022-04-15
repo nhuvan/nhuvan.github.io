@@ -51,7 +51,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### News:
 
-+ <span style="color:red">02/2022:</span> I am looking for 1 post-doc in auto/weakly supervised learning and 2 interns in Computer Vision and/or Machine Learning.<br/>
++ <span style="color:red">03/2022:</span> I am looking for 1 post-doc in auto/weakly supervised learning and 2 interns in Computer Vision and/or Machine Learning.<br/>
 
 + <span style="color:red">12/2021:</span> Our project ROV-Chasseur is accepted (Project ANR Astrid 2021 on Robotic).<br/>
 
