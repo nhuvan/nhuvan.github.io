@@ -26,12 +26,13 @@ Un Startup Insurtech en Allemande.
 
 + Advisor: Dans ce projet, je suis en charge de l’analyse d'algorithmes pour la détection et la reconnaissance d’objets dans les images d’assurance (voiture, maison). J'ai aidé les ingénieurs à mettre en œuvre ce système d'IA
 
-### 04/2018- : <span style="color:blue">[DopikAI](https://dopikai.com/)</span>, Vietnam
+### 2018 - 2020 : <span style="color:blue">[DopikAI](https://dopikai.com/)</span>, Vietnam
 
 <!-- An IT Outsourcing and AI Solution company in Vietnam -->
 
 Une société d'externalisation informatique et de solutions d'IA au Vietnam
 
++ Advisor
 + Système de gestion de personnels : Il s'agit d'un projet de vision par ordinateur qui compose de plusieurs composants : l'OCR, l'analyse de texte post-OCR, la détection/segmentation d'objets.
 + Système de la caractérisation des visages (pour la beauté): la détection de visages, la classification des types de la peau, la détection/segmentation des objets sur le visage : acnés, pores, taches, rides, etc.
 + Dans ces deux projets IA, j'ai participé à des étapes importantes comme :
