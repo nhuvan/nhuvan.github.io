@@ -20,11 +20,11 @@ author_profile: true
 + Directeur de Research & Innovation : Dans ce projet, je suis responsable d'une équipe Backend et travaille directement avec un prestataire Frontend. En plus, je sui en charge du développement d'un système de reconnaisance d'objets et de verification de visages dans les images/vidéos. 
 
 
-### 01/2019- : OntimoLyd, Allemande
+### 2019 - 2020: OntimoLyd, Allemande
 
 Un Startup Insurtech en Allemande.
 
-+ Advisor: Dans ce projet, je suis en charge de l’analyse d'algorithmes pour la détection et la reconnaissance d’objets dans les images d’assurance (voiture, maison). J'ai aidé les ingénieurs à mettre en œuvre ce système d'IA
++ AI Advisor: Dans ce starup, je suis en charge de l’analyse d'algorithmes pour la détection et la reconnaissance d’objets dans les images d’assurance (voiture, maison). J'ai aidé les ingénieurs à mettre en œuvre ce système d'IA
 
 ### 2018 - 2020 : <span style="color:blue">[DopikAI](https://dopikai.com/)</span>, Vietnam
 
@@ -32,7 +32,7 @@ Un Startup Insurtech en Allemande.
 
 Une société d'externalisation informatique et de solutions d'IA au Vietnam
 
-+ Advisor
++ AI Advisor
 + Système de gestion de personnels : Il s'agit d'un projet de vision par ordinateur qui compose de plusieurs composants : l'OCR, l'analyse de texte post-OCR, la détection/segmentation d'objets.
 + Système de la caractérisation des visages (pour la beauté): la détection de visages, la classification des types de la peau, la détection/segmentation des objets sur le visage : acnés, pores, taches, rides, etc.
 + Dans ces deux projets IA, j'ai participé à des étapes importantes comme :
@@ -46,4 +46,4 @@ Une société d'externalisation informatique et de solutions d'IA au Vietnam
 Ho Guom Group Joint Stock Company est spécialisée dans la fabrication et la transformation de vêtements pour l'exportation vers les principaux marchés du monde.
 De plus, Ho Guom Group propose également d'autres produits et services: Immobilier, éducation, service informatique
 
-+ Advisor: J'ai participé à la construction des stratégies technologiques de l'organisation.
++ Technology Advisor: J'ai participé à la construction des stratégies technologiques de l'organisation.
