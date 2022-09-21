@@ -25,7 +25,7 @@ I am an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orlean
 
 My research interests covers two main themes:
 + Multimodal analysis.
-+ Machine learning (focusing on multimodale and semi-/weakly supervised learning).
++ Machine learning (focusing on multimodal and semi-/weakly supervised learning).
 
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
@@ -50,6 +50,8 @@ Phone: (+33) 5 46 45 87 62 -->
 ---
 
 ### News:
+
++ <span style="color:red">05/2022:</span>Our project ACHS (Detection of anomalies in the streaming of health data from smartphone sensors) is selected for the Scientific Cooperation program of the French Embassy in Vietnam<br/>
 
 + <span style="color:red">03/2022:</span> I am looking for 1 post-doc in auto/weakly supervised learning and 2 interns in Computer Vision and/or Machine Learning.<br/>
 
@@ -112,6 +114,6 @@ We are looking for high profile innovators to speak at VILinks, the internationa
 
 + <span style="color:red">05/2018:</span> 1 oral paper accepted at the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Core rank A*
 
-+ <span style="color:red">03/2018:</span> 1 journal paper accepted at J. Imaging (MDPI).
+<!-- + <span style="color:red">03/2018:</span> 1 journal paper accepted at J. Imaging (MDPI). -->
 
 ---
