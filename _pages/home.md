@@ -53,7 +53,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">05/2022:</span>Our project ACHS (Detection of anomalies in the streaming of health data from smartphone sensors) is selected for the Scientific Cooperation program of the French Embassy in Vietnam<br/>
 
-+ <span style="color:red">03/2022:</span> I am looking for 1 post-doc in auto/weakly supervised learning and 2 interns in Computer Vision and/or Machine Learning.<br/>
++ <span style="color:red">03/2022:</span> I am looking for 2 post-docs, in self/semi supervised learning and in efficient deep models, and 2 interns in Computer Vision and/or Machine Learning.<br/>
 
 + <span style="color:red">12/2021:</span> Our project ROV-Chasseur is accepted (Project ANR Astrid 2021 on Robotic). This project focuses on the self- and semi-supervised learning approach and the design of efficient deep models based on the compression of deep neural networks.<br/>
 
