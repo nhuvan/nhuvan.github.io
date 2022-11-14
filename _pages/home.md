@@ -21,7 +21,7 @@ My research focuses on two themes: -->
 <!-- 
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-I am an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). 
+Since 09/2021, I am an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). 
 
 My research interests covers two main themes:
 + Multimodal analysis.
@@ -55,7 +55,7 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">03/2022:</span> I am looking for 1 post-doc in auto/weakly supervised learning and 2 interns in Computer Vision and/or Machine Learning.<br/>
 
-+ <span style="color:red">12/2021:</span> Our project ROV-Chasseur is accepted (Project ANR Astrid 2021 on Robotic).<br/>
++ <span style="color:red">12/2021:</span> Our project ROV-Chasseur is accepted (Project ANR Astrid 2021 on Robotic). This project focuses on the self- and semi-supervised learning approach and the design of efficient deep models based on the compression of deep neural networks.<br/>
 
 + <span style="color:red">09/2021:</span> Since 09/2021 I started to work as associate professor at the [University of Orléans](https://www.univ-orleans.fr/fr).<br/>
 
