@@ -51,7 +51,11 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### News:
 
-+ <span style="color:red">05/2022:</span>Our project ACHS (Detection of anomalies in the streaming of health data from smartphone sensors) is selected for the Scientific Cooperation program of the French Embassy in Vietnam<br/>
++ <span style="color:red">01/2023:</span> We have 3 PhD positions and 3 internship positions in Machine Learning. Please contact us for more information<br/>
+
++ <span style="color:red">10/2022:</span>Our project APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) is accepted by the Region Centre-Val-de-Loire, France.<br/>
+
++ <span style="color:red">05/2022:</span>Our project ACHS (Detection of anomalies in the streaming of health data from smartphone sensors) is selected for the Scientific Cooperation program of the French Embassy in Vietnam.<br/>
 
 + <span style="color:red">03/2022:</span> I am looking for 2 post-docs, in self/semi supervised learning and in efficient deep models, and 2 interns in Computer Vision and/or Machine Learning.<br/>
 
