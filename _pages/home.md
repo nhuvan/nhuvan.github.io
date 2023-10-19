@@ -25,9 +25,32 @@ Since 09/2021, I am an associate professor at [l'IUT](https://www.univ-orleans.f
 
 My research interests covers two main themes:
 + Multimodal analysis.
-+ Machine learning (focusing on multimodal and semi-/weakly supervised learning).
++ Machine learning (focusing on semi-/weakly supervised learning and incremental learning).
 
+I'm the Director of studies of the second year of bachelor's degree.
+<!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
+
+### Research Grants: 
+
++ 2023-2026: grant CIFRE with [IMPACT](https://sas-impact.fr/en/)
++ 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (Co-PI)
++ 2022-2023 : ACHS: a scientific collaboration projet of the French Embassy in Vietnam on medical data analysis (PI) 
++ 2015-2016 : eDuc: a technology transfer project funded by the SATT Grand Center on lecture videos indexing (PI)
+
+### Research activities
+
++ Sep 2023: Organizing a special session at CBMI2023: Cross-modal multimedia analysis and retrieval for well-being insights. Session Chair.
++ Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications
++ PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MANPU2020, MMM2019, MANPU2017
+
+## PhD students / Postdocs
+
++ Rim Rahali, postdoc of the project ROV-Chasseur, 2022-2025.
++ Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  [Aladine Chatouni](http://aladine-chetouani.com)
++ Trung-Anh Dang, "Continual learning", co-supervisor with [Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)
++ Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with [Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/) and [Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)
+
 
 ### Professional and Community roles:
 
@@ -49,7 +72,7 @@ Phone: (+33) 5 46 45 87 62 -->
 <!-- Research projects: -->
 ---
 
-### News:
+### past announcements:
 
 + <span style="color:red">01/2023:</span> We have 3 PhD positions and 3 internship positions in Machine Learning. Please contact us for more information<br/>
 
