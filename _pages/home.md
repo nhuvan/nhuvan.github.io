@@ -21,19 +21,19 @@ My research focuses on two themes: -->
 <!-- 
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-Since 09/2021, I am an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). 
+Since 09/2021, I am an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). I'm the Director of studies of the second year of bachelor's degree.
 
 My research interests covers two main themes:
 + Multimodal analysis.
 + Machine learning (focusing on semi-/weakly supervised learning and incremental learning).
 
-I'm the Director of studies of the second year of bachelor's degree.
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
 ### Research Grants: 
 
-+ 2023-2026: grant CIFRE with [IMPACT](https://sas-impact.fr/en/)
++ 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
++ 2023-2026: APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) funded by the Region Centre-Val-de-Loire, France.
 + 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (Co-PI)
 + 2022-2023 : ACHS: a scientific collaboration projet of the French Embassy in Vietnam on medical data analysis (PI) 
 + 2015-2016 : eDuc: a technology transfer project funded by the SATT Grand Center on lecture videos indexing (PI)
@@ -47,9 +47,9 @@ I'm the Director of studies of the second year of bachelor's degree.
 ## PhD students / Postdocs
 
 + Rim Rahali, postdoc of the project ROV-Chasseur, 2022-2025.
-+ Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  [Aladine Chatouni](http://aladine-chetouani.com)
-+ Trung-Anh Dang, "Continual learning", co-supervisor with [Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)
-+ Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with [Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/) and [Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)
++ Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
++ Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
++ Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span>
 
 
 ### Professional and Community roles:
