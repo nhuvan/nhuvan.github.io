@@ -14,36 +14,25 @@ author_profile: true
 
 ### 01/2016-04/2019 : [BrickIn'Up](/administratives/101-bup/)
 
-<span style="color:blue">[**BrickIn'Up**](/administratives/101-bup/)</span> est une plateforme digitale qui apporte une réponse innovante face à la surconsommation des contenus numériques. 
+<span style="color:blue">[**BrickIn'Up**](/administratives/101-bup/)</span> is a plateform that brings an innovative response to the overconsumption of digital content. It is a collaborative platform that allows users to create, share and consume content in a new way.
 
-+ Co-fondateur
-+ Directeur de Research & Innovation : Dans ce projet, je suis responsable d'une équipe Backend et travaille directement avec un prestataire Frontend. En plus, je sui en charge du développement d'un système de reconnaisance d'objets et de verification de visages dans les images/vidéos. 
++ Co-founder
++ R&D director : In this project, I am responsible for a Backend team and work directly with a Frontend provider. In addition, I am in charge of developing an object recognition system and face verification in images/videos.
 
 
 ### 2019 - 2020: OntimoLyd, Allemande
 
-Un Startup Insurtech en Allemande.
-
-+ AI Advisor: Dans ce starup, je suis en charge de l’analyse d'algorithmes pour la détection et la reconnaissance d’objets dans les images d’assurance (voiture, maison). J'ai aidé les ingénieurs à mettre en œuvre ce système d'IA
+AI Advisor of OntimoLyd, a startup Insurtech in Germany. 
 
 ### 2018 - 2020 : <span style="color:blue">[DopikAI](https://dopikai.com/)</span>, Vietnam
 
 <!-- An IT Outsourcing and AI Solution company in Vietnam -->
 
-Une société d'externalisation informatique et de solutions d'IA au Vietnam
-
-+ AI Advisor
-+ Système de gestion de personnels : Il s'agit d'un projet de vision par ordinateur qui compose de plusieurs composants : l'OCR, l'analyse de texte post-OCR, la détection/segmentation d'objets.
-+ Système de la caractérisation des visages (pour la beauté): la détection de visages, la classification des types de la peau, la détection/segmentation des objets sur le visage : acnés, pores, taches, rides, etc.
-+ Dans ces deux projets IA, j'ai participé à des étapes importantes comme :
-    + Definition le protocole de récupération de données et de gestion de données. 
-    + Sélection, implementation et entrainement les models utilisés dans les composants IA.
-    + Conception de l'architecture global du système.
-    + Conception de l'architecture micro-services pour les composants IA.
-
+AI Advisor of DopikAI, a company that provides IT outsourcing and AI solutions in Vietnam
+<!-- 
 ### 01/2018- : <span style="color:blue">[HoGuom group](http://hoguomgroup.com/)</span>, Vietnam
 
 Ho Guom Group Joint Stock Company est spécialisée dans la fabrication et la transformation de vêtements pour l'exportation vers les principaux marchés du monde.
 De plus, Ho Guom Group propose également d'autres produits et services: Immobilier, éducation, service informatique
 
-+ Technology Advisor: J'ai participé à la construction des stratégies technologiques de l'organisation.
++ Technology Advisor: J'ai participé à la construction des stratégies technologiques de l'organisation. -->

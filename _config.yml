@@ -183,9 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  administratives:
-    output: true
-    permalink: /:collection/:path/
+  # administratives:
+  #   output: true
+  #   permalink: /:collection/:path/
   blog:
     output: true
     permalink: /:collection/:path/
