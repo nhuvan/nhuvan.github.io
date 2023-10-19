@@ -10,8 +10,8 @@ main:
   - title: "Activités d'Enseignement"
     url: /teaching/
 
-  - title: "Activités Administratives"
-    url: /administratives/
+  # - title: "Activités Administratives"
+  #   url: /administratives/
 
   - title: "Projets industriels"
     url: /industrie/
