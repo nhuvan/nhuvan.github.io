@@ -44,7 +44,7 @@ My research interests covers two main themes:
 + Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications
 + PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MANPU2020, MMM2019, MANPU2017
 
-## PhD students / Postdocs
+### PhD students / Postdocs
 
 + Rim Rahali, postdoc of the project ROV-Chasseur, 2022-2025.
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
