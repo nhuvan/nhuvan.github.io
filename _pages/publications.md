@@ -61,7 +61,7 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif Ã
 + Dr. Minh-Son Dao (NICT, Japan)
 + Dr. Kien Dao (MICA Institute, Vietnam) -->
 
-## Publications 
+<!-- ## Publications  -->
 
 <!-- {% if author.googlescholar %} -->
 <!-- La plupart de ces publications se trouvent Ã©galement sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u> -->
@@ -79,7 +79,7 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif Ã
 </ol>
 <br/> -->
 
----
+<!-- --- -->
 {% include base_path %}
 <b>Journals (6): </b>
 <br/>
