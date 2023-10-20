@@ -34,31 +34,22 @@ My research interests covers two main themes:
 ### Research Grants: 
 
 + 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
-
 + 2023-2026: APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) funded by the Region Centre-Val-de-Loire, France.
-
 + 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (Co-PI)
-
 + 2022-2023 : ACHS: a scientific collaboration projet of the French Embassy in Vietnam on medical data analysis (PI) 
-
 + 2015-2016 : eDuc: a technology transfer project funded by the SATT Grand Center on lecture videos indexing (PI)
 
 ### Research activities
 
 + Sep 2023: Organizing a special session at CBMI2023: Cross-modal multimedia analysis and retrieval for well-being insights. Session Chair.
-
 + Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications
-
 + PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MANPU2020, MMM2019, MANPU2017
 
 ### PhD students / Postdocs
 
 + Rim Rahali, postdoc of the project ROV-Chasseur, 2022-2025.
-
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
-
 + Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
-
 + Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span>
 
 
