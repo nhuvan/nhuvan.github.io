@@ -24,23 +24,23 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
 h2 {
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 h3 {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 h4 {
-  font-size: $type-size-7;
+  font-size: $type-size-6;
 }
 
 h5 {
-  font-size: $type-size-7;
+  font-size: $type-size-6;
 }
 
 h6 {
@@ -53,7 +53,7 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 u,
@@ -63,6 +63,7 @@ ins {
   a {
     color: inherit;
   }
+  font-size: $type-size-5;
 }
 
 del a {
@@ -74,7 +75,7 @@ del a {
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 /* abbreviations */
@@ -161,11 +162,13 @@ hr {
 ul li,
 ol li {
   margin-bottom: 0.5em;
+  font-size: $type-size-5;
 }
 
 li ul,
 li ol {
   margin-top: 0.5em;
+  font-size: $type-size-5;
 }
 
 /*
