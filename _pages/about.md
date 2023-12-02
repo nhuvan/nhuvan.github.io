@@ -8,5 +8,4 @@ redirect_from:
 ---
 Welcome to my website.
 
-I'm a Computer Vision and Machine Learning researcher at the ANR S.A.I.L Lab, University of La Rochelle.
 
