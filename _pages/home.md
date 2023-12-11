@@ -33,6 +33,8 @@ My research interests cover two main themes:
 
 <span style="color:red">10/2023:</span> 1 paper accepted at EMNLP 2023. A collaboration work with researchers at the DopikAI lab.<br/>
 
+<span style="color:red">7/2023:</span> 1 paper accepted at CBMI 2023.<br/>
+
 ### Research Grants: 
 
 + 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
