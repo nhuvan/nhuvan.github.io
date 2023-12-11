@@ -31,6 +31,8 @@ My research interests cover two main themes:
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
+<span style="color:red">10/2023:</span> 1 paper accepted at EMNLP 2023. A collaboration work with researchers at the DopikAI lab.<br/>
+
 ### Research Grants: 
 
 + 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
@@ -78,9 +80,9 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">01/2023:</span> We have 3 PhD positions and 3 internship positions in Machine Learning. Please contact us for more information<br/>
 
-+ <span style="color:red">10/2022:</span>Our project APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) is accepted by the Region Centre-Val-de-Loire, France.<br/>
++ <span style="color:red">10/2022:</span> Our project APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) is accepted by the Region Centre-Val-de-Loire, France.<br/>
 
-+ <span style="color:red">05/2022:</span>Our project ACHS (Detection of anomalies in the streaming of health data from smartphone sensors) is selected for the Scientific Cooperation program of the French Embassy in Vietnam.<br/>
++ <span style="color:red">05/2022:</span> Our project ACHS (Detection of anomalies in the streaming of health data from smartphone sensors) is selected for the Scientific Cooperation program of the French Embassy in Vietnam.<br/>
 
 + <span style="color:red">03/2022:</span> I am looking for 2 post-docs, in self/semi supervised learning and in efficient deep models, and 2 interns in Computer Vision and/or Machine Learning.<br/>
 
