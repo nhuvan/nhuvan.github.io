@@ -23,10 +23,11 @@ I obtained my Phd in Computer Vision at the University of La Rochelle, under the
 
 Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). I'm the Director of studies of the second year of bachelor's degree.
 
-My research interests cover two main themes:
+My research interests cover several  themes:
 
 + Multimodal analysis.
-+ Machine learning (focusing on weakly supervised learning and incremental learning).
++ Weakly supervised learning
++ Incremental learning.
 
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
