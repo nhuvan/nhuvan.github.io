@@ -29,6 +29,7 @@ AI Advisor of OntimoLyd, a startup Insurtech in Germany.
 <!-- An IT Outsourcing and AI Solution company in Vietnam -->
 
 AI Advisor of DopikAI, a company that provides IT outsourcing and AI solutions in Vietnam
+
 <!-- 
 ### 01/2018- : <span style="color:blue">[HoGuom group](http://hoguomgroup.com/)</span>, Vietnam
 
