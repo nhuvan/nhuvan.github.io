@@ -48,7 +48,7 @@ My research interests cover several  themes:
 
 + Sep 2023: Organizing a special session at CBMI2023: Cross-modal multimedia analysis and retrieval for well-being insights. Session Chair.
 + Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications
-+ PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MANPU2020, MMM2019, MANPU2017
++ PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MMM2019
 
 ### PhD students / Postdocs
 
