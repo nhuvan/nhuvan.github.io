@@ -32,7 +32,7 @@ My research interests cover several  themes:
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
-<span style="color:red">10/2023:</span> 1 paper on non-English LLM accepted at EMNLP 2023. A collaboration work with researchers at the DopikAI lab.<br/>
+<span style="color:red">10/2023:</span> 1 paper on non-English LLM accepted at EMNLP 2023. A collaboration work with researchers at the WASP Media & Language Arena and the DopikAI lab.<br/>
 
 <span style="color:red">7/2023:</span> 1 paper accepted at CBMI 2023.<br/>
 
