@@ -66,8 +66,9 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif Ã
 <!-- {% if author.googlescholar %} -->
 <!-- La plupart de ces publications se trouvent Ã©galement sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u> -->
 <!-- {% endif %} -->
-<u><a href="{{author.googlescholar}}">GoogleScholar</a></u>
-<u><a href="{{author.dblp}}">DBLP</a></u>
+
+<u><a href="https://scholar.google.fr/citations?hl=fr&user=5m04JbwAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a></u>
+<u><a href="https://dblp.org/pid/20/2617.html">DBLP</a></u>
 
 
 <!-- <br>If you like the format of the preprints included here, see <u><a href="https://github.com/brenhinkeller/preprint-template.tex">preprint-template.tex</a></u> -->
