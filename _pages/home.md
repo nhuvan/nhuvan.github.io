@@ -32,9 +32,9 @@ My research interests cover several  themes:
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
-<span style="color:red">10/2023:</span> 1 paper on non-English LLM accepted at EMNLP 2023. A collaboration work with researchers at the WASP Media & Language Arena and the DopikAI lab.<br/>
+<span style="color:red">11/2024:</span> 1 papers on PU learning accepted at SAC 2025.<br/>
 
-<span style="color:red">7/2023:</span> 1 paper accepted at CBMI 2023.<br/>
+<span style="color:red">10/2024:</span> 1 paper on Continual learning accepted at WACV 2024.<br/>
 
 ### Research Grants: 
 
@@ -55,7 +55,8 @@ My research interests cover several  themes:
 + Rim Rahali, postdoc of the project ROV-Chasseur, 2022-2025.
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
 + Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
-+ Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span>
++ Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span> and <span style="color:blue">[Hugo Breillard - BRGM](https://www.brgm.fr/en)</span>
++ Huy Thong Bui, bourse France Excellence Eiffel, "Federated learning", co-supervisor with <span style="color:blue">[Son VU](https://www.etis-lab.fr/2022/01/13/son-vu/)</span>
 
 
 ### Professional and Community roles:
@@ -80,6 +81,10 @@ Phone: (+33) 5 46 45 87 62 -->
 ---
 
 ### past announcements:
+
++ <span style="color:red">10/2023:</span> 1 paper on non-English LLM accepted at EMNLP 2023. A collaboration work with researchers at the WASP Media & Language Arena and the DopikAI lab.<br/>
+
++ <span style="color:red">7/2023:</span> 1 paper accepted at CBMI 2023.<br/>
 
 + <span style="color:red">01/2023:</span> We have 3 PhD positions and 3 internship positions in Machine Learning. Please contact us for more information<br/>
 
