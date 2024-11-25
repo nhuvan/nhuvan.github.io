@@ -48,11 +48,12 @@ My research interests cover several  themes:
 
 + Sep 2023: Organizing a special session at CBMI2023: Cross-modal multimedia analysis and retrieval for well-being insights. Session Chair.
 + Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications
-+ PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MMM2019
+<!-- + PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MMM2019 -->
 
 ### PhD students / Postdocs
 
-+ Rim Rahali, postdoc of the project ROV-Chasseur, 2022-2025.
++ Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2024-2025.
++ Rim Rahali, postdoc of the project ROV-Chasseur, 2023-2025.
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
 + Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
 + Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span> and <span style="color:blue">[Hugo Breillard - BRGM](https://www.brgm.fr/en)</span>
