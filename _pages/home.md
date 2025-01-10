@@ -32,9 +32,9 @@ My research interests cover several  themes:
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
-<span style="color:red">01/2025:</span> 1 papers on semi-supervised learning accepted at VISAPP 2025.<br/>
+<span style="color:red">01/2025:</span> 1 paper on semi-supervised learning accepted at VISAPP 2025.<br/>
 
-<span style="color:red">11/2024:</span> 1 papers on PU learning accepted at SAC 2025.<br/>
+<span style="color:red">11/2024:</span> 1 paper on PU learning accepted at SAC 2025.<br/>
 
 <span style="color:red">10/2024:</span> 1 paper on Continual learning accepted at WACV 2024.<br/>
 
