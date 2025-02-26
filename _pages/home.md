@@ -32,7 +32,7 @@ My research interests cover several  themes:
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
-<span style="color:red">01/2025:</span> 1 article on efficient models accepted in the journal Pattern Analysis and Applications.<br/>
+<span style="color:red">02/2025:</span> 1 article on efficient models accepted in the journal Pattern Analysis and Applications.<br/>
 
 <span style="color:red">01/2025:</span> 1 paper on semi-supervised learning accepted at VISAPP 2025.<br/>
 
