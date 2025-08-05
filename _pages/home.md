@@ -25,9 +25,9 @@ Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-or
 
 My research interests cover several  themes:
 
-+ Multimodal analysis.
-+ Weakly supervised learning
-+ Incremental learning.
++ Incremental / Continual learning.
++ Weakly supervised learning.
++ Robust AI
 
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
