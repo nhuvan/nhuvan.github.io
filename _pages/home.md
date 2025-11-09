@@ -36,7 +36,7 @@ My research interests cover several  themes:
 
 ### Research Grants: 
 
-+ 2026-2029 : ANR EnACA project on AI-based multimodal understanding of comics, manga, and related art forms. The research focuses on generalizable instance segmentation under visual style and domain shif (PI). 
++ 2026-2029 : ANR EnACA project on AI-based multimodal understanding of comics, manga, and related art forms. The research focuses on generalizable instance segmentation under visual style and domain shift (PI). 
 + 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
 + 2023-2026: APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) funded by the Region Centre-Val-de-Loire, France.
 + 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (PI)
