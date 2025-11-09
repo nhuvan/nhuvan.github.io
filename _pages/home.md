@@ -32,19 +32,14 @@ My research interests cover several  themes:
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
-<span style="color:red">02/2025:</span> 1 article on efficient models accepted in the journal Pattern Analysis and Applications.<br/>
-
-<span style="color:red">01/2025:</span> 1 paper on semi-supervised learning accepted at VISAPP 2025.<br/>
-
-<span style="color:red">11/2024:</span> 1 paper on PU learning accepted at SAC 2025.<br/>
-
-<span style="color:red">10/2024:</span> 1 paper on Continual learning accepted at WACV 2024.<br/>
+<span style="color:red">08/2025:</span> Our project ANR PRC EnACA is accepted. <br/>
 
 ### Research Grants: 
 
++ 2026-2029 : ANR EnACA project on AI-based multimodal understanding of comics, manga, and related art forms. The research focuses on generalizable instance segmentation under visual style and domain shif (PI). 
 + 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
 + 2023-2026: APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) funded by the Region Centre-Val-de-Loire, France.
-+ 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (Co-PI)
++ 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (PI)
 + 2022-2023 : ACHS: a scientific collaboration projet of the French Embassy in Vietnam on medical data analysis (PI) 
 + 2015-2016 : eDuc: a technology transfer project funded by the SATT Grand Center on lecture videos indexing (PI)
 
@@ -86,6 +81,14 @@ Phone: (+33) 5 46 45 87 62 -->
 ---
 
 ### past announcements:
+
++ <span style="color:red">02/2025:</span> 1 article on efficient models accepted in the journal Pattern Analysis and Applications.<br/>
+
++ <span style="color:red">01/2025:</span> 1 paper on semi-supervised learning accepted at VISAPP 2025.<br/>
+
++ <span style="color:red">11/2024:</span> 1 paper on PU learning accepted at SAC 2025.<br/>
+
++ <span style="color:red">10/2024:</span> 1 paper on Continual learning accepted at WACV 2024.<br/>
 
 + <span style="color:red">10/2023:</span> 1 paper on non-English LLM accepted at EMNLP 2023. A collaboration work with researchers at the WASP Media & Language Arena and the DopikAI lab.<br/>
 
