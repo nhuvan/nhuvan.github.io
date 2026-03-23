@@ -43,15 +43,15 @@ My research interests cover several  themes:
 + 2022-2023 : ACHS: a scientific collaboration projet of the French Embassy in Vietnam on medical data analysis (PI) 
 + 2015-2016 : eDuc: a technology transfer project funded by the SATT Grand Center on lecture videos indexing (PI)
 
-### Research activities
+<!-- ### Research activities
 
 + Sep 2023: Organizing a special session at CBMI2023: Cross-modal multimedia analysis and retrieval for well-being insights. Session Chair.
-+ Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications
++ Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications -->
 <!-- + PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MMM2019 -->
 
 ### PhD students / Postdocs
 
-+ Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2024-2025.
++ Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2025-2026.
 + Rim Rahali, postdoc of the project ROV-Chasseur, 2023-2025.
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
 + Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
@@ -59,15 +59,15 @@ My research interests cover several  themes:
 + Huy Thong Bui, bourse France Excellence Eiffel, "Federated learning", co-supervisor with <span style="color:blue">[Son VU](https://www.etis-lab.fr/2022/01/13/son-vu/)</span>
 
 
-### Professional and Community roles:
+<!-- ### Professional and Community roles:
 
-I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](/administratives/101-bup/), France) and as an AI advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam.
+I am experienced in building real IT systems, especially in building AI products. I have experience as an entrepreneur (co-founder of the startup [BrickIn'Up](/administratives/101-bup/), France) and as an AI advisor for companies worldwide, including an insurtech AI Startup in Germany, two AI solutions companies in Vietnam. -->
 
 <!-- I am one of key members of the Association of Vietnamese Scientists and Experts ([AVSE Global](http://www.avseglobal.org/)), headquartered in Paris. I have contributed to organizing innovative events gathering Vietnamese excellences all over the world. -->
 
 <!-- + Research Projects: <span style="color:blue">[click here](publications)</span> -->
 
-+ Industrial projects: <span style="color:blue">[click here](industrie)</span>
+<!-- + Industrial projects: <span style="color:blue">[click here](industrie)</span> -->
 
 <!-- ### Contact: -->
 <!-- 
@@ -82,6 +82,15 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### past announcements:
 
++ <span style="color:red">12/2025:</span> 1 article on knowledge distillation for lightweight LLMs in sentiment analysis is accepted in LREC 2026.<br/>
+
++ <span style="color:red">11/2025:</span> 1 article on semi-supervised object detection accepted in the journal Multimedia Tools and Applications.<br/>
+
++ <span style="color:red">10/2025:</span>
+Our research on water resources, particularly groundwater time-series prediction using physics-informed neural networks (PINNs), has appeared in [9e édition de la Réunion des Sciences de la Terre 2025](https://rst-montpellier.sciencesconf.org/) and in [Congrès Eau et IA 2026](https://congreseau-ia.com/)<br/>
+
++ <span style="color:red">09/2025:</span> Looking for 2 interns in Computer Vision and Machine Learning, 1 experienced researcher on domain adaptation segmentation [link](https://www.univ-orleans.fr/fr/univ/universite/travailler-luniversite/personnels-chercheurs-contractuels-et-post-doctorants/offres). <br/>
+
 + <span style="color:red">02/2025:</span> 1 article on efficient models accepted in the journal Pattern Analysis and Applications.<br/>
 
 + <span style="color:red">01/2025:</span> 1 paper on semi-supervised learning accepted at VISAPP 2025.<br/>
@@ -89,7 +98,7 @@ Phone: (+33) 5 46 45 87 62 -->
 + <span style="color:red">11/2024:</span> 1 paper on PU learning accepted at SAC 2025.<br/>
 
 + <span style="color:red">10/2024:</span> 1 paper on Continual learning accepted at WACV 2024.<br/>
-
+<!-- 
 + <span style="color:red">10/2023:</span> 1 paper on non-English LLM accepted at EMNLP 2023. A collaboration work with researchers at the WASP Media & Language Arena and the DopikAI lab.<br/>
 
 + <span style="color:red">7/2023:</span> 1 paper accepted at CBMI 2023.<br/>
@@ -118,10 +127,10 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">11/2020:</span> Our MC-OCR (Mobile-Captured Image Document Recognition for Vietnamese Receipts) challenge proposal is accepted at  <span style="color:blue">[RIVF2021](http://fit.mta.edu.vn/rivf2021/)</span>! (A collaboration work with researchers at the Umea university, Oracle Australian, Purchease company).  <br/>
 
-+ <span style="color:red">10/2020:</span> 1 paper is accepted at <span style="color:blue">MANPU@ICPR2021!</span><br/>
++ <span style="color:red">10/2020:</span> 1 paper is accepted at <span style="color:blue">MANPU@ICPR2021!</span><br/> -->
 
 <!-- + <span style="color:red">10/2020:</span> The project <span style="color:blue">DocIntel</span> is submitted for the KC4.0 Innovation Fund of the Vietnamese Ministry of Science and Technology.<br/> -->
-
+<!-- 
 + <span style="color:red">09/2020:</span> Our EmoRecCom (Multimodal Emotion Recognition on Comics scenes) challenge proposal is accepted at <span style="color:blue">[ICDAR2021!](https://icdar2021.org/)</span>  (A collaboration with <span style="color:blue">[Deep Data Mining](https://www.umu.se/en/research/groups/deep-data-mining/)</span>  research group at the Umea university, Sweden)<br/>
 
 + <span style="color:red">06/2020:</span> 1 article accepted at <span style="color:blue">[Neural Networks](https://www.journals.elsevier.com/neural-networks)</span> (Elsevier) , Q1 (IF 5.786) <br/>
@@ -130,21 +139,21 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">03/2020:</span> VILinks event is canceled due to the spread of coronavirus worldwide. <br/>
 
-+ <span style="color:red">02/2020:</span> 1 paper accepted at JCDL2020, CORE rank A*. <br/>
++ <span style="color:red">02/2020:</span> 1 paper accepted at JCDL2020, CORE rank A*. <br/> -->
 
 <!-- + <span style="color:red">02/2020:</span> I obtained <span style="color:blue">my (first) qualification MCF in Section 27.</span> <br/> -->
-
+<!-- 
 + <span style="color:red">01/2020:</span> Sending out invitations for speakers and sponsors for <span style="color:blue">[VILinks2020](https://www.vietnaminnovationlinks.org).</span> <br/>
 We are looking for high profile innovators to speak at VILinks, the international innovation summit in VIetnam on 06-08 August 2020.
 
-+ <span style="color:red">12/2019:</span> Looking for 2 interns in Computer Vision and Machine Learning, 1 PhD student on comic book image analysis.
++ <span style="color:red">12/2019:</span> Looking for 2 interns in Computer Vision and Machine Learning, 1 PhD student on comic book image analysis. -->
 
 <!-- + <span style="color:red">10/2019:</span> Vietnam trip -->
 
-+ <span style="color:red">09/2019:</span> 2 journal papers accepted at IJDAR (Q2). Conference trip to ICDAR2019 at Sydney, Australia.
+<!-- + <span style="color:red">09/2019:</span> 2 journal papers accepted at IJDAR (Q2). Conference trip to ICDAR2019 at Sydney, Australia. -->
 
 <!-- + <span style="color:red">05/2019:</span> www.brickinup.com is shutdown. -->
-
+<!-- 
 + <span style="color:red">04/2019:</span> 4 papers accepted at ICDAR2019, CORE rank A. (1 oral, 1 poster and 2 workshops papers).
 
 + <span style="color:red">03/2019:</span> Participation the [Vietnam Global Leaders Forum](https://www.vietnamgloballeaders.org) at Paris, France
@@ -159,7 +168,7 @@ We are looking for high profile innovators to speak at VILinks, the internationa
 
 + <span style="color:red">08/2018:</span> 1 oral paper accepted at the International Conference on Asian Digital Libraries, CORE rank A.
 
-+ <span style="color:red">05/2018:</span> 1 oral paper accepted at the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Core rank A*
++ <span style="color:red">05/2018:</span> 1 oral paper accepted at the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Core rank A* -->
 
 <!-- + <span style="color:red">03/2018:</span> 1 journal paper accepted at J. Imaging (MDPI). -->
 
