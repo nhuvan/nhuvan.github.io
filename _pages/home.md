@@ -27,7 +27,7 @@ My research interests cover several  themes:
 
 + Incremental / Continual learning.
 + Weakly supervised learning.
-+ Robust AI
++ Document image analysis and understanding
 
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
