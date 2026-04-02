@@ -85,14 +85,14 @@ Phone: (+33) 5 46 45 87 62 -->
 
 + <span style="color:red">01/2026:</span> 1 article on knowledge distillation for lightweight LLMs in sentiment analysis is accepted in LREC 2026.<br/>
 
-+ <span style="color:red">12/2025:</span> Recipient of the RIPEC bonus for excellence in academic activities and professional commitment. <br/>
++ <span style="color:red">12/2025:</span> 1 article on semi-supervised object detection accepted in the journal Multimedia Tools and Applications.<br/>
 
-+ <span style="color:red">11/2025:</span> 1 article on semi-supervised object detection accepted in the journal Multimedia Tools and Applications.<br/>
++ <span style="color:red">11/2025:</span> Recipient of the RIPEC bonus for excellence in academic activities and professional commitment. <br/>
 
 + <span style="color:red">10/2025:</span>
 Our research on water resources, particularly groundwater time-series prediction using physics-informed neural networks (PINNs), has appeared in [9e édition de la Réunion des Sciences de la Terre 2025](https://rst-montpellier.sciencesconf.org/) and in [Congrès Eau et IA 2026](https://congreseau-ia.com/)<br/>
 
-+ <span style="color:red">09/2025:</span> Looking for 2 interns in Computer Vision and Machine Learning, 1 experienced researcher on domain adaptation segmentation [link](https://www.univ-orleans.fr/fr/univ/universite/travailler-luniversite/personnels-chercheurs-contractuels-et-post-doctorants/offres). <br/>
++ <span style="color:red">09/2025:</span> Project ANR PRC EnACA: Looking for 2 interns in Computer Vision and Machine Learning, 1 experienced researcher on domain adaptation segmentation [link](https://www.univ-orleans.fr/fr/univ/universite/travailler-luniversite/personnels-chercheurs-contractuels-et-post-doctorants/offres). <br/>
 
 + <span style="color:red">08/2025:</span> Our project ANR PRC EnACA is accepted. <br/>
 
