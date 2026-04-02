@@ -81,7 +81,11 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### past announcements:
 
-+ <span style="color:red">12/2025:</span> 1 article on knowledge distillation for lightweight LLMs in sentiment analysis is accepted in LREC 2026.<br/>
++ <span style="color:red">03/2026:</span> 1 article on geometric and structure constraints for continual learning is accepted in Machine Learning journal.<br/>
+
++ <span style="color:red">01/2026:</span> 1 article on knowledge distillation for lightweight LLMs in sentiment analysis is accepted in LREC 2026.<br/>
+
++ <span style="color:red">12/2025:</span> Recipient of the RIPEC bonus for excellence in academic activities and professional commitment. <br/>
 
 + <span style="color:red">11/2025:</span> 1 article on semi-supervised object detection accepted in the journal Multimedia Tools and Applications.<br/>
 
