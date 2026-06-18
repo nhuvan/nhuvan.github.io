@@ -81,6 +81,8 @@ Phone: (+33) 5 46 45 87 62 -->
 
 ### past announcements:
 
++ <span style="color:red">05/2026:</span> 1 article on PU learning is accepted at ECML PKDD 2026.<br/>
+
 + <span style="color:red">03/2026:</span> 1 article on geometric and structure constraints for continual learning is accepted in Machine Learning journal.<br/>
 
 + <span style="color:red">01/2026:</span> 1 article on knowledge distillation for lightweight LLMs in sentiment analysis is accepted in LREC 2026.<br/>
