@@ -23,11 +23,15 @@ I obtained my Phd in Computer Vision at the University of La Rochelle, under the
 
 Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). I'm the Director of studies of the second year of bachelor's degree.
 
-My research interests cover several  themes:
+My research explores how machine learning models can **learn with limited supervision, adapt over time, and remain robust under distribution shifts and adversarial conditions**. A central theme is **representation learning and model evolution**: how representations are acquired, adapted, and maintained as tasks, data distributions, and learning environments change. I study these questions across different but closely related settings, notably **continual learning and federated learning**, which share challenges involving adaptation, representation drift, and robustness.
 
-+ Incremental / Continual learning.
-+ Weakly supervised learning.
-+ Document image analysis and understanding
+My work focuses on three complementary directions:
+
++ **Learning from limited or imperfect supervision:** weakly supervised, semi-supervised, self-supervised, and positive-unlabeled learning.
++ **Representation learning and adaptation:** continual and incremental learning, distribution and representation shifts, and model evolution across centralized and federated settings.
++ **Robustness, generalization, and security:** learning reliable representations under domain shifts and adversarial conditions, including attacks and defense mechanisms in federated learning.
+
+These research directions are explored in computer vision and document image analysis and understanding, particularly comics and manga, as well as robotic vision.
 
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
