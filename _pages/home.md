@@ -31,8 +31,6 @@ My work focuses on three complementary directions:
 + **Representation learning and adaptation:** continual and incremental learning, distribution and representation shifts, and model evolution across centralized and federated settings.
 + **Robustness, generalization, and security:** learning reliable representations under domain shifts and adversarial conditions, including attacks and defense mechanisms in federated learning.
 
-These research directions are explored in computer vision and document image analysis and understanding, particularly comics and manga, as well as robotic vision.
-
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
