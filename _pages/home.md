@@ -48,14 +48,22 @@ My research interests cover several  themes:
 + Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications -->
 <!-- + PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MMM2019 -->
 
-### PhD students / Postdocs
+### Postdoctoral Researchers
 
-+ Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2025-2026.
-+ Rim Rahali, postdoc of the project ROV-Chasseur, 2023-2025.
++ [Hoàng-Ân Lê](https://lhoangan.github.io/about/), postdoctoral researcher, ANR EnACA project, 2026–2028.
+
+### PhD Students
+
++ Alexandre Jaud, PhD student in the ANR EnACA project, co-supervised with Jean-Christophe Burie (L3i, La Rochelle Université).
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
 + Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
 + Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span> and <span style="color:blue">[Hugo Breillard - BRGM](https://www.brgm.fr/en)</span>
 + Huy Thong Bui, bourse France Excellence Eiffel, "Federated learning", co-supervisor with <span style="color:blue">[Son VU](https://www.etis-lab.fr/2022/01/13/son-vu/)</span>
+
+### Former Postdoctoral Researchers
+
++ Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2025-2026.
++ Rim Rahali, postdoc of the project ROV-Chasseur, 2023-2025.
 
 
 <!-- ### Professional and Community roles:
@@ -80,6 +88,10 @@ Phone: (+33) 5 46 45 87 62 -->
 ---
 
 ### past announcements:
+
++ <span style="color:red">10/2026:</span> Our paper on rehearsal-free continual learning with a single shared prompt is accepted at WACV 2027.<br/>
+
++ <span style="color:red">09/2026:</span> Our paper [CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction](https://arxiv.org/abs/2608.26868) was presented at the 3rd Workshop on Neural SLAM (NeuSLAM), ECCV 2026.<br/>
 
 + <span style="color:red">05/2026:</span> 1 article on PU learning is accepted at ECML PKDD 2026.<br/>
 

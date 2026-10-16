@@ -85,7 +85,16 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif Ã
 
 <!-- --- -->
 {% include base_path %}
-<b>Journals (6): </b>
+{% assign journal_count = 0 %}
+{% assign conference_count = 0 %}
+{% for pub in site.publications %}
+  {% if pub.journal %}
+    {% assign journal_count = journal_count | plus: 1 %}
+  {% else %}
+    {% assign conference_count = conference_count | plus: 1 %}
+  {% endif %}
+{% endfor %}
+<b>Journals ({{ journal_count }}): </b>
 <br/>
   <ol>
     {% for post in site.publications reversed %}
@@ -97,7 +106,7 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif Ã
 <br/>
 
 ---
-<b>Conferences (20):</b>
+<b>Conferences ({{ conference_count }}):</b>
 <br/>
 <ol>{% for post in site.publications reversed %}
       {% if post.journal%}
