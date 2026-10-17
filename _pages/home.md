@@ -21,7 +21,7 @@ My research focuses on two themes: -->
 <!-- 
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). I'm the Director of studies of the second year of bachelor's degree.
+Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). From 2023 to 2025, I served as Director of Studies for second-year Computer Science students at IUT Orléans.
 
 My research explores how machine learning models can **learn with limited supervision, adapt over time, and remain robust under distribution shifts and adversarial conditions**. A central theme is **representation learning and model evolution**: how representations are acquired, adapted, and maintained as tasks, data distributions, and learning environments change. I study these questions across different but closely related settings, notably **continual learning and federated learning**, which share challenges involving adaptation, representation drift, and robustness.
 
@@ -92,6 +92,8 @@ Phone: (+33) 5 46 45 87 62 -->
 ### past announcements:
 
 + <span style="color:red">10/2026:</span> Our paper on rehearsal-free continual learning with a single shared prompt is accepted at WACV 2027.<br/>
+
++ <span style="color:red">09/2026:</span> The University of Orléans and the Posts and Telecommunications Institute of Technology (PTIT, Vietnam) signed an academic cooperation agreement on September 11, 2026. I helped initiate and coordinate this partnership to foster joint research, academic exchanges, doctoral co-supervision, and the development of a potential double-degree Master's program.<br/>
 
 + <span style="color:red">09/2026:</span> Our paper [CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction](https://arxiv.org/abs/2608.26868) was presented at the 3rd Workshop on Neural SLAM (NeuSLAM), ECCV 2026.<br/>
 
