@@ -23,13 +23,13 @@ I obtained my Phd in Computer Vision at the University of La Rochelle, under the
 
 Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). From 2023 to 2025, I served as Director of Studies for second-year Computer Science students at IUT Orléans.
 
-My research explores how machine learning models can **learn with limited supervision, adapt over time, and remain robust under distribution shifts and adversarial conditions**. A central theme is **representation learning and model evolution**: how representations are acquired, adapted, and maintained as tasks, data distributions, and learning environments change. I study these questions across different but closely related settings, notably **continual learning and federated learning**, which share challenges involving adaptation, representation drift, and robustness.
+My research focuses on **learning from limited supervision and adapting machine learning models to changing conditions**. I am particularly interested in how learned representations evolve when models are updated, and how these changes affect their performance and reliability.
 
-My work focuses on three complementary directions:
+I study these questions in different settings, including continual learning and federated learning, with a focus on:
 
-+ **Learning from limited or imperfect supervision:** weakly supervised, semi-supervised, self-supervised, and positive-unlabeled learning.
-+ **Representation learning and adaptation:** continual and incremental learning, distribution and representation shifts, and model evolution across centralized and federated settings.
-+ **Robustness, generalization, and security:** learning reliable representations under domain shifts and adversarial conditions, including attacks and defense mechanisms in federated learning.
++ **Learning with limited labels:** weakly supervised, semi-supervised, self-supervised, and positive-unlabeled learning.
++ **Representation learning and adaptation:** continual and incremental learning, representation drift, and adaptation to new tasks and data distributions.
++ **Robustness and security:** model reliability under distribution shifts, including backdoor attacks and defenses in federated learning.
 
 <!--  -->
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
