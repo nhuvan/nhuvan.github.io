@@ -28,7 +28,7 @@ My research focuses on **learning from limited supervision and adapting machine 
 I study these questions in different settings, including continual learning and federated learning, with a focus on:
 
 + **Learning with limited labels:** weakly supervised, semi-supervised, self-supervised, and positive-unlabeled learning.
-+ **Representation learning and adaptation:** continual and incremental learning, representation drift, and adaptation to new tasks and data distributions.
++ **Representation learning and adaptation:** continual learning, representation drift, and adaptation to new tasks and data distributions.
 + **Robustness and security:** model reliability under distribution shifts, including backdoor attacks and defenses in federated learning.
 
 <!--  -->
