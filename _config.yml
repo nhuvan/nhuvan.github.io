@@ -71,9 +71,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "custom" # GA4, loaded only after visitor consent
   google:
-    tracking_id          : "UA-69427901-2"
+    tracking_id          : "G-F2VFYRT3P6"
 
 # Site Author
 author:
