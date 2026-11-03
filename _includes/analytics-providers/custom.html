@@ -1,3 +1,141 @@
-<!-- start custom analytics snippet -->
+{% if site.analytics.google.tracking_id %}
+<!-- GA4 loads only after a visitor opts in to analytics. -->
+<style>
+  #analytics-consent-banner {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 1rem 1.25rem;
+    background: #fff;
+    color: #222;
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, .15);
+    z-index: 10000;
+    font-size: .85rem;
+    line-height: 1.5;
+  }
+  #analytics-consent-banner[hidden] { display: none !important; }
+  #analytics-consent-banner p { margin: 0 0 .75rem; }
+  #analytics-consent-banner .analytics-consent-actions { display: flex; gap: .65rem; flex-wrap: wrap; }
+  #analytics-consent-banner button {
+    padding: .35rem .9rem;
+    font: inherit;
+    color: #222;
+    background: #f5f5f5;
+    border: 1px solid #777;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #analytics-consent-banner button:hover { background: #e7e7e7; }
+  #analytics-cookie-settings {
+    padding: 0;
+    border: 0;
+    background: none;
+    color: inherit;
+    text-decoration: underline;
+    font: inherit;
+    cursor: pointer;
+  }
+</style>
+<section id="analytics-consent-banner" aria-label="Analytics cookies" hidden>
+  <p>This website uses Google Analytics to understand site visits. Analytics runs only if you accept. You can change your choice at any time in the footer. <a href="{{ '/privacy/' | relative_url }}">Privacy information</a>.</p>
+  <div class="analytics-consent-actions">
+    <button id="analytics-consent-accept" type="button">Accept analytics</button>
+    <button id="analytics-consent-decline" type="button">Decline analytics</button>
+  </div>
+</section>
+<script>
+(function () {
+  'use strict';
+  var id = {{ site.analytics.google.tracking_id | jsonify }};
+  var key = 'nhuvan-analytics-consent-v1';
+  var lifetime = 180 * 24 * 60 * 60 * 1000;
+  var banner = document.getElementById('analytics-consent-banner');
+  var settingsButton = document.getElementById('analytics-cookie-settings');
+  var started = false;
+  var previouslyAccepted = false;
 
-<!-- end custom analytics snippet -->
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+  // Basic Consent Mode v2: no Google script or requests before opt-in.
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied'
+  });
+
+  function savedChoice() {
+    try {
+      var record = JSON.parse(localStorage.getItem(key));
+      if (record && (record.value === 'accepted' || record.value === 'declined') &&
+          typeof record.date === 'number' && Date.now() - record.date < lifetime) {
+        return record.value;
+      }
+    } catch (e) { /* Storage may be unavailable in private browsing. */ }
+    return null;
+  }
+
+  function storeChoice(value) {
+    try { localStorage.setItem(key, JSON.stringify({ value: value, date: Date.now() })); }
+    catch (e) { /* The current page still respects the user's choice. */ }
+  }
+
+  function startAnalytics() {
+    if (started) return;
+    started = true;
+    window['ga-disable-' + id] = false;
+    gtag('consent', 'update', { 'analytics_storage': 'granted' });
+    gtag('js', new Date());
+    gtag('config', id, {
+      'allow_google_signals': false,
+      'allow_ad_personalization_signals': false
+    });
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id);
+    document.head.appendChild(script);
+  }
+
+  function clearAnalyticsCookies() {
+    document.cookie.split(';').forEach(function (item) {
+      var name = item.trim().split('=')[0];
+      if (!/^_ga($|_)|^_gid$|^_gat($|_)/.test(name)) return;
+      ['', '; domain=' + location.hostname, '; domain=.' + location.hostname]
+        .forEach(function (domain) {
+          document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + domain;
+        });
+    });
+  }
+
+  document.getElementById('analytics-consent-accept').addEventListener('click', function () {
+    storeChoice('accepted');
+    banner.hidden = true;
+    startAnalytics();
+  });
+
+  document.getElementById('analytics-consent-decline').addEventListener('click', function () {
+    storeChoice('declined');
+    banner.hidden = true;
+    if (started || previouslyAccepted) {
+      window['ga-disable-' + id] = true;
+      gtag('consent', 'update', { 'analytics_storage': 'denied' });
+      clearAnalyticsCookies();
+      location.reload(); // Unload the Google script after consent is withdrawn.
+    }
+  });
+
+  if (settingsButton) {
+    settingsButton.addEventListener('click', function () { banner.hidden = false; });
+  }
+  var choice = savedChoice();
+  previouslyAccepted = choice === 'accepted';
+  if (previouslyAccepted) startAnalytics();
+  else if (choice !== 'declined') banner.hidden = false;
+})();
+</script>
+{% endif %}
