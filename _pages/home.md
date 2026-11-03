@@ -44,17 +44,6 @@ My research focuses on three related directions:
 + **2022–2023:** ACHS with USTH, Vietnam. Scientific lead. Weakly supervised learning and image analysis.
 + **2015–2016:** eDuc. Technology transfer on lecture video indexing, funded by SATT Grand Centre.
 
-### Scientific activities
-
-+ Reviewer or program committee member for AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV and other conferences and journals.
-+ Organizer of special sessions at CBMI 2023 and KSE 2023.
-+ Co-organizer of the [ICDAR 2021 comics emotion recognition](https://sites.google.com/view/emotion-recognition-for-comics) and [RIVF 2021 receipt recognition](https://www.rivf2021-mc-ocr.vietnlp.com/) competitions.
-+ Member of the board of directors of [AIHub](https://aihub.ml/).
-
-### Awards
-
-+ **2021:** Winning team (L3IRIS), task 1 of the [ICDAR historical map segmentation competition](https://icdar21-mapseg.github.io/score_board/).
-
 ### Research supervision
 
 #### PhD students
