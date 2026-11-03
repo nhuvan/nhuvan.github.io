@@ -23,11 +23,9 @@ I obtained my Phd in Computer Vision at the University of La Rochelle, under the
 
 Since September 2021, I have been an associate professor at [IUT Orléans](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique), [University of Orléans](https://www.univ-orleans.fr/fr), and a member of the CA research team at [LIFO](https://www.univ-orleans.fr/lifo/). I served as director of studies for second-year computer science students from 2023 to 2026.
 
-Before joining Orléans, I completed my PhD at La Rochelle Université and worked on image retrieval, document analysis and computer vision.
+I received my PhD in computer science from La Rochelle Université in 2011. My earlier research focused mainly on computer vision and document analysis.
 
-My research focuses on **learning from limited supervision and adapting machine learning models to changing conditions**. I am particularly interested in how learned representations evolve when models are updated, and how these changes affect their performance and reliability.
-
-Most of my work has been in computer vision and document analysis, but it has also extended to structured data and to continual and federated learning. Computer vision and multimodal document analysis remain important application areas of my research.
+My current research includes machine learning with limited labeled data, continual and federated learning, and model robustness.
 
 My research focuses on three related directions:
 
