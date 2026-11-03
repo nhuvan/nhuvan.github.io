@@ -16,8 +16,8 @@ main:
   - title: "Industrial projects"
     url: /industrie/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   - title: "Misc"
     url: /misc/
