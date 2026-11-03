@@ -62,6 +62,7 @@ Director of studies for second-year students (2023–2026).
 + Reviewer or program committee member for AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV and other conferences and journals.
 + Organizer of special sessions at CBMI 2023 and KSE 2023.
 + Co-organizer of competitions at [ICDAR 2021](https://sites.google.com/view/emotion-recognition-for-comics) and [RIVF 2021](https://www.rivf2021-mc-ocr.vietnlp.com/).
++ LIFO's contact person for [GdR IASIS](https://gdr-iasis.cnrs.fr/).
 + Member of the board of directors of [AIHub](https://aihub.ml/).
 + Initiated the academic partnership between the University of Orléans and PTIT, Vietnam, and helped coordinate its development (2026).
 
