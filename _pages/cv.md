@@ -1,79 +1,70 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
 
-C. Brenhin Keller
----
-Assistant Professor, Department of Earth Sciences, Dartmouth College
-<br/><br/>
+# Vincent Nguyen
 
-Appointments
-======
-* <b>Assistant Professor</b>, Department of Earth Sciences, Dartmouth College, 2019-Present
-* <b>Visiting Scientist</b>, Lawrence Livermore National Laboratory, 2016-Present
-* <b>Postdoctoral Fellow</b>, Berkeley Geochronology Center and UC Berkeley, 2016-2019
-<br/><br/>
+Maître de conférences in computer science  
+University of Orléans, IUT Orléans and LIFO  
+[vincent.nguyen@univ-orleans.fr](mailto:vincent.nguyen@univ-orleans.fr)
 
-Education
-======
-* <b>B.S.</b> <i>summa cum laude</i>, Science of Earth Systems, Cornell University, May 2010
-  * <b>Thesis:</b> [<i>Chemical Constraints on the Origin of the Frailes Volcanic Complex in the Central Andean Altiplano Plateau, Bolivia</i>](https://doi.org/10.31237/osf.io/y6kv4)
-  * <b>Adviser:</b> [Suzanne Mahlburg Kay](https://scholar.google.com/citations?user=dPXx4dAAAAAJ&hl=en)
-* <b>M.S.</b>, Geosciences, Princeton University, May 2012
-* <b>Ph.D</b>, Geosciences, Princeton University, Nov. 2016
-  * <b>Thesis:</b> [<i>Geochemical evolution of Earth’s continental crust</i>](https://doi.org/10.31237/osf.io/q7yra)
-  * <b>Adviser:</b> [Blair Schoene](https://www.princeton.edu/geosciences/people/schoene/)
-<br/><br/>
+### Academic positions
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  <br/>
++ Since 2021: Maître de conférences, University of Orléans, France.
++ 2020–2021: Postdoctoral researcher, LIRIS, INSA Lyon, France.
++ 2016–2020: Postdoctoral researcher, LabCom SAIL, La Rochelle Université, France.
++ 2014–2016: R&D engineer, SATT Grand Centre, France.
++ 2011–2014: Postdoctoral researcher, L3i, La Rochelle Université, France.
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  <br/>
-  
-Awards
-======
-* <b>U.S. Department of Energy Computational Science Graduate Fellowship</b> 2012-2016<br/>
+### Education
 
-* <b>Princeton University Centennial Fellowship</b> 2010-2012<br/>
++ 2011: PhD in computer science, La Rochelle Université, France.
++ 2007: DEA in computer science, Institut de la Francophonie pour l'Informatique, Hanoi, Vietnam.
++ 2005: Engineering degree in computer science, Hanoi University of Science and Technology, Vietnam.
 
-* <b>Frank H.T. Rhodes Award</b> 2010<br/>
+### Research
 
-* <b>CALS Academic Excellence Award</b> 2010<br/>
+My work focuses on learning with limited supervision, representation learning and adaptation, and model robustness and security. Application areas include computer vision and document analysis.
 
-* <b>Ann S. and Robert R. Morley Student Research Grant</b> 2009
-<br/><br/>
+[Full publication list](/publications/)
 
-Field experience
-======
-* [<u>Hell Creek region, Montana. K-Pg boundary</u> 2017](/fieldwork/100-hell-creek-2017/)
-* [<u>Columbia River Plateau, Washington. Flood basalt volcanism</u> 2016](/fieldwork/101-columbia-river-2016/)
-* [<u>Needle Mountains, Colorado. Proterozoic tectonics and magmatism</u> 2012-2014](/fieldwork/105-needle-mountains-2014/)
-* [<u>Talkeetna Arc, Alaska. Lower crustal magmatism</u> 2013](/fieldwork/106-talkeetna-2013/)
-* [<u>Bergell Pluton, Central Alps, Italy. Mechanisms and timescales of pluton emplacement</u> 2011-2014](/fieldwork/109-bergell-2011/)
-* [<u>Adelaide Rift, South Australia. Neoproterozoic Earth history</u> 2010](/fieldwork/110-flinders-2010/)
-* [<u>Bolivian Altiplano. Petrology and Geochemistry of the Frailes Ignimbrite</u> 2010](/fieldwork/111-frailes-2010/)
-<br/><br/>
+### Research projects
 
-Other
-======
-* Advisory Committee member, Interdisciplinary Earth Data Alliance (IEDA)
-* Session chair, “Upper Crust Evolution: Models of Formation and Composition”, AGU Fall Meeting, 2018
-* Session chair, “Igneous Processes throughout the Arc Crustal Column and Oceanic Mantle”, Goldschmidt Conference, 2018
-* Session chair, “Recent Advances in Precambrian Geology” GSA Annual Meeting, 2017 
-* Session chair, "Resolving process through geochronology: new techniques, applications and interpretations.” AGU Fall Meeting, 2015.
++ ANR EnACA (2026–2029). Scientific lead for LIFO.
++ CIFRE with IMPACT (2023–2026). Scientific lead.
++ OPTIMEDIAS (2023–2026). Project member.
++ ANR ROV-Chasseur (2022–2025). Scientific lead for LIFO.
++ ACHS France–Vietnam collaboration (2022–2023). Scientific lead.
 
+### Research supervision
+
+Co-supervision of five PhD projects since 2023 and supervision of three postdoctoral researchers.
+
+Research topics include continual learning, weakly supervised learning, federated learning security, 3D reconstruction and comic image analysis.
+
+### Teaching
+
+Computer science teaching at IUT Orléans since 2021.
+
+Development of five courses and contribution to the ARIAS master's programme.
+
+Director of studies for second-year students (2023–2026).
+
+[Teaching activities](/teaching/)
+
+### Scientific activities
+
++ Reviewer or program committee member for AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV and other conferences and journals.
++ Organizer of special sessions at CBMI 2023 and KSE 2023.
++ Co-organizer of competitions at [ICDAR 2021](https://sites.google.com/view/emotion-recognition-for-comics) and [RIVF 2021](https://www.rivf2021-mc-ocr.vietnlp.com/).
++ Member of the board of directors of [AIHub](https://aihub.ml/).
++ Co-initiator of the academic partnership between the University of Orléans and PTIT, Vietnam (2026).
+
+### Awards
+
++ 2021: Winning team (L3IRIS), task 1 of the [ICDAR historical map segmentation competition](https://icdar21-mapseg.github.io/score_board/).

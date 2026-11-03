@@ -55,22 +55,24 @@ My research focuses on three related directions:
 
 + **2021:** Winning team (L3IRIS), task 1 of the [ICDAR historical map segmentation competition](https://icdar21-mapseg.github.io/score_board/).
 
-### Postdoctoral researchers
+### Research supervision
 
-+ [Hoàng-Ân Lê](https://lhoangan.github.io/about/), postdoctoral researcher, ANR EnACA project, 2026–2028.
+#### PhD students
 
-### PhD students
++ **Trung-Anh Dang** (since 2023). Continual learning, co-supervised with [Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/).
++ **Thi-Hai-Yen Vu** (since 2023). Semi-supervised and positive-unlabeled learning for mineral prospectivity mapping, co-supervised with [Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/), [Thi-Bich-Hanh Dao](https://www.univ-orleans.fr/lifo/membres/dao/) and [Hugo Breuillard](https://www.brgm.fr/en).
++ **Jean-Daniel de Ambrogi** (since 2023). Efficient 3D reconstruction and navigation, CIFRE with IMPACT, co-supervised with [Aladine Chetouani](http://aladine-chetouani.com).
++ **Huy-Thong Bui** (since 2024). Federated learning security, France Excellence Eiffel scholarship, co-supervised with [Ngoc-Son Vu](https://www.etis-lab.fr/2022/01/13/son-vu/).
++ **Alexandre Jaud** (since 2026). Comic narration using evolving knowledge graphs, co-supervised with Jean-Christophe Burie (La Rochelle Université).
 
-+ Alexandre Jaud, PhD student in the ANR EnACA project, co-supervised with Jean-Christophe Burie (L3i, La Rochelle Université).
-+ Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
-+ Trung-Anh Dang, "Continual learning", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span>
-+ Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span> and <span style="color:blue">[Hugo Breillard - BRGM](https://www.brgm.fr/en)</span>
-+ Huy Thong Bui, bourse France Excellence Eiffel, "Federated learning", co-supervisor with <span style="color:blue">[Son VU](https://www.etis-lab.fr/2022/01/13/son-vu/)</span>
+#### Postdoctoral researchers
 
-### Former postdoctoral researchers
++ [Hoàng-Ân Lê](https://lhoangan.github.io/about/) (since 2026). Domain adaptation for instance segmentation, ANR EnACA.
 
-+ Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2025-2026.
-+ Rim Rahali, postdoc of the project ROV-Chasseur, 2023-2025.
+#### Former postdoctoral researchers
+
++ Étienne Lehembre (2025–2026). Groundwater time-series prediction, JUNON.
++ Rim Rahali (2023–2025). Semi-supervised underwater object detection, ANR ROV-Chasseur.
 
 
 <!-- ### Professional and Community roles:
