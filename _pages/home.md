@@ -37,7 +37,7 @@ My research focuses on three related directions:
 
 ### Research projects
 
-+ **2026–2029:** [ANR EnACA](https://anr.fr/Projet-ANR-25-CE38-6411). LIFO scientific lead. Comic image analysis and domain adaptation. Coordinated by Jean-Christophe Burie (La Rochelle Université).
++ **2026–2029:** [ANR EnACA](https://anr.fr/Projet-ANR-25-CE38-6411). LIFO scientific lead. Comic image analysis and domain adaptation.
 + **2023–2026:** CIFRE with [IMPACT](https://sas-impact.fr/en/). Scientific lead. Collaborative 3D reconstruction.
 + **2023–2026:** OPTIMEDIAS. Project member. AI for healthcare data.
 + **2022–2025:** [ANR ROV-Chasseur](https://anr.fr/Projet-ANR-21-ASRO-0003). LIFO scientific lead. Weakly supervised learning for underwater robotic vision.
