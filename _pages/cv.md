@@ -63,7 +63,7 @@ Director of studies for second-year students (2023–2026).
 + Organizer of special sessions at CBMI 2023 and KSE 2023.
 + Co-organizer of competitions at [ICDAR 2021](https://sites.google.com/view/emotion-recognition-for-comics) and [RIVF 2021](https://www.rivf2021-mc-ocr.vietnlp.com/).
 + Member of the board of directors of [AIHub](https://aihub.ml/).
-+ Co-initiator of the academic partnership between the University of Orléans and PTIT, Vietnam (2026).
++ Initiated the academic partnership between the University of Orléans and PTIT, Vietnam, and helped coordinate its development (2026).
 
 ### Awards
 
