@@ -17,6 +17,7 @@ Reviewer or program committee member for conferences and journals including AAAI
 
 ### Other activities
 
++ LIFO's contact person for [GdR IASIS](https://gdr-iasis.cnrs.fr/).
 + Member of the board of directors of [AIHub](https://aihub.ml/).
 + Initiated the academic partnership between the University of Orléans and PTIT, Vietnam, and helped coordinate its development (2026).
 
