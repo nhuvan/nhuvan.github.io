@@ -21,50 +21,45 @@ My research focuses on two themes: -->
 <!-- 
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). From 2023 to 2026, I served as Director of Studies for second-year Computer Science students at IUT Orléans.
+Since September 2021, I have been an associate professor at [IUT Orléans](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique), [University of Orléans](https://www.univ-orleans.fr/fr), and a member of the CA research team at [LIFO](https://www.univ-orleans.fr/lifo/). I served as director of studies for second-year computer science students from 2023 to 2026.
 
-Before joining Orléans, I completed my PhD at La Rochelle Université in 2011 and held research positions at L3i (2011–2014), LabCom SAIL (2016–2020), and LIRIS (2020–2021). My earlier work focused on image retrieval, document analysis, and computer vision.
-
-I have also contributed to the IAPR document analysis and pattern recognition community through ICDAR publications, scientific competitions, and event organization.
+Before joining Orléans, I completed my PhD at La Rochelle Université and worked on image retrieval, document analysis and computer vision.
 
 My research focuses on **learning from limited supervision and adapting machine learning models to changing conditions**. I am particularly interested in how learned representations evolve when models are updated, and how these changes affect their performance and reliability.
 
-I study these questions in different settings, including continual learning and federated learning, with a focus on:
+Most of my work has been in computer vision and document analysis, but it has also extended to structured data and to continual and federated learning. Computer vision and multimodal document analysis remain important application areas of my research.
+
+My research focuses on three related directions:
 
 + **Learning with limited labels:** weakly supervised, semi-supervised, self-supervised, and positive-unlabeled learning.
 + **Representation learning and adaptation:** continual learning, representation drift, and adaptation to new tasks and data distributions.
 + **Robustness and security:** model reliability under distribution shifts, including backdoor attacks and defenses in federated learning.
 
-<!--  -->
-<!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
+### Research projects
 
++ **2026–2029:** [ANR EnACA](https://anr.fr/Projet-ANR-25-CE38-6411). LIFO scientific lead. Comic image analysis and domain adaptation. Coordinated by Jean-Christophe Burie (La Rochelle Université).
++ **2023–2026:** CIFRE with [IMPACT](https://sas-impact.fr/en/). Scientific lead. Collaborative 3D reconstruction.
++ **2023–2026:** OPTIMEDIAS. Project member. AI for healthcare data.
++ **2022–2025:** [ANR ROV-Chasseur](https://anr.fr/Projet-ANR-21-ASRO-0003). LIFO scientific lead. Weakly supervised learning for underwater robotic vision.
++ **2022–2023:** ACHS with USTH, Vietnam. Scientific lead. Weakly supervised learning and image analysis.
++ **2015–2016:** eDuc. Technology transfer on lecture video indexing, funded by SATT Grand Centre.
 
-### Research Projects & Scientific Responsibilities
+### Scientific activities
 
-+ **2026–2029 (LIFO participation):** [ANR PRC EnACA](https://anr.fr/Projet-ANR-25-CE38-6411) — **scientific lead for LIFO**. Comic accessibility and multimodal understanding, with research on domain adaptation for instance segmentation and narrative generation from evolving knowledge graphs. Coordinated by Jean-Christophe Burie (La Rochelle Université; overall ANR project: December 2025–November 2029).
-+ **2023–2026:** CIFRE collaboration with [IMPACT](https://sas-impact.fr/en/) — **scientific lead** for research on collaborative 3D reconstruction and efficient models.
-+ **2023–2026:** APR OPTIMEDIAS — **project member**. AI applications to healthcare data, funded by the Centre-Val de Loire Region.
-+ **2022–2025:** [ANR ASTRID ROV-Chasseur](https://anr.fr/Projet-ANR-21-ASRO-0003) — **scientific lead for LIFO**. Weakly supervised learning and efficient deep models for underwater robotic vision. The overall project was coordinated by Thanh Phuong Nguyen.
-+ **2022–2023:** ACHS France–Vietnam collaboration with the University of Science and Technology of Hanoi (USTH) — **scientific lead**. Weakly supervised learning and image analysis; supported by the French Embassy in Vietnam.
-+ **2015–2016:** eDuc — technology-transfer project on lecture video indexing, based on my earlier research and funded by SATT Grand Centre.
++ Reviewer or program committee member for AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV and other conferences and journals.
++ Organizer of special sessions at CBMI 2023 and KSE 2023.
++ Co-organizer of the ICDAR 2021 comics emotion recognition and RIVF 2021 receipt recognition competitions.
++ Member of the board of directors of [AIHub](https://aihub.ml/).
 
-### Scientific Service & Community Activities
+### Awards
 
-+ **Reviewing and program committees:** AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV, and other conferences and journals.
-+ **Scientific event organization:** Special sessions at KSE 2023 and CBMI 2023 (session chair at CBMI).
-+ **Scientific competitions:** Organization of the Multimodal Emotion Recognition on Comics Scenes challenge (ICDAR 2021) and the Mobile-Captured Image Document Recognition for Vietnamese Receipts challenge (RIVF 2021).
-+ **Community involvement:** Member of the Board of Directors of [AIHub](https://aihub.ml/).
-+ **International collaboration:** Co-initiated and co-coordinated the University of Orléans–PTIT (Vietnam) academic partnership (MoU signed September 11, 2026).
++ **2021:** Winning team (L3IRIS), task 1 of the [ICDAR historical map segmentation competition](https://icdar21-mapseg.github.io/score_board/).
 
-### Selected Recognition
-
-+ **2021:** Winner (L3IRIS team), Task 1 — Building Block Detection, [ICDAR Historical Map Segmentation Competition](https://icdar21-mapseg.github.io/score_board/).
-
-### Postdoctoral Researchers
+### Postdoctoral researchers
 
 + [Hoàng-Ân Lê](https://lhoangan.github.io/about/), postdoctoral researcher, ANR EnACA project, 2026–2028.
 
-### PhD Students
+### PhD students
 
 + Alexandre Jaud, PhD student in the ANR EnACA project, co-supervised with Jean-Christophe Burie (L3i, La Rochelle Université).
 + Jean-Daniel De-Ambrogi, "Efficient Deep Models for Indoor Reconstruction and Navigation on Mobile Devices", co-supervisor with  <span style="color:blue">[Aladine Chatouni](http://aladine-chetouani.com)</span>
@@ -72,7 +67,7 @@ I study these questions in different settings, including continual learning and 
 + Yen Vu, "Semi- and self-supervised learning with clustering using knowledge. Application to mineral potential mapping", co-supervisor with <span style="color:blue">[Christel Vrain](https://www.univ-orleans.fr/lifo/Members/vrain/)</span> and <span style="color:blue">[Bich Dao](https://www.univ-orleans.fr/lifo/membres/dao/)</span> and <span style="color:blue">[Hugo Breillard - BRGM](https://www.brgm.fr/en)</span>
 + Huy Thong Bui, bourse France Excellence Eiffel, "Federated learning", co-supervisor with <span style="color:blue">[Son VU](https://www.etis-lab.fr/2022/01/13/son-vu/)</span>
 
-### Former Postdoctoral Researchers
+### Former postdoctoral researchers
 
 + Etienne LEHEMBRE, postdoc of the project [JUNON](https://www.junon-cvl.fr/fr), 2025-2026.
 + Rim Rahali, postdoc of the project ROV-Chasseur, 2023-2025.
