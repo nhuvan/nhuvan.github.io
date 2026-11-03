@@ -1,27 +1,13 @@
-# main links links
+# Main navigation. Older pages are linked from the footer.
 main:
-
   - title: "Publications"
     url: /publications/
-    
-  - title: "Blog"
-    url: /blog/    
+
+  - title: "Scientific activities"
+    url: /#scientific-activities
 
   - title: "Teaching"
     url: /teaching/
 
-  # - title: "Activités Administratives"
-  #   url: /administratives/
-
-  - title: "Industrial projects"
-    url: /industrie/
-    
   - title: "CV"
     url: /cv/
-    
-  - title: "Misc"
-    url: /misc/
-
-  # - title: "About"
-  #   url: /about/
-    
