@@ -32,5 +32,5 @@ From 2023 to 2026, I served as director of studies for second-year students in t
 
 {% include base_path %}
 {% for post in site.teaching reversed %}
-{% include archive-single.html %}
+{% include archive-single.html no_permalink=true %}
 {% endfor %}
