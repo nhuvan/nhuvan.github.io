@@ -3,11 +3,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Scientific activities"
-    url: /#scientific-activities
-
   - title: "Teaching"
     url: /teaching/
-
-  - title: "CV"
-    url: /cv/
