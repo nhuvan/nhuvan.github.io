@@ -7,9 +7,26 @@ author_profile: true
 
 ### Teaching at the University of Orléans
 
-Since September 2021, I have taught Computer Science at IUT Orléans (University of Orléans), with more than 200 equivalent tutorial hours per year. My teaching activities have accompanied the transition from the DUT to the BUT curriculum.
+Since September 2021, I have taught computer science at IUT Orléans, mainly in the BUT programme, with more than 200 equivalent TD hours per year.
 
-I have contributed to developing five new courses, serving as the course coordinator for three and co-coordinator for two. I have also updated teaching materials and supported improvements to the department's technical teaching infrastructure. In addition, I contributed to the development of a deep learning module for the ARIAS master's program at the University of Orléans.
+I have contributed to the development of five new courses and a deep learning module for the ARIAS master's programme.
+
+### Courses
+
+Courses I coordinate:
+
++ Méthodes d'optimisation pour l'intelligence artificielle
++ Automatisation de la chaîne de production
++ Qualité de développement
+
+Courses I co-coordinate:
+
++ Virtualisation
++ Deep Learning
+
+### Academic responsibilities
+
+From 2023 to 2026, I served as director of studies for second-year students in the BUT informatique programme, coordinating teaching activities, assessments and internships.
 
 ### Previous teaching activities
 
