@@ -15,8 +15,18 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
     text-decoration: none;
+
+    &:visited {
+      color: $link-color;
+    }
+
+    &:hover,
+    &:focus {
+      color: $link-color-hover;
+      text-decoration: underline;
+    }
   }
 }
 

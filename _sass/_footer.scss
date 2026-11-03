@@ -26,10 +26,12 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
     text-decoration: none;
 
-    &:hover {
+    &:hover,
+    &:focus {
+      color: $link-color-hover;
       text-decoration: underline;
     }
   }
@@ -69,5 +71,15 @@
   a {
     padding-right: 10px;
     font-weight: bold;
+  }
+}
+.page__footer-other {
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  font-size: $type-size-6;
+
+  a {
+    display: inline-block;
+    margin-left: 0.75em;
   }
 }
