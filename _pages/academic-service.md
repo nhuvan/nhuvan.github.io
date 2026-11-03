@@ -18,7 +18,7 @@ Reviewer or program committee member for conferences and journals including AAAI
 ### Other activities
 
 + Member of the board of directors of [AIHub](https://aihub.ml/).
-+ Co-initiator of the academic partnership between the University of Orléans and PTIT, Vietnam (2026).
++ Initiated the academic partnership between the University of Orléans and PTIT, Vietnam, and helped coordinate its development (2026).
 
 ### Awards
 
