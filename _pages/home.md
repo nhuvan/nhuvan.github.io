@@ -21,7 +21,11 @@ My research focuses on two themes: -->
 <!-- 
 I obtained my Phd in Computer Vision at the University of La Rochelle, under the supervision of Prof. Jean-Marc Ogier.  I was awarded the SATT sponsorship within its technology transfer program for my work on  on multimodal indexing for lecture videos. Since 2016 I have developed my research path towards the deep learning approach for computer vision and document analysis. I played a key role in developing the joint lab S.A.I.L., leading research projects related to the deep learning approach. From 09/2021, I started to work at the lab LIFO, University of Orléans. -->
 
-Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). From 2023 to 2025, I served as Director of Studies for second-year Computer Science students at IUT Orléans.
+Since 09/2021, I have been an associate professor at [l'IUT](https://www.univ-orleans.fr/fr/iut-orleans/formation/informatique) / [University of Orléans](https://www.univ-orleans.fr/fr), France and a member of the research team CA (Constraints and Learning) of [LIFO](https://www.univ-orleans.fr/lifo/). From 2023 to 2026, I served as Director of Studies for second-year Computer Science students at IUT Orléans.
+
+Before joining Orléans, I completed my PhD at La Rochelle Université in 2011 and held research positions at L3i (2011–2014), LabCom SAIL (2016–2020), and LIRIS (2020–2021). My earlier work focused on image retrieval, document analysis, and computer vision.
+
+I have also contributed to the IAPR document analysis and pattern recognition community through ICDAR publications, scientific competitions, and event organization.
 
 My research focuses on **learning from limited supervision and adapting machine learning models to changing conditions**. I am particularly interested in how learned representations evolve when models are updated, and how these changes affect their performance and reliability.
 
@@ -35,20 +39,26 @@ I study these questions in different settings, including continual learning and 
 <!-- If you have any questions or comments, please feel free to contact me at nhu-van.nguyen (at) univ-lr . fr -->
 
 
-### Research Grants: 
+### Research Projects & Scientific Responsibilities
 
-+ 2026-2029 : ANR EnACA project on AI-based multimodal understanding of comics, manga, and related art forms. The research focuses on generalizable instance segmentation under visual style and domain shift (PI). 
-+ 2023-2026: grant CIFRE with <span style="color:blue">[IMPACT](https://sas-impact.fr/en/)</span>. (Co-PI)
-+ 2023-2026: APR Optimedias (Artificial intelligence for the benefit of precision medicine in neuropsychiatry and infectiology) funded by the Region Centre-Val-de-Loire, France.
-+ 2022-2025 : ANR ASTRID ROV-Chasseur on weakly supervised learning and efficient deep models for robotic vision. (PI)
-+ 2022-2023 : ACHS: a scientific collaboration projet of the French Embassy in Vietnam on medical data analysis (PI) 
-+ 2015-2016 : eDuc: a technology transfer project funded by the SATT Grand Center on lecture videos indexing (PI)
++ **2026–2029 (LIFO participation):** [ANR PRC EnACA](https://anr.fr/Projet-ANR-25-CE38-6411) — **scientific lead for LIFO**. Comic accessibility and multimodal understanding, with research on domain adaptation for instance segmentation and narrative generation from evolving knowledge graphs. Coordinated by Jean-Christophe Burie (La Rochelle Université; overall ANR project: December 2025–November 2029).
++ **2023–2026:** CIFRE collaboration with [IMPACT](https://sas-impact.fr/en/) — **scientific lead** for research on collaborative 3D reconstruction and efficient models.
++ **2023–2026:** APR OPTIMEDIAS — **project member**. AI applications to healthcare data, funded by the Centre-Val de Loire Region.
++ **2022–2025:** [ANR ASTRID ROV-Chasseur](https://anr.fr/Projet-ANR-21-ASRO-0003) — **scientific lead for LIFO**. Weakly supervised learning and efficient deep models for underwater robotic vision. The overall project was coordinated by Thanh Phuong Nguyen.
++ **2022–2023:** ACHS France–Vietnam collaboration with the University of Science and Technology of Hanoi (USTH) — **scientific lead**. Weakly supervised learning and image analysis; supported by the French Embassy in Vietnam.
++ **2015–2016:** eDuc — technology-transfer project on lecture video indexing, based on my earlier research and funded by SATT Grand Centre.
 
-<!-- ### Research activities
+### Scientific Service & Community Activities
 
-+ Sep 2023: Organizing a special session at CBMI2023: Cross-modal multimedia analysis and retrieval for well-being insights. Session Chair.
-+ Oct 2023: Organizing a special session at KSE2023: Multimodal Data and Multidisciplinary Applications -->
-<!-- + PC member of SoICT2023, MAPR2022, MANPU2022, ICMR 2022, MMM2019 -->
++ **Reviewing and program committees:** AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV, and other conferences and journals.
++ **Scientific event organization:** Special sessions at KSE 2023 and CBMI 2023 (session chair at CBMI).
++ **Scientific competitions:** Organization of the Multimodal Emotion Recognition on Comics Scenes challenge (ICDAR 2021) and the Mobile-Captured Image Document Recognition for Vietnamese Receipts challenge (RIVF 2021).
++ **Community involvement:** Member of the Board of Directors of [AIHub](https://aihub.ml/).
++ **International collaboration:** Co-initiated and co-coordinated the University of Orléans–PTIT (Vietnam) academic partnership (MoU signed September 11, 2026).
+
+### Selected Recognition
+
++ **2021:** Winner (L3IRIS team), Task 1 — Building Block Detection, [ICDAR Historical Map Segmentation Competition](https://icdar21-mapseg.github.io/score_board/).
 
 ### Postdoctoral Researchers
 
@@ -120,4 +130,4 @@ Our research on water resources, particularly groundwater time-series prediction
 
 + <span style="color:red">11/2024:</span> 1 paper on PU learning accepted at SAC 2025.<br/>
 
-+ <span style="color:red">10/2024:</span> 1 paper on Continual learning accepted at WACV 2024.<br/>
++ <span style="color:red">10/2024:</span> 1 paper on continual learning accepted at WACV 2025.<br/>
