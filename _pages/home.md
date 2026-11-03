@@ -48,7 +48,7 @@ My research focuses on three related directions:
 
 + Reviewer or program committee member for AAAI, CVPR, NeurIPS, ICML, IEEE TIP, ICASSP, ICDAR, WACV and other conferences and journals.
 + Organizer of special sessions at CBMI 2023 and KSE 2023.
-+ Co-organizer of the ICDAR 2021 comics emotion recognition and RIVF 2021 receipt recognition competitions.
++ Co-organizer of the [ICDAR 2021 comics emotion recognition](https://sites.google.com/view/emotion-recognition-for-comics) and [RIVF 2021 receipt recognition](https://www.rivf2021-mc-ocr.vietnlp.com/) competitions.
 + Member of the board of directors of [AIHub](https://aihub.ml/).
 
 ### Awards
