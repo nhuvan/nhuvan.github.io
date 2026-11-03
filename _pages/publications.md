@@ -101,7 +101,7 @@ Some earlier publications appear under the name Nhu-Van Nguyen.
   <ol>
     {% for post in site.publications reversed %}
       {% if post.journal %}
-        {% include archive-single-cv.html %}
+        {% include archive-single-cv.html no_permalink=true %}
       {% endif %}
     {% endfor %}
   </ol>
@@ -114,7 +114,7 @@ Some earlier publications appear under the name Nhu-Van Nguyen.
       {% if post.journal%}
         
       {% else %}
-        {% include archive-single-cv.html %}
+        {% include archive-single-cv.html no_permalink=true %}
       {% endif %}
     {% endfor %}</ol>
 <br/>
