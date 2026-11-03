@@ -70,6 +70,8 @@ Par la suite, dans le projet PEDIVHANDI avec Pr. Jean-Marc Ogier, mon objectif Ã
 <u><a href="https://scholar.google.fr/citations?hl=fr&user=5m04JbwAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a></u>
 <u><a href="https://dblp.org/pid/20/2617.html">DBLP</a></u>
 
+Some earlier publications appear under the name Nhu-Van Nguyen.
+
 
 <!-- <br>If you like the format of the preprints included here, see <u><a href="https://github.com/brenhinkeller/preprint-template.tex">preprint-template.tex</a></u> -->
 
